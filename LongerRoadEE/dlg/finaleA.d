@@ -319,12 +319,12 @@ END
 END
 
 APPEND FINBODH
-IF ~InParty("lrirenic")~ Bodhi
+IF WEIGHT #-4~InParty("lrirenic")~ Bodhi
   SAY@88 
   ++ @89 + lrJBChain1
 END
 
-IF ~!InParty("lrirenic") OR(2) G("lrJonToFinal",1) Dead("lrirenic")~ Bodhi1
+IF WEIGHT #-4~!InParty("lrirenic") OR(2) G("lrJonToFinal",1) Dead("lrirenic")~ Bodhi1
   SAY @90
      =
       @91 

@@ -1,5 +1,4 @@
 IF
-  OnCreation()
   InParty("lrirenic")
   Global("lrSpawnBlock","AR6200",0)
 THEN
