@@ -372,9 +372,9 @@ INTERJECT FINBODH 0 lrFinBodhi1
    @109
   =
    @105
-END  IF ~InPartyAllowDead("Imoen2") !Dead("Imoen2")~ EXTERN FINMEL01 15
+END  IF ~InPartyAllowDead("Imoen2") !Dead("Imoen2")~ EXTERN FINMEL01 16
      IF ~InPartyAllowDead("Imoen2") Dead("Imoen2")~ EXTERN FINMEL01 16
-     IF ~!InPartyAllowDead("Imoen2") !Dead("Imoen2")~ EXTERN FINMEL01 17
+     IF ~!InPartyAllowDead("Imoen2") !Dead("Imoen2")~ EXTERN FINMEL01 18
      IF ~!InPartyAllowDead("Imoen2") Dead("Imoen2")~ EXTERN FINMEL01 18
 
 CHAIN FINMEL01 lrAmelJonChain2
