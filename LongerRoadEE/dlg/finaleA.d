@@ -276,12 +276,12 @@ EXTEND_BOTTOM IMOEN25P 4
 + ~OR(3) InParty("lrirenic") G("lrJonToFinal",1) !G("AcceptIlmater",0)~ + @79 DO ~SetGlobal("ImoenHate","GLOBAL",1) SetGlobal("ImoenHurt","GLOBAL",0)~ EXTERN FINMEL01 MelB
 END
 
-EXTEND_BOTTOM FINMEL01 3 12 23
+EXTEND_BOTTOM FINMEL01 3 4 
 IF ~Dead("lrirenic") !G("AcceptIlmater",0) Global("lrMelDisbelief","GLOBAL",0)~ DO ~SetGlobal("lrMelDisbelief","GLOBAL",1)~ + MelC
 IF ~OR(3) InParty("lrirenic") G("lrJonToFinal",1) G("lrHasSoulStone",1) Global("lrMelDisbelief","GLOBAL",0)~ DO ~SetGlobal("lrMelDisbelief","GLOBAL",1)~ + MelC
 END
 
-EXTEND_TOP FINMEL01 2 #1
+EXTEND_BOTTOM FINMEL01 2
 IF ~Dead("lrirenic") !G("AcceptIlmater",0) Global("lrMelDisbelief","GLOBAL",0)~ DO ~SetGlobal("lrMelDisbelief","GLOBAL",1)~ + MelC
 IF ~OR(3) InParty("lrirenic") G("lrJonToFinal",1) G("lrHasSoulStone",1) Global("lrMelDisbelief","GLOBAL",0)~ DO ~SetGlobal("lrMelDisbelief","GLOBAL",1)~ + MelC
 END
