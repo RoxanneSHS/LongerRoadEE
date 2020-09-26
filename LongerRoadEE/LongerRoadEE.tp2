@@ -1,7 +1,7 @@
 BACKUP ~LongerRoadEE/backup~
 //AUTHOR ~ladydorotea@hotmail.com~
 SUPPORT ~Roxanne - https://baldursextendedworld.com/Branched-EET-Updates-4/ or roxanne@baldursextendedworld.com~
-VERSION ~1.8~
+VERSION ~1.9~
 
 ALLOW_MISSING ~ar3003.bcs~
 ALLOW_MISSING ~ar5502.bcs~
@@ -37,6 +37,10 @@ LANGUAGE ~Francais (Traduction de Erszebeth)~
 LANGUAGE ~Polski (Tlumaczenie Cuttooth)~
          ~polish~
          ~LongerRoadEE/tra/polish/setup.tra~
+
+LANGUAGE ~Russian (by Arcanecoast.ru)~
+         ~russian~
+         ~LongerRoadEE/tra/russian/setup.tra~
 
 ///////////////////////////////////////////////////////////////////////
 ///////////////////////////////////////////////////////////////////////
