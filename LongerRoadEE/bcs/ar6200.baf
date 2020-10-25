@@ -1,29 +1,29 @@
 IF
-  InParty("lrirenic")
-  Global("lrSpawnBlock","AR6200",0)
+	Global("ReceivedMask","GLOBAL",1)
+	PartyHasItem("imask")  // Irenicus's old mask
 THEN
-  RESPONSE #100
-    SetGlobal("lrSpawnBlock","AR6200",1)
-END
-
-
-IF
-  OR(2)
-    Global("JonBanished","GLOBAL",1)
-    Dead("lrirenic")
-  !G("AgreedToGiveSoul",0)
-  G("lrHasSoulStone",0)
-  Global("lrJonToFinal","GLOBAL",0)
-THEN
-  RESPONSE #100
-    SetGlobal("lrJonToFinal","GLOBAL",1)
+	RESPONSE #100
+		SetGlobal("ReceivedMask","GLOBAL",2)
 END
 
 IF
-  Dead("lrirenic")
-  !G("AcceptIlmater",0)
-  G("lrJonToFinal",1)
+	Global("BeginChallenge1","GLOBAL",12)
+	GlobalTimerExpired("RielevSpawnTimer","GLOBAL")
+	Global("RielevSpawn","GLOBAL",0)
+	Global("ReceivedMask","GLOBAL",2)
 THEN
-  RESPONSE #100
-    SG("lrJonToFinal",0)
+	RESPONSE #100
+		SetGlobal("RielevSpawn","GLOBAL",1)
+		CreateCreatureOffScreen("lrrielev",SSW)  // Velemir Rielev
+END
+
+IF
+Global("fin_balth_checkpoint_passed","GLOBAL",0)
+GlobalGT("TalkedToSolar","GLOBAL",4)
+OR(2)
+Dead("Balth")
+Global("BalthazarFights","GLOBAL",1)
+THEN
+	RESPONSE #100
+SetGlobal("fin_balth_checkpoint_passed","GLOBAL",1)
 END

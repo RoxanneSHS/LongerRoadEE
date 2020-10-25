@@ -1,0 +1,29 @@
+IF
+Global("ReceivedMask","GLOBAL",1)
+PartyHasItem("imask")
+THEN
+RESPONSE #100
+SetGlobal("ReceivedMask","GLOBAL",2)
+END
+
+IF
+Global("BeginChallenge1","GLOBAL",12)
+GlobalTimerExpired("RielevSpawnTimer","GLOBAL")
+Global("RielevSpawn","GLOBAL",0)
+Global("ReceivedMask","GLOBAL",2)
+THEN
+RESPONSE #100
+SetGlobal("RielevSpawn","GLOBAL",1)
+CreateCreatureOffScreen("lrrielev",SSW)
+END
+
+IF
+Global("fin_balth_checkpoint_passed","GLOBAL",0)
+GlobalGT("TalkedToSolar","GLOBAL",4)
+OR(2)
+Dead("Balth")
+Global("BalthazarFights","GLOBAL",1)
+THEN
+RESPONSE #100
+SetGlobal("fin_balth_checkpoint_passed","GLOBAL",1)
+END

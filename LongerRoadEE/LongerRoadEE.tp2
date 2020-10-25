@@ -1,7 +1,7 @@
 BACKUP ~LongerRoadEE/backup~
 //AUTHOR ~ladydorotea@hotmail.com~
 SUPPORT ~Roxanne - https://baldursextendedworld.com/Branched-EET-Updates-4/ or roxanne@baldursextendedworld.com~
-VERSION ~1.9~
+VERSION ~1.9.1~
 
 ALLOW_MISSING ~ar3003.bcs~
 ALLOW_MISSING ~ar5502.bcs~
@@ -228,7 +228,7 @@ COPY_EXISTING ~AR5502.are~ ~override~
 WRITE_ASCII 0x94 ~AR5502~
 EXTEND_TOP ~ar5502.bcs~ ~LongerRoadEE/bcs/ar5502.BCS~
 
-EXTEND_TOP ~AR5505.bcs~ ~LongerRoadEE/bcs/extar5505.bcs~
+EXTEND_TOP ~AR5505.bcs~ ~LongerRoadEE/bcs/extar5505.baf~
 
 EXTEND_TOP ~ar5202.bcs~ ~LongerRoadEE/bcs/AR5202_Jon.BCS~
 EXTEND_TOP ~ar3001.bcs~ ~LongerRoadEE/bcs/AR3001_EL.BCS~
@@ -283,11 +283,11 @@ COPY ~LongerRoadEE/cre/lrrielev.cre~ ~override/lrrielev.cre~
      SAY NAME1 @36
      SAY NAME2 @36
      WRITE_ASCII 0x34  ~rielevS~
-     WRITE_ASCII 0x250 ~lrrielev~  // class script
-     WRITE_ASCII 0x2CC ~lrrielev~  // dialog
-     WRITE_ASCII 0x280 ~lrrielev~  // death variable
+     WRITE_ASCII 0x250 ~lrrielev~
+     WRITE_ASCII 0x2CC ~lrrielev~
+     WRITE_ASCII 0x280 ~lrrielev~ 
 
-EXTEND_BOTTOM ~ar4500.bcs~ ~LongerRoadEE/bcs/AR4500_RIELEV.bcs~
+EXTEND_BOTTOM ~ar4500.bcs~ ~LongerRoadEE/bcs/AR4500_RIELEV.baf~
 EXTEND_BOTTOM ~AR5002.BCS~ ~LongerRoadEE/bcs/AR5002_JON.BCS~
 
 COPY_EXISTING ~ITPPLANE.bcs~ ~override/ITPPLANE.bcs~
@@ -774,8 +774,7 @@ ACTION_IF FILE_EXISTS_IN_GAME  ~d0hosti.bcs~ // Improved Oasis
 ACTION_IF FILE_EXISTS_IN_GAME ~finbodh.cre~
  THEN BEGIN
    PRINT @116
-   COPY  ~LongerRoadEE/balth/ascen/balth.cre~    ~override~
-
+   
    COPY ~LongerRoadEE/spl/zombify1.spl~ ~override/senzom.spl~
      SAY 0x9e @117
    COPY ~LongerRoadEE/spl/zombify1.spl~ ~override/abazom.spl~
@@ -810,7 +809,7 @@ ACTION_IF FILE_EXISTS_IN_GAME ~finbodh.cre~
         WRITE_LONG 0x274 "60" //unknown
         WRITE_LONG 0x275 "4" //nether
 
-EXTEND_TOP  ~ar5505.bcs~  ~LongerRoadEE/bcs/ar5505_JonAc.bcs~
+EXTEND_TOP  ~ar5505.bcs~  ~LongerRoadEE/bcs/ar5505_JonAc.baf~
 
 EXTEND_TOP ~ar6005.bcs~ ~LongerRoadEE/bcs/Abazi_Jon.bcs~
 

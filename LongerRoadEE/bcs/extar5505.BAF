@@ -1,0 +1,32 @@
+IF
+Dead("balth")
+Global("HadBhaal25Dream5","GLOBAL",0)
+OR(2)
+!Global("AcceptIlmater","GLOBAL",1)
+!InParty("lrirenic")
+OR(2)
+!Global("AcceptIlmater","GLOBAL",2)
+!InParty("lrirenic")
+OR(2)
+!Global("lrbalt","GLOBAL",1)
+!InParty("lrirenic")
+THEN
+RESPONSE #100
+ClearAllActions()
+SetGlobal("HadBhaal25Dream5","GLOBAL",1)
+SetGlobal("fin_balth_checkpoint_passed","GLOBAL",1)
+StartCutSceneMode()
+StartCutScene("cut243a")
+END
+
+IF
+Dead("Balth")
+G("lrsillyglobal",0)
+InParty("lrirenic")
+Global("HadBhaal25Dream5","GLOBAL",1)
+THEN
+RESPONSE #100
+Kill("Balth")
+SG("lrsillyglobal",0)
+END
+
