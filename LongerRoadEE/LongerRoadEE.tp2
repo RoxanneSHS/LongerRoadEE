@@ -714,8 +714,10 @@ COMPILE
 ~LongerRoadEE/dlg/LRSENABA.D~
 ~LongerRoadEE/dlg/LRENCLAVES.D~
 ~LongerRoadEE/dlg/LRBALTH3.D~
+~LongerRoadEE/bcs/redgdem1.baf~
+~LongerRoadEE/bcs/redgdem2.baf~
+~LongerRoadEE/bcs/redgdem3.baf~
 
-// ELVEN LORE
 
 COPY  ~LongerRoadEE/books/bookel1.itm~    ~override~
       SAY NAME2 @96
