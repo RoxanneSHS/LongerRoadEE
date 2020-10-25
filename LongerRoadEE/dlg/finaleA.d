@@ -263,13 +263,13 @@ IF ~~ jondemo3
 END
 END
 
-ADD_TRANS_TRIGGER IMOEN25P 4 ~!InParty("lrirenic") G("lrJonToFinal",0) G("AcceptIlmater",0)~
+ADD_TRANS_TRIGGER IMOEN25P 18 ~!InParty("lrirenic") G("lrJonToFinal",0) G("AcceptIlmater",0)~
 
 EXTEND_BOTTOM FINBODH 0
 IF ~InParty("lrirenic")~ EXTERN JONEL25J lrBodhiJonMelissan
 END
 
-EXTEND_BOTTOM IMOEN25P 4
+EXTEND_BOTTOM IMOEN25P 18
 + ~OR(3) InParty("lrirenic") G("lrJonToFinal",1) !G("AcceptIlmater",0)~ + @76 DO ~SetGlobal("ImoenHurt","GLOBAL",0)~ EXTERN FINMEL01 MelB
 + ~OR(3) InParty("lrirenic") G("lrJonToFinal",1) !G("AcceptIlmater",0)~ + @77 DO ~SetGlobal("ImoenHurt","GLOBAL",0)~ EXTERN FINMEL01 MelB
 + ~OR(3) InParty("lrirenic") G("lrJonToFinal",1) !G("AcceptIlmater",0)~ + @78 DO ~SetGlobal("ImoenHurt","GLOBAL",0)~ EXTERN FINMEL01 MelB
