@@ -263,17 +263,17 @@ IF ~~ jondemo3
 END
 END
 
-ADD_TRANS_TRIGGER IMOEN25P 18 ~!InParty("lrirenic") G("lrJonToFinal",0) G("AcceptIlmater",0)~
+ADD_TRANS_TRIGGER IMOEN25P 18 ~!InParty("lrirenic") G("lrJonToFinal",0) G("AcceptIlmater",0) G("JonBanished",0)~
 
 EXTEND_BOTTOM FINBODH 0
 IF ~InParty("lrirenic")~ EXTERN JONEL25J lrBodhiJonMelissan
 END
 
 EXTEND_BOTTOM IMOEN25P 18
-+ ~OR(3) InParty("lrirenic") G("lrJonToFinal",1) !G("AcceptIlmater",0)~ + @76 DO ~SetGlobal("ImoenHurt","GLOBAL",0)~ EXTERN FINMEL01 MelB
-+ ~OR(3) InParty("lrirenic") G("lrJonToFinal",1) !G("AcceptIlmater",0)~ + @77 DO ~SetGlobal("ImoenHurt","GLOBAL",0)~ EXTERN FINMEL01 MelB
-+ ~OR(3) InParty("lrirenic") G("lrJonToFinal",1) !G("AcceptIlmater",0)~ + @78 DO ~SetGlobal("ImoenHurt","GLOBAL",0)~ EXTERN FINMEL01 MelB
-+ ~OR(3) InParty("lrirenic") G("lrJonToFinal",1) !G("AcceptIlmater",0)~ + @79 DO ~SetGlobal("ImoenHate","GLOBAL",1) SetGlobal("ImoenHurt","GLOBAL",0)~ EXTERN FINMEL01 MelB
++ ~OR(4) InParty("lrirenic") G("lrJonToFinal",1) !G("AcceptIlmater",0) G("JonBanished",1)~ + @76 DO ~SetGlobal("ImoenHurt","GLOBAL",0)~ EXTERN FINMEL01 MelB
++ ~OR(4) InParty("lrirenic") G("lrJonToFinal",1) !G("AcceptIlmater",0) G("JonBanished",1)~ + @77 DO ~SetGlobal("ImoenHurt","GLOBAL",0)~ EXTERN FINMEL01 MelB
++ ~OR(4) InParty("lrirenic") G("lrJonToFinal",1) !G("AcceptIlmater",0) G("JonBanished",1)~ + @78 DO ~SetGlobal("ImoenHurt","GLOBAL",0)~ EXTERN FINMEL01 MelB
++ ~OR(4) InParty("lrirenic") G("lrJonToFinal",1) !G("AcceptIlmater",0)G("JonBanished",1)~ + @79 DO ~SetGlobal("ImoenHate","GLOBAL",1) SetGlobal("ImoenHurt","GLOBAL",0)~ EXTERN FINMEL01 MelB
 END
 
 EXTEND_BOTTOM FINMEL01 3 4 
@@ -300,7 +300,18 @@ END*/
 
 IF ~~ MelB
   SAY @84
-  IF ~~ DO ~ClearAllActions() StartCutSceneMode() StartCutScene("resimo5")~ EXIT
+ IF ~!Global("DemogorgonIsDead","GLOBAL",1) Difficulty(3)~ THEN DO ~ClearAllActions()
+        StartCutSceneMode()
+        StartCutScene("redbodh1")~ EXIT
+    IF ~!Global("DemogorgonIsDead","GLOBAL",1) DifficultyGT(3)~ THEN DO ~ClearAllActions()
+        StartCutSceneMode()
+        StartCutScene("redbodh2")~ EXIT
+    IF ~!Global("DemogorgonIsDead","GLOBAL",1) DifficultyLT(3)~ THEN DO ~ClearAllActions()
+        StartCutSceneMode()
+        StartCutScene("redbodh0")~ EXIT    
+    IF ~Global("DemogorgonIsDead","GLOBAL",1)~ THEN DO ~ClearAllActions()
+        StartCutSceneMode()
+        StartCutScene("redbodh3")~ EXIT 
 END
 
 IF ~~ MelC
@@ -318,13 +329,18 @@ IF ~~ MelSpecial
 END
 END
 
+ADD_TRANS_ACTION JONEL25P BEGIN 10 END BEGIN END ~SetGlobal("lrJonNotInParty","GLOBAL", 1)~
+ADD_TRANS_ACTION JONEL25P BEGIN 11 END BEGIN END ~SetGlobal("lrJonNotInParty","GLOBAL", 1)~
+ADD_TRANS_ACTION JONEL25P BEGIN 6 END BEGIN END ~SetGlobal("lrJonNotInParty","GLOBAL", 0)~
+
 APPEND FINBODH
+
 IF WEIGHT #-4~InParty("lrirenic")~ Bodhi
   SAY@88 
   ++ @89 + lrJBChain1
 END
 
-IF WEIGHT #-4~!InParty("lrirenic") OR(2) G("lrJonToFinal",1) Dead("lrirenic")~ Bodhi1
+IF WEIGHT #-4~!InParty("lrirenic") OR(4) G("lrJonToFinal",1) Dead("lrirenic") Global("lrJonNotInParty","GLOBAL",1) G("JonBanished",1)~ Bodhi1
   SAY @90
      =
       @91 
@@ -333,16 +349,12 @@ END
 
 IF ~~ Bodhi2
   SAY @92
-  IF ~!Global("DemogorgonIsDead","GLOBAL",1) Difficulty(3)~ 
-     THEN DO ~ClearAllActions() StartCutSceneMode() StartCutScene("redbodh1")~ EXIT
-  IF ~!Global("DemogorgonIsDead","GLOBAL",1) DifficultyGT(3)~ 
-     THEN DO ~ClearAllActions() StartCutSceneMode() StartCutScene("redbodh2")~ EXIT
-  IF ~!Global("DemogorgonIsDead","GLOBAL",1) DifficultyLT(3)~ 
-     THEN DO ~ClearAllActions() StartCutSceneMode() StartCutScene("redbodh0")~ EXIT
+  IF ~InParty("Imoen2")~ 
+       THEN DO ~ClearAllActions() StartCutSceneMode() StartCutScene("resimo1")~ EXIT	 
+  IF ~!InParty("Imoen2")~ 
+     THEN DO ~ClearAllActions() StartCutSceneMode() StartCutScene("resimo2")~ EXIT
 END
 END
-
-
 
 CHAIN JONEL25J lrBodhiJonMelissan
    @101
@@ -411,18 +423,9 @@ CHAIN FINBODH lrJBChain1
    @124 
   == FINBODH
    @125
-END IF ~!Global("DemogorgonIsDead","GLOBAL",1) Difficulty(3)~ THEN DO ~ClearAllActions()
+END IF ~!Global("DemogorgonIsDead","GLOBAL",1) DifficultyLT(3) InParty("Imoen2")~ THEN DO ~ClearAllActions()
         StartCutSceneMode()
-        StartCutScene("redbodh1")~ EXIT
-    IF ~!Global("DemogorgonIsDead","GLOBAL",1) DifficultyGT(3)~ THEN DO ~ClearAllActions()
+        StartCutScene("resimo1")~ EXIT    
+	IF ~!Global("DemogorgonIsDead","GLOBAL",1) DifficultyLT(3) !InParty("Imoen2")~ THEN DO ~ClearAllActions()
         StartCutSceneMode()
-        StartCutScene("redbodh2")~ EXIT
-    IF ~!Global("DemogorgonIsDead","GLOBAL",1) DifficultyLT(3)~ THEN DO ~ClearAllActions()
-        StartCutSceneMode()
-        StartCutScene("redbodh0")~ EXIT
-    IF ~Global("DemogorgonIsDead","GLOBAL",1)~ THEN DO ~ClearAllActions()
-        StartCutSceneMode()
-        StartCutScene("redbodh3")~ EXIT
-
-
-
+        StartCutScene("resimo2")~ EXIT			
