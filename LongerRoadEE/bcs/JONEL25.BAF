@@ -781,7 +781,7 @@ THEN
 	RESPONSE #100
 		DisplayStringNoName(Player1,999968)  
 		TakePartyItem("DBODY")
-		DestroyItem("DBODY")  '
+		DestroyItem("DBODY")  
 		MoveViewObject("LRIRENIC",INSTANT)  
 		SetGlobal("DevaQuestFailed","GLOBAL",1)
 		SetGlobal("demondead","GLOBAL",1)
