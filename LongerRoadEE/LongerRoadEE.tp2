@@ -1,7 +1,7 @@
 BACKUP ~LongerRoadEE/backup~
 //AUTHOR ~ladydorotea@hotmail.com~
 SUPPORT ~Roxanne - https://baldursextendedworld.com/Branched-EET-Updates-4/ or roxanne@baldursextendedworld.com~
-VERSION ~1.9.1~
+VERSION ~1.9.2~
 
 ALLOW_MISSING ~ar3003.bcs~
 ALLOW_MISSING ~ar5502.bcs~
@@ -648,6 +648,7 @@ COPY ~LongerRoadEE/cre/Lravatar.cre~ ~override/Lravatar.cre~
   SAY NAME2 @95
 
 EXTEND_TOP ~ar6200.bcs~ ~LongerRoadEE/bcs/ar6200.baf~
+EXTEND_TOP ~finbodhi.bcs~ ~LongerRoadEE/bcs/finbodhi.baf~
 
 //COMPILE THE DIALOGS
 
@@ -722,6 +723,9 @@ COMPILE
 ~LongerRoadEE/bcs/redbodh0.baf~
 ~LongerRoadEE/bcs/redbodh1.baf~
 ~LongerRoadEE/bcs/redbodh2.baf~
+~LongerRoadEE/bcs/redbodh3.baf~
+~LongerRoadEE/bcs/jonel25.baf~
+
 
 
 COPY  ~LongerRoadEE/books/bookel1.itm~    ~override~

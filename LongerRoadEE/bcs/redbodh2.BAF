@@ -2,12 +2,30 @@ IF
 	True()
 THEN
 	RESPONSE #100
-		CutSceneId("finbodh")  // Bodhi
-		MoveViewObject("Imoen2",5)  // Imoen
-		Wait(2)
-		ActionOverride("Imoen2",DisplayStringHead(Myself,49226))  // Help me! Please!
+		CutSceneId("finbodh")
+		MoveViewObject("finmel01",INSTANT)
 		Wait(1)
-		ActionOverride("Imoen2",ReallyForceSpellRES("imoslay1",Myself))  // Slayer Change
+		SmallWait(7)
+		CreateVisualEffectObject("SPUSEANY","finmel01")
+		SmallWait(7)
+		ActionOverride("finmel01",ReallyForceSpellRES("dgwhirl",[PC]))
+		Wait(2)
+		ActionOverride("finmel01",SetSequence(SEQ_ATTACK_JAB))
+		Wait(2)
+		MoveViewPoint([1282.832],BD_NORMAL)
+		CreateVisualEffectObject("ICRMPARI","finmel01")  
+		ActionOverride("finmel01",ReallyForceSpellRES("jwchnlgt","cutspy2"))
+		ActionOverride("finmel01",DestroySelf())
+		Wait(1)
+		AmbientActivate("MMELSPIN",TRUE)
+		AmbientActivate("AM6200A",TRUE)
+		AmbientActivate("AM6200B",FALSE)
+		MoveViewObject("Imoen2",5)
+		Wait(2)
+		ActionOverride("Imoen2",DisplayStringHead(Myself,49226))
+		CreateVisualEffectObject("SPPOWWRD","Imoen2")
+		Wait(1)
+		ActionOverride("Imoen2",ReallyForceSpellRES("imoslay1",Myself))
 		Wait(1)
 		FadeToColor([30.0],0)
 		ActionOverride("Imoen2",ChangeAIScript("imoslay",OVERRIDE))
@@ -21,50 +39,30 @@ THEN
 		ActionOverride("finiren",JumpToPoint([1481.1277]))
 		ActionOverride("finiren",Face(E))
 		FadeFromColor([30.0],0)
-		ActionOverride("finiren",Spell(Myself,WIZARD_IMPROVED_ALUCRITY))  // SPWI921.SPL (Improved Alacrity)
+		ActionOverride("finiren",Spell(Myself,WIZARD_IMPROVED_ALUCRITY))
 		Wait(1)
-		ActionOverride("finiren",Spell(Myself,WIZARD_SIMULACRUM))  // SPWI804.SPL (Simulacrum)
+		ActionOverride("finiren",Spell(Myself,WIZARD_SIMULACRUM))
 		Wait(1)
-		ActionOverride("finiren",Spell(Myself,WIZARD_TRUE_SIGHT))  // SPWI609.SPL (True Sight)
-		Wait(3)
+		ActionOverride("finiren",Spell(Myself,WIZARD_TRUE_SIGHT))
+		Wait(1)
 		MoveViewObject(Player1,5)
 		Wait(2)
-		SetGlobal("FinalFight","AR6200",3)  // The Throne of Bhaal
+		SetGlobal("FinalFight","AR6200",3)
 		ActionOverride("Imoen2",DialogInterrupt(FALSE))
 		CreateVisualEffect("SPPORTAL",[1022.1196])
 		CreateVisualEffect("SPPORTAL",[1581.1111])
 		CreateVisualEffect("SPPORTAL",[1040.955])
 		CreateVisualEffect("SPPORTAL",[1000.952])
 		Wait(2)
-		CreateCreature("finsolar",[1022.1196],SEE)  // Fallen Solar
+		CreateCreature("finsolar",[1022.1196],SEE)
 		ActionOverride("finsolar",DialogInterrupt(FALSE))
-		CreateCreature("finsola2",[1581.1111],W)  // Fallen Solar
-		CreateCreature("finsola2",[1040.955],SEE)  // Fallen Solar
-		CreateCreature("finsolar",[1000.952],SEE)  // Fallen Solar
+		CreateCreature("finsola2",[1581.1111],W)
+		CreateCreature("finsola2",[1040.955],SEE)
+		CreateCreature("finsolar",[1000.952],SEE)
 		ActionOverride("finsolar",DialogInterrupt(FALSE))
 		DialogInterrupt(FALSE)
 		Enemy()
-		SetGlobal("FinalFight","AR6200",2)  // The Throne of Bhaal
-		MoveViewObject("finmel01",INSTANT)  // Melissan
-		Wait(1)
-		SmallWait(7)
-		CreateVisualEffectObject("SPUSEANY","finmel01")  // Melissan
-		SmallWait(7)
-		ActionOverride("finmel01",ReallyForceSpellRES("dgwhirl",[PC]))  // No such index
-		Wait(2)
-		ActionOverride("finmel01",SetSequence(SEQ_ATTACK_JAB))
-		Wait(2)
-		MoveViewPoint([1282.832],BD_NORMAL)
-		CreateVisualEffectObject("ICRMPARI","finmel01")  // Melissan
-		ActionOverride("finmel01",ReallyForceSpellRES("jwchnlgt","cutspy2"))  // No such index
-		ActionOverride("finmel01",DestroySelf())
-		Wait(1)
-		AmbientActivate("MMELSPIN",TRUE)
-		AmbientActivate("AM6200A",TRUE)
-		AmbientActivate("AM6200B",FALSE)
-		MoveViewObject("Imoen2",5)  // Imoen
-		Wait(2)
-		CreateVisualEffectObject("SPPOWWRD","Imoen2")  // Imoen
+		SetGlobal("FinalFight","AR6200",2)
 		Wait(1)
 		EndCutSceneMode()
 END
