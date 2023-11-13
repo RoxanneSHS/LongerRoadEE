@@ -1,41 +1,41 @@
-@0    = ~Interesante, parece ser que incluso el Capitán Havarian no es 
+@0    = ~Interesante, parece ser que incluso el CapitÃ¡n Havarian no es 
 completamente inmune a los giros y las vueltas de la rueda proverbial. Por 
-supuesto me estoy refiriendo al Destino, Saemon, no al timón de tu bote. 
-¿Qué ha pasado aquí?~
+supuesto me estoy refiriendo al Destino, Saemon, no al timÃ³n de tu bote. 
+Â¿QuÃ© ha pasado aquÃ­?~
 @1    = ~Maestro... Irenicus. Supongo que era demasiado esperar que su 
-última aparición fuera en el transcurso de una simple pesadilla, o que 
+Ãºltima apariciÃ³n fuera en el transcurso de una simple pesadilla, o que 
 <CHARNAME> le diera esquinazo al volver a Amkethran. Por otro lado, su 
-presencia podría ser beneficiosa... en cierto sentido.~
-@2    = ~Deberías decir que tengo el hábito de estar hasta en la sopa. Y aún 
+presencia podrÃ­a ser beneficiosa... en cierto sentido.~
+@2    = ~DeberÃ­as decir que tengo el hÃ¡bito de estar hasta en la sopa. Y aÃºn 
 no has contestado mi pregunta.~
-@3    = ~No estoy de humor para la introspección. ¡No mientras me encuentro 
-entre los cadáveres de mis ex camaradas! Balthazar ha ordenado esta matanza 
+@3    = ~No estoy de humor para la introspecciÃ³n. Â¡No mientras me encuentro 
+entre los cadÃ¡veres de mis ex camaradas! Balthazar ha ordenado esta matanza 
 y quiero mi venganza.~
-@4    = ~Ah, el bálsamo más dulce jamás inventado para aliviar al espíritu 
-herido. Y aún algunos osan negar que el Destino siempre nos devuelve la 
+@4    = ~Ah, el bÃ¡lsamo mÃ¡s dulce jamÃ¡s inventado para aliviar al espÃ­ritu 
+herido. Y aÃºn algunos osan negar que el Destino siempre nos devuelve la 
 jugada.~
-@5    = ~Quizás... <CHARNAME>, ¿escucharías mi proposición?~
+@5    = ~QuizÃ¡s... <CHARNAME>, Â¿escucharÃ­as mi proposiciÃ³n?~
 @6    = ~No es un hechizo muy complicado, aunque me temo que eliminarlo es 
-costoso. Será más fácil el camino sugerido por Saemon. <CHARNAME>, esta vez 
-incluso podría imponerle un geas, si así lo deseas.~
-@7    = ~¡Ese sería un gran desperdicio de magia, Maestro Jon! ¿Es que acaso 
-no confía en mí?~
+costoso. SerÃ¡ mÃ¡s fÃ¡cil el camino sugerido por Saemon. <CHARNAME>, esta vez 
+incluso podrÃ­a imponerle un geas, si asÃ­ lo deseas.~
+@7    = ~Â¡Ese serÃ­a un gran desperdicio de magia, Maestro Jon! Â¿Es que acaso 
+no confÃ­a en mÃ­?~
 @8    = ~No.~
-@9    = ~Lamento que er... piense así. Pero ¿tú que dices, <CHARNAME>?~
-@10   = ~¿Acaso crees que tuve elección en el asunto de la Prisión del 
-Hechicero? ¡Si no me crees, pregúntaselo tú mismo!~ ~¿Acaso crees que tuve 
-elección en el asunto de la Prisión del Hechicero? ¡Si no me crees, 
-pregúntaselo tú misma!~
+@9    = ~Lamento que er... piense asÃ­. Pero Â¿tÃº que dices, <CHARNAME>?~
+@10   = ~Â¿Acaso crees que tuve elecciÃ³n en el asunto de la PrisiÃ³n del 
+Hechicero? Â¡Si no me crees, pregÃºntaselo tÃº mismo!~ ~Â¿Acaso crees que tuve 
+elecciÃ³n en el asunto de la PrisiÃ³n del Hechicero? Â¡Si no me crees, 
+pregÃºntaselo tÃº misma!~
 @11   = ~Te aseguro, <CHARNAME>, que dice la verdad. Saemon Havarian tuvo 
-casi tanta elección en el asunto como tu difunto socio. Yoshimo, creo 
-recordar que ése era el otro nombre, pero mi memoria me puede jugar malas 
+casi tanta elecciÃ³n en el asunto como tu difunto socio. Yoshimo, creo 
+recordar que Ã©se era el otro nombre, pero mi memoria me puede jugar malas 
 pasadas.~
-@12   = ~¿Me estás diciendo que Saemon estaba bajo un geas?~
-@13   = ~¿Qué? ¿Impusiste un geas a todo secuaz que entraba a tu servicio?~
-@14   = ~No tuve necesidad de ello con Saemon. Él sabía que no debía 
-contradecirme. Bodhi investigó sus... relaciones, sólo por si se daba el 
-caso de que necesitara un incentivo para seguir siéndonos leal. Aunque suene 
-ridículo, el Capitán Saemon posee un vínculo sentimental con sus vástagos... 
+@12   = ~Â¿Me estÃ¡s diciendo que Saemon estaba bajo un geas?~
+@13   = ~Â¿QuÃ©? Â¿Impusiste un geas a todo secuaz que entraba a tu servicio?~
+@14   = ~No tuve necesidad de ello con Saemon. Ã‰l sabÃ­a que no debÃ­a 
+contradecirme. Bodhi investigÃ³ sus... relaciones, sÃ³lo por si se daba el 
+caso de que necesitara un incentivo para seguir siÃ©ndonos leal. Aunque suene 
+ridÃ­culo, el CapitÃ¡n Saemon posee un vÃ­nculo sentimental con sus vÃ¡stagos... 
 aunque dudo que recuerde los nombres de sus madres.~
-@15   = ~¡Y para mi desgracia, por llevarte a la isla acabé perdiendo mi 
+@15   = ~Â¡Y para mi desgracia, por llevarte a la isla acabÃ© perdiendo mi 
 mejor barco!~

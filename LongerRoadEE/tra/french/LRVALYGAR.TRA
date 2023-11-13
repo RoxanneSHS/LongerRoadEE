@@ -1,45 +1,45 @@
-@0    = ~(S'arrête soudainement) Crois-tu que je ne me sois pas rendu compte que tu me regardais, Irenicus ? Si tu as quelque chose à dire, dis-le et qu'on en finisse.~ [VALYGA02]
+@0    = ~(S'arrÃªte soudainement) Crois-tu que je ne me sois pas rendu compte que tu me regardais, Irenicus ? Si tu as quelque chose Ã  dire, dis-le et qu'on en finisse.~ [VALYGA02]
 
-@1    = ~Ah, tu es *à nouveau* muet, "maître" Corthala. Réfléchis-tu à ta misérable existence ou au "sens de la vie " ? Pour ceux qui ont peur d'assumer leur juste place, je doute qu'il y en ait un. Mais dis-moi, rôdeur, combien de temps penses-tu qu'il faudra encore à nos ennemis pour apprendre qu'il ne faut pas nous sous-estimer ? Chaque jour nous laissons derrière nous un lamentable sillage d'ennemis vaincus. C'est presque dégradant d'utiliser la totalité de ma puissance contre de tels imbéciles.~ [IRENIC85]
+@1    = ~Ah, tu es *Ã  nouveau* muet, "maÃ®tre" Corthala. RÃ©flÃ©chis-tu Ã  ta misÃ©rable existence ou au "sens de la vie " ? Pour ceux qui ont peur d'assumer leur juste place, je doute qu'il y en ait un. Mais dis-moi, rÃ´deur, combien de temps penses-tu qu'il faudra encore Ã  nos ennemis pour apprendre qu'il ne faut pas nous sous-estimer ? Chaque jour nous laissons derriÃ¨re nous un lamentable sillage d'ennemis vaincus. C'est presque dÃ©gradant d'utiliser la totalitÃ© de ma puissance contre de tels imbÃ©ciles.~ [IRENIC85]
 
-@2    = ~(Moqueur) Rien d'important, rôdeur. Je me demandais juste ce qui t'avais fait devenir ce que tu es. J'ai beau avoir essayé, je n'ai jamais réussi à comprendre l'intérêt qu'il y a à passer sa vie à ramper dans les buissons avec les animaux pour seule compagnie. ~ [IRENIC92]
+@2    = ~(Moqueur) Rien d'important, rÃ´deur. Je me demandais juste ce qui t'avais fait devenir ce que tu es. J'ai beau avoir essayÃ©, je n'ai jamais rÃ©ussi Ã  comprendre l'intÃ©rÃªt qu'il y a Ã  passer sa vie Ã  ramper dans les buissons avec les animaux pour seule compagnie. ~ [IRENIC92]
 
-@3    = ~C'est la solitude même de la vie de rôdeur qui me plaît. J'ai trouvé plus de paix seul dans la nature que j'en ai eu de toute mon enfance ou durant mon temps dans l'armée.~
+@3    = ~C'est la solitude mÃªme de la vie de rÃ´deur qui me plaÃ®t. J'ai trouvÃ© plus de paix seul dans la nature que j'en ai eu de toute mon enfance ou durant mon temps dans l'armÃ©e.~
 
-@4    = ~Je n'ai rien contre la solitude en tant que telle, rôdeur. Après tout, il n'y a pas grand-chose de plus solitaire et de plus raffiné que l'existence du mage dans sa tour d'ivoire ou une quelconque retraite inaccessible du même genre. C'est ton manque d'objectif et de curiosité qui m'intriguent le plus ; tu as la magie qui coule dans tes veines,  maître Corthala, et je peux la sentir, quoi que tu dises à propos de ta répugnance envers l'Art. Et pourtant tu te refuses obstinément à reconnaître le plus précieux de tes talents.~
+@4    = ~Je n'ai rien contre la solitude en tant que telle, rÃ´deur. AprÃ¨s tout, il n'y a pas grand-chose de plus solitaire et de plus raffinÃ© que l'existence du mage dans sa tour d'ivoire ou une quelconque retraite inaccessible du mÃªme genre. C'est ton manque d'objectif et de curiositÃ© qui m'intriguent le plus ; tu as la magie qui coule dans tes veines,  maÃ®tre Corthala, et je peux la sentir, quoi que tu dises Ã  propos de ta rÃ©pugnance envers l'Art. Et pourtant tu te refuses obstinÃ©ment Ã  reconnaÃ®tre le plus prÃ©cieux de tes talents.~
 
-@5    = ~Je me moque de ce que tu peux "sentir", sorcier – je ne suis pas un mage et je n'en serais jamais un.~
+@5    = ~Je me moque de ce que tu peux "sentir", sorcier â€“ je ne suis pas un mage et je n'en serais jamais un.~
 
-@6    = ~Ton manque d'ambition est méprisable. Tu es impliqué dans une quête d'une incroyable importance, tu voyages avec des compagnons qui détiennent un pouvoir presque au-delà de ta compréhension – Et pourtant tu te languis d'une existence qui vaut à peine mieux que d'être enterré vivant. <CHARNAME> aurait dû te laisser derrière. D'autres personnes méritent bien plus de participer à des évènements aussi cruciaux. ~
+@6    = ~Ton manque d'ambition est mÃ©prisable. Tu es impliquÃ© dans une quÃªte d'une incroyable importance, tu voyages avec des compagnons qui dÃ©tiennent un pouvoir presque au-delÃ  de ta comprÃ©hension â€“ Et pourtant tu te languis d'une existence qui vaut Ã  peine mieux que d'Ãªtre enterrÃ© vivant. <CHARNAME> aurait dÃ» te laisser derriÃ¨re. D'autres personnes mÃ©ritent bien plus de participer Ã  des Ã©vÃ¨nements aussi cruciaux. ~
 
-@7    = ~Nous avons tous nos raisons d'être là, mais la mienne n'est pas la recherche d'une gloire personnelle. La destinée de <CHARNAME> est peut-être importante, mais la mienne ne l'est pas. ~
+@7    = ~Nous avons tous nos raisons d'Ãªtre lÃ , mais la mienne n'est pas la recherche d'une gloire personnelle. La destinÃ©e de <CHARNAME> est peut-Ãªtre importante, mais la mienne ne l'est pas. ~
 
-@8    = ~Bah ! Peut-être vaudrait-il mieux que tu retournes à ta vie solitaire dans un trou perdu rempli de puces. Si tu n'as rien d'exceptionnel, ta lignée ne mérite pas de survivre. Vis en ermite tant que tu veux, rôdeur. Je doute que le monde te regrette.~
+@8    = ~Bah ! Peut-Ãªtre vaudrait-il mieux que tu retournes Ã  ta vie solitaire dans un trou perdu rempli de puces. Si tu n'as rien d'exceptionnel, ta lignÃ©e ne mÃ©rite pas de survivre. Vis en ermite tant que tu veux, rÃ´deur. Je doute que le monde te regrette.~
 
-@9    = ~Le monde devrait être reconnaissant que ta lignée soit déjà éteinte, mage.~
+@9    = ~Le monde devrait Ãªtre reconnaissant que ta lignÃ©e soit dÃ©jÃ  Ã©teinte, mage.~
 
-@10   = ~Je n'ai pas besoin d'en venir à me reproduire dans un quelconque et pitoyable corps féminin dans le vain espoir que mes rejetons fassent mieux que moi. *Je* mérite l'immortalité et le pouvoir d'un dieu – Et je les aurais, peu importe le prix !~
+@10   = ~Je n'ai pas besoin d'en venir Ã  me reproduire dans un quelconque et pitoyable corps fÃ©minin dans le vain espoir que mes rejetons fassent mieux que moi. *Je* mÃ©rite l'immortalitÃ© et le pouvoir d'un dieu â€“ Et je les aurais, peu importe le prix !~
 
-@11   = ~J'imagine que le prix à payer pour satisfaire tes ambitions continuera à être payé par le monde, pas par toi ? Tu peux garder tes rêves – Je préfèrerais qu'on m'oublie plutôt que d'être ancré dans la mémoire collective comme objet de haine pour les générations à venir.~
+@11   = ~J'imagine que le prix Ã  payer pour satisfaire tes ambitions continuera Ã  Ãªtre payÃ© par le monde, pas par toi ? Tu peux garder tes rÃªves â€“ Je prÃ©fÃ¨rerais qu'on m'oublie plutÃ´t que d'Ãªtre ancrÃ© dans la mÃ©moire collective comme objet de haine pour les gÃ©nÃ©rations Ã  venir.~
 
-@12   = ~Tu te donnes bien trop d'importance, rôdeur – pour être "oublié", il faudrait d'abord qu'on te remarque. Insignifiant comme tu l'es comparé à moi ou à <CHARNAME>, qui *te* remarquera ?~
+@12   = ~Tu te donnes bien trop d'importance, rÃ´deur â€“ pour Ãªtre "oubliÃ©", il faudrait d'abord qu'on te remarque. Insignifiant comme tu l'es comparÃ© Ã  moi ou Ã  <CHARNAME>, qui *te* remarquera ?~
 
-@13   = ~Je ne réagirai pas à ta provocation, Irenicus. Soucie-toi de ton propre futur et laisse-moi au mien.~
+@13   = ~Je ne rÃ©agirai pas Ã  ta provocation, Irenicus. Soucie-toi de ton propre futur et laisse-moi au mien.~
 
-@14   = ~Tu serais sage d'être prudent lorsque tu utilises ce pouvoir, mage. Plus d'un sorcier a découvert dans l'épreuve qu'il peut finalement se révéler être leur plus grand ennemi.~ [VALYGA23]
+@14   = ~Tu serais sage d'Ãªtre prudent lorsque tu utilises ce pouvoir, mage. Plus d'un sorcier a dÃ©couvert dans l'Ã©preuve qu'il peut finalement se rÃ©vÃ©ler Ãªtre leur plus grand ennemi.~ [VALYGA23]
 
-@15   = ~Je me moque de tes pitoyables avertissements, rôdeur. J'ai étudié les Arcanes dix fois le temps que tu as vécu. Ne t'imagine pas m'apprendre des choses dans un domaine que tu ne comprends pas.~
+@15   = ~Je me moque de tes pitoyables avertissements, rÃ´deur. J'ai Ã©tudiÃ© les Arcanes dix fois le temps que tu as vÃ©cu. Ne t'imagine pas m'apprendre des choses dans un domaine que tu ne comprends pas.~
 
-@16   = ~Je n'ai peut-être jamais étudié la magie, Irenicus, mais je ne connais que trop bien ses dangers. L'histoire de ma famille est une preuve suffisante de la corruption et de la déchéance qu'elle apporte à ceux qui en abusent.~
+@16   = ~Je n'ai peut-Ãªtre jamais Ã©tudiÃ© la magie, Irenicus, mais je ne connais que trop bien ses dangers. L'histoire de ma famille est une preuve suffisante de la corruption et de la dÃ©chÃ©ance qu'elle apporte Ã  ceux qui en abusent.~
 
-@17   = ~Bah, tu ne cesses de pleurnicher à propos de ta "malédiction familiale" et de "la magie corrompue" alors que tu pourrais tirer les leçons des échecs de tes ancêtres. Ceux qui permettent à la magie d'avoir le dessus, ceux qui se font manipuler plutôt que d'être les manipulateurs ne méritent pas de posséder le pouvoir qu'ils cherchent à contrôler. Il est normal qu'ils paient le prix de leur incompétence.~
+@17   = ~Bah, tu ne cesses de pleurnicher Ã  propos de ta "malÃ©diction familiale" et de "la magie corrompue" alors que tu pourrais tirer les leÃ§ons des Ã©checs de tes ancÃªtres. Ceux qui permettent Ã  la magie d'avoir le dessus, ceux qui se font manipuler plutÃ´t que d'Ãªtre les manipulateurs ne mÃ©ritent pas de possÃ©der le pouvoir qu'ils cherchent Ã  contrÃ´ler. Il est normal qu'ils paient le prix de leur incompÃ©tence.~
 
-@18   = ~Tu t'aventures sur un terrain dangereux, mage ! Ma mère était quelqu'un de bien jusqu'à ce que son impuissance à soigner la maladie de mon père l'amène à devenir obsédée par ses recherches et à céder à la corruption. Et même Lavok a finalement renoncé à son art corrompu pour obtenir une rédemption.~
+@18   = ~Tu t'aventures sur un terrain dangereux, mage ! Ma mÃ¨re Ã©tait quelqu'un de bien jusqu'Ã  ce que son impuissance Ã  soigner la maladie de mon pÃ¨re l'amÃ¨ne Ã  devenir obsÃ©dÃ©e par ses recherches et Ã  cÃ©der Ã  la corruption. Et mÃªme Lavok a finalement renoncÃ© Ã  son art corrompu pour obtenir une rÃ©demption.~
 
-@19   = ~Et quelle meilleure preuve pourrait-il y avoir de son échec ? Je t'ai entendu parler de lui, maître Corthala. Il avait plus de talent magique que l'ensemble du reste de ta famille et il avait à sa disposition les ressources inestimables de la sphère planaire – il est clair qu'il aurait dû prendre possession de ton corps pour continuer à vivre comme le plus puissant de ta lignée. Mais au lieu de ça il est mort vaincu, humilié, gâchant son dernier souffle à demander pardon. Je ne permettrai jamais au monde de se débarrasser de moi aussi facilement !~
+@19   = ~Et quelle meilleure preuve pourrait-il y avoir de son Ã©chec ? Je t'ai entendu parler de lui, maÃ®tre Corthala. Il avait plus de talent magique que l'ensemble du reste de ta famille et il avait Ã  sa disposition les ressources inestimables de la sphÃ¨re planaire â€“ il est clair qu'il aurait dÃ» prendre possession de ton corps pour continuer Ã  vivre comme le plus puissant de ta lignÃ©e. Mais au lieu de Ã§a il est mort vaincu, humiliÃ©, gÃ¢chant son dernier souffle Ã  demander pardon. Je ne permettrai jamais au monde de se dÃ©barrasser de moi aussi facilement !~
 
-@20   = ~Alors tu préfèrerais brûler dans les Abysses durant l'éternité, mage ? Malgré tout le pouvoir de Lavok, seuls ses regrets et l'intervention de <CHARNAME> l'ont sauvé d'un esclavage aux mains d'une horreur d'Outreplan. Pour chaque prédateur qui hante les plans il y en a toujours un autre plus puissant. Et il y aura toujours quelqu'un qui sera plus puissant que toi, Irenicus.~
+@20   = ~Alors tu prÃ©fÃ¨rerais brÃ»ler dans les Abysses durant l'Ã©ternitÃ©, mage ? MalgrÃ© tout le pouvoir de Lavok, seuls ses regrets et l'intervention de <CHARNAME> l'ont sauvÃ© d'un esclavage aux mains d'une horreur d'Outreplan. Pour chaque prÃ©dateur qui hante les plans il y en a toujours un autre plus puissant. Et il y aura toujours quelqu'un qui sera plus puissant que toi, Irenicus.~
 
-@21   = ~Cette conversation me fatigue, rôdeur ! Mon marché est entre moi et <CHARNAME>, et cela ne te regarde en rien. Tu ne me comprends pas et il vaut mieux que cela reste ainsi.~
+@21   = ~Cette conversation me fatigue, rÃ´deur ! Mon marchÃ© est entre moi et <CHARNAME>, et cela ne te regarde en rien. Tu ne me comprends pas et il vaut mieux que cela reste ainsi.~
 
-@22   = ~(Acquiesce) Comme tu veux, mage. Mais c'est *toi* qui à initié cette conversation et donc je suppose que les doutes te rongent toujours le coeur, en imaginant que tu en aies un. Bien. Peut-être l'exemple de Lavok t'apprendra-t'il finalement à reconnaître ta propre mortalité.~
+@22   = ~(Acquiesce) Comme tu veux, mage. Mais c'est *toi* qui Ã  initiÃ© cette conversation et donc je suppose que les doutes te rongent toujours le coeur, en imaginant que tu en aies un. Bien. Peut-Ãªtre l'exemple de Lavok t'apprendra-t'il finalement Ã  reconnaÃ®tre ta propre mortalitÃ©.~

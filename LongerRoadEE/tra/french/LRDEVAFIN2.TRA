@@ -1,87 +1,87 @@
-@0    = ~<CHARNAME>, il est temps pour toi de faire un choix, mais d'abord récapitulons les faits que tu dois prendre en considération avant de choisir l'une des solutions possibles.~ [nymph16]
+@0    = ~<CHARNAME>, il est temps pour toi de faire un choix, mais d'abord rÃ©capitulons les faits que tu dois prendre en considÃ©ration avant de choisir l'une des solutions possibles.~ [nymph16]
 
-@1    = ~(Soupir) Cette dispute s'est répétée bien des fois en de différentes manières durant toute l'histoire du multivers. Mais j'ai peur que chaque être doué d'intelligence doit l'apprendre par soi-même. Mais retournons à nos moutons. C'est ton choix final, enfant divin ? ~
+@1    = ~(Soupir) Cette dispute s'est rÃ©pÃ©tÃ©e bien des fois en de diffÃ©rentes maniÃ¨res durant toute l'histoire du multivers. Mais j'ai peur que chaque Ãªtre douÃ© d'intelligence doit l'apprendre par soi-mÃªme. Mais retournons Ã  nos moutons. C'est ton choix final, enfant divin ? ~
 
-@2    = ~Je vais donner l'Etincelle à la bébilith.~
+@2    = ~Je vais donner l'Etincelle Ã  la bÃ©bilith.~
 
-@3    = ~Je vais donner l'étincelle à la déva.~
+@3    = ~Je vais donner l'Ã©tincelle Ã  la dÃ©va.~
 
 @4    = ~Je veux toujours garder l'Etincelle !~
 
-@5    = ~Je souhaite créer un nouvel Etre et lui donner l'Etincelle !~
+@5    = ~Je souhaite crÃ©er un nouvel Etre et lui donner l'Etincelle !~
 
-@6    = ~<CHARNAME>, c'est l'heure pour toi de faire un choix, mais auparavant, récapitulons les faits que tu dois prendre en considération avant de choisir l'une des solutions possibles.~ [nymph26]
+@6    = ~<CHARNAME>, c'est l'heure pour toi de faire un choix, mais auparavant, rÃ©capitulons les faits que tu dois prendre en considÃ©ration avant de choisir l'une des solutions possibles.~ [nymph26]
 
-@7    = ~<CHARNAME>, c'est l'heure pour toi de faire un choix, mais auparavant, récapitulons les faits que tu dois prendre en considération avant de choisir l'une des solutions possibles.~ [nymph36]
+@7    = ~<CHARNAME>, c'est l'heure pour toi de faire un choix, mais auparavant, rÃ©capitulons les faits que tu dois prendre en considÃ©ration avant de choisir l'une des solutions possibles.~ [nymph36]
 
-@8    = ~Il en sera fait selon tes désirs, enfant divin.~ [nymph317]
+@8    = ~Il en sera fait selon tes dÃ©sirs, enfant divin.~ [nymph317]
 
-@9    = ~(Hausse les épaules) <CHARNAME>, tu ne devrais pas te soucier de ces détails mineurs. Tu as peiné pour récolter les Objets de l'Accord et à présent tu détiens ta juste récompense dans tes mains. Garde l'essence céleste – elle renforcera et augmentera ton pouvoir.~
+@9    = ~(Hausse les Ã©paules) <CHARNAME>, tu ne devrais pas te soucier de ces dÃ©tails mineurs. Tu as peinÃ© pour rÃ©colter les Objets de l'Accord et Ã  prÃ©sent tu dÃ©tiens ta juste rÃ©compense dans tes mains. Garde l'essence cÃ©leste â€“ elle renforcera et augmentera ton pouvoir.~
 
-@10   = ~Tu es étonnemment accomodant et élogieux aujourd'hui, Irenicus. Attends une seconde – tu ne voulais pas ce brillant bibelot pour toi-même ?~
+@10   = ~Tu es Ã©tonnemment accomodant et Ã©logieux aujourd'hui, Irenicus. Attends une seconde â€“ tu ne voulais pas ce brillant bibelot pour toi-mÃªme ?~
 
-@11   = ~J'imagine que tu essayes de m'attendrir pour t'assurer d'obtenir ta récompense promise. Pourtant, je me demande – pourquoi laisses-tu passer une telle opportunité de te restaurer avec cette essence céleste ? Cela ne ferait-il pas aussi bien l'affaire qu'une âme à moitié divine ?~
+@11   = ~J'imagine que tu essayes de m'attendrir pour t'assurer d'obtenir ta rÃ©compense promise. Pourtant, je me demande â€“ pourquoi laisses-tu passer une telle opportunitÃ© de te restaurer avec cette essence cÃ©leste ? Cela ne ferait-il pas aussi bien l'affaire qu'une Ã¢me Ã  moitiÃ© divine ?~
 
-@12   = ~Je le mérite très certainement, Irenicus, bien que je croirais tes compliments lorsque les abysses gêleront. Pourquoi es-tu si peu exigeant tout d'un coup ?~
+@12   = ~Je le mÃ©rite trÃ¨s certainement, Irenicus, bien que je croirais tes compliments lorsque les abysses gÃªleront. Pourquoi es-tu si peu exigeant tout d'un coup ?~
 
-@13   = ~<CHARNAME>, malgré toutes mes "lacunes", je ne suis pas un imbécile. J'ai vu ce qu'une poignée de substance brillante a fait à l'ex-bebilith. Et bien que la souillure qui coule dans tes veines puisse être suffisante pour contrecarrer son influence, je ne possède pas ce genre de protection. Je n'ai aucun désir de passer le reste de ma vie à pleurer à genoux devant un quelconque pouvoir du "bien".~
+@13   = ~<CHARNAME>, malgrÃ© toutes mes "lacunes", je ne suis pas un imbÃ©cile. J'ai vu ce qu'une poignÃ©e de substance brillante a fait Ã  l'ex-bebilith. Et bien que la souillure qui coule dans tes veines puisse Ãªtre suffisante pour contrecarrer son influence, je ne possÃ¨de pas ce genre de protection. Je n'ai aucun dÃ©sir de passer le reste de ma vie Ã  pleurer Ã  genoux devant un quelconque pouvoir du "bien".~
 
-@14   = ~La force vitale de ces deux êtres est liée à l'Etincelle. Le poison tue lentement la déva, mais un mal différent affecte à présent la bébilith.~
+@14   = ~La force vitale de ces deux Ãªtres est liÃ©e Ã  l'Etincelle. Le poison tue lentement la dÃ©va, mais un mal diffÃ©rent affecte Ã  prÃ©sent la bÃ©bilith.~
 
-@15   = ~Le serviteur de l'abysse a besoin du bien et comme une plante à laquelle on refuserait la chaleur du soleil, le démon transformé dépérira et mourra sans l'Etincelle de la déva pour le nourrir.~
+@15   = ~Le serviteur de l'abysse a besoin du bien et comme une plante Ã  laquelle on refuserait la chaleur du soleil, le dÃ©mon transformÃ© dÃ©pÃ©rira et mourra sans l'Etincelle de la dÃ©va pour le nourrir.~
 
-@16   = ~Mortel, le pouvoir qui règne sur ce morceau de réalité est la terre-mère Chauntea elle-même. Et bien que j'approuve complètement que tu renonces à toute revendication sur l'Etincelle, je ne comprends pas pourquoi tu refuses de faire hommage à la grande mère ? N'es-tu pas sa création, comme tous les être vivants sur Toril ? ~ [nymph37]
+@16   = ~Mortel, le pouvoir qui rÃ¨gne sur ce morceau de rÃ©alitÃ© est la terre-mÃ¨re Chauntea elle-mÃªme. Et bien que j'approuve complÃ¨tement que tu renonces Ã  toute revendication sur l'Etincelle, je ne comprends pas pourquoi tu refuses de faire hommage Ã  la grande mÃ¨re ? N'es-tu pas sa crÃ©ation, comme tous les Ãªtre vivants sur Toril ? ~ [nymph37]
 
-@17   = ~Esprit, je suis tout aussi au-dessus des lois de la Nature que je le suis des autres règles.~ [IRENIC76]
+@17   = ~Esprit, je suis tout aussi au-dessus des lois de la Nature que je le suis des autres rÃ¨gles.~ [IRENIC76]
 
-@18   = ~Mais... Mais il est tout simplement impossible que ta volonté rentre en conflit avec les lois de la Nature, mortel !~
+@18   = ~Mais... Mais il est tout simplement impossible que ta volontÃ© rentre en conflit avec les lois de la Nature, mortel !~
 
-@19   = ~Pourquoi dis-tu que je ne peux pas rentrer en conflit avec la Nature ? Si je le voulais, qu'est-ce qui m'en empêcherait ?~
+@19   = ~Pourquoi dis-tu que je ne peux pas rentrer en conflit avec la Nature ? Si je le voulais, qu'est-ce qui m'en empÃªcherait ?~
 
-@20   = ~Ton esprit et les lois de la Nature ne font qu'un mortel. Je voulais simplement dire qu'en essayant de t'opposer à la Nature, tu ne ferais qu'agir en accord avec les lois de la Nature. Pour être valide, une loi de la Nature doit prendre en compte la manière dont un mortel agit, ou, si tu préfères, comment *tu* choisis d'agir.~ [nymph39]
+@20   = ~Ton esprit et les lois de la Nature ne font qu'un mortel. Je voulais simplement dire qu'en essayant de t'opposer Ã  la Nature, tu ne ferais qu'agir en accord avec les lois de la Nature. Pour Ãªtre valide, une loi de la Nature doit prendre en compte la maniÃ¨re dont un mortel agit, ou, si tu prÃ©fÃ¨res, comment *tu* choisis d'agir.~ [nymph39]
 
-@21   = ~Ce paradoxe est splendide et simple à comprendre. Oui, c'est ainsi que la grande balance triomphe à la fin – aucun esprit, mortel ou autre, ne peut être à jamais en contradiction avec les lois de la Nature. Soit le conflit est résolu, soit il cesse de fonctionner.~
+@21   = ~Ce paradoxe est splendide et simple Ã  comprendre. Oui, c'est ainsi que la grande balance triomphe Ã  la fin â€“ aucun esprit, mortel ou autre, ne peut Ãªtre Ã  jamais en contradiction avec les lois de la Nature. Soit le conflit est rÃ©solu, soit il cesse de fonctionner.~
 
-@22   = ~Exactement ! Je n'aurais pas mieux dit moi-même. Comme le ruisseau clair qui coule le long de la montagne en granite finira par en éroder les bases mêmes, la simple vérité des lois Naturelles en fait autant, même sur l'esprit le plus obstiné.~
+@22   = ~Exactement ! Je n'aurais pas mieux dit moi-mÃªme. Comme le ruisseau clair qui coule le long de la montagne en granite finira par en Ã©roder les bases mÃªmes, la simple vÃ©ritÃ© des lois Naturelles en fait autant, mÃªme sur l'esprit le plus obstinÃ©.~
 
-@23   = ~Tes belles paroles ne m'intéressent pas ! Esprit, puisque ton devoir ici est accompli – laisse nous partir en paix.~ [DPJON137]
+@23   = ~Tes belles paroles ne m'intÃ©ressent pas ! Esprit, puisque ton devoir ici est accompli â€“ laisse nous partir en paix.~ [DPJON137]
 
 @24   = ~Attends, laisse ton chef faire son choix.~ [nymph19]
 
-@25   = ~Plusieurs options te sont offertes, enfant divin, et garder l'essence de la déva est simplement l'un d'entre eux. Cette solution est, comme tu dois l'avoir déjà réalisé, égoïste et avide. Si tu gardes l'Etincelle, les deux être que tu as amené ici mourront.~
+@25   = ~Plusieurs options te sont offertes, enfant divin, et garder l'essence de la dÃ©va est simplement l'un d'entre eux. Cette solution est, comme tu dois l'avoir dÃ©jÃ  rÃ©alisÃ©, Ã©goÃ¯ste et avide. Si tu gardes l'Etincelle, les deux Ãªtre que tu as amenÃ© ici mourront.~
 
-@26   = ~Autre solution, tu peux transférer l'essence dans l'une des créatures – et soit rendre l'Etincelle à la déva avant quelle ne meurre, ou la donner à la bébilith qui ne peux plus être ce qu'elle a été et qui périra si elle est privée de la lumière céleste.~
+@26   = ~Autre solution, tu peux transfÃ©rer l'essence dans l'une des crÃ©atures â€“ et soit rendre l'Etincelle Ã  la dÃ©va avant quelle ne meurre, ou la donner Ã  la bÃ©bilith qui ne peux plus Ãªtre ce qu'elle a Ã©tÃ© et qui pÃ©rira si elle est privÃ©e de la lumiÃ¨re cÃ©leste.~
 
-@27   = ~Ou tu peux créer une nouvelle vie en combinant les essences de la déva et de la bébilith en un nouvel Etre merveilleux et en le récompensant de l'Etincelle.~
+@27   = ~Ou tu peux crÃ©er une nouvelle vie en combinant les essences de la dÃ©va et de la bÃ©bilith en un nouvel Etre merveilleux et en le rÃ©compensant de l'Etincelle.~
 
-@28   = ~Quoi ?! De toutes les bêtises qui ont été dégoisées aujourd'hui par de nombreux imbéciles, cette dernière est la plus pathétique et ridicule de toutes ! Ce genre d'acte insensé n'accomplirait rien du tout ! Les instincts naturels de la bébilith resteraient pour toujours en conflit avec ceux de la déva.~
+@28   = ~Quoi ?! De toutes les bÃªtises qui ont Ã©tÃ© dÃ©goisÃ©es aujourd'hui par de nombreux imbÃ©ciles, cette derniÃ¨re est la plus pathÃ©tique et ridicule de toutes ! Ce genre d'acte insensÃ© n'accomplirait rien du tout ! Les instincts naturels de la bÃ©bilith resteraient pour toujours en conflit avec ceux de la dÃ©va.~
 
-@29   = ~Tu créérais une monstruosité – Une créature tourmentée et divisée à jamais. Ce serait gâcher du pouvoir et une possibilité. <CHARNAME>, j'insiste pour que tu gardes l'Etincelle !~ [DPJON117]
+@29   = ~Tu crÃ©Ã©rais une monstruositÃ© â€“ Une crÃ©ature tourmentÃ©e et divisÃ©e Ã  jamais. Ce serait gÃ¢cher du pouvoir et une possibilitÃ©. <CHARNAME>, j'insiste pour que tu gardes l'Etincelle !~ [DPJON117]
 
-@30   = ~Tu peux rire à ses mots tant que tu veux, magicien... Cela ne change pas le fait que je me sens bien plus heureux dans cet état.~
+@30   = ~Tu peux rire Ã  ses mots tant que tu veux, magicien... Cela ne change pas le fait que je me sens bien plus heureux dans cet Ã©tat.~
 
-@31   = ~(Grimace) C'est l'une des rares fois ou je suis totalement d'accord avec toi, magicien. Cette pitoyable démonstration sentimentale est allée trop loin – il est tant qu'elle cesse !~
+@31   = ~(Grimace) C'est l'une des rares fois ou je suis totalement d'accord avec toi, magicien. Cette pitoyable dÃ©monstration sentimentale est allÃ©e trop loin â€“ il est tant qu'elle cesse !~
 
-@32   = ~Certains pourraient dire que ce qui serait ainsi créé ne serait qu'un simple esprit mortel.~ [nymph113]
+@32   = ~Certains pourraient dire que ce qui serait ainsi crÃ©Ã© ne serait qu'un simple esprit mortel.~ [nymph113]
 
-@33   = ~Etranger, je ne perçois pas clairement quel est ton problème, mais tes mots me font comprendre que tu as besoin d'aide. Puisque tu ne nous permettra pas de te soigner, la seule consolation que nous pouvons te donner est de te rassurer.~ [nymph27]
+@33   = ~Etranger, je ne perÃ§ois pas clairement quel est ton problÃ¨me, mais tes mots me font comprendre que tu as besoin d'aide. Puisque tu ne nous permettra pas de te soigner, la seule consolation que nous pouvons te donner est de te rassurer.~ [nymph27]
 
-@34   = ~Je ne suis pas sûre que les principes de ce plan puissent être exprimés correctement en quelques mots... Mais je vais essayer.~
+@34   = ~Je ne suis pas sÃ»re que les principes de ce plan puissent Ãªtre exprimÃ©s correctement en quelques mots... Mais je vais essayer.~
 
-@35   = ~Nous croyons que la seule différence entre ce que tu appelles une créature du "bien" et une créature du "mal" est que la première est bien plus ancienne que la seconde. Malheureusement, il faut de nombreux cycles de vies à certains d'entre nous pour apprendre ce qui est peut-être la chose la plus importante dans le multivers – le mal est souffrance, car la cruauté blesse à la fois celui qui l'inflige et la victime.~ [nymph313]
+@35   = ~Nous croyons que la seule diffÃ©rence entre ce que tu appelles une crÃ©ature du "bien" et une crÃ©ature du "mal" est que la premiÃ¨re est bien plus ancienne que la seconde. Malheureusement, il faut de nombreux cycles de vies Ã  certains d'entre nous pour apprendre ce qui est peut-Ãªtre la chose la plus importante dans le multivers â€“ le mal est souffrance, car la cruautÃ© blesse Ã  la fois celui qui l'inflige et la victime.~ [nymph313]
 
-@36   = ~Oui, et tout ce qui empêche le démon moyen de tomber à genoux devant sa victime est un manque de motivation !~ [IRENIC92]
+@36   = ~Oui, et tout ce qui empÃªche le dÃ©mon moyen de tomber Ã  genoux devant sa victime est un manque de motivation !~ [IRENIC92]
 
-@37   = ~(Désigne la paire inconsciente) Ou peut-être n'est-ce qu'une question de temps ? Laisse-moi t'en assurer – tous les être doués d'intelligence sont fondamentalement bons.~ [nymph314]
+@37   = ~(DÃ©signe la paire inconsciente) Ou peut-Ãªtre n'est-ce qu'une question de temps ? Laisse-moi t'en assurer â€“ tous les Ãªtre douÃ©s d'intelligence sont fondamentalement bons.~ [nymph314]
 
-@38   = ~Avec tout mon respect, je ne suis pas d'accord. Votre approche est trop simpliste. Je doute que deux esprits individuels soient capables d'être d'accord ne serait-ce que sur les définitions de base du bien et du mal.~
+@38   = ~Avec tout mon respect, je ne suis pas d'accord. Votre approche est trop simpliste. Je doute que deux esprits individuels soient capables d'Ãªtre d'accord ne serait-ce que sur les dÃ©finitions de base du bien et du mal.~
 
-@39   = ~Je suis d'accord. Je ne l'aurais pas mieux expliqué moi-même.~
+@39   = ~Je suis d'accord. Je ne l'aurais pas mieux expliquÃ© moi-mÃªme.~
 
-@40   = ~Je me moque de vos énigmes incompréhensibles. On ne peut pas faire vite ? Bien ou mal – on s'en fiche quand ma destinée est en jeu !~
+@40   = ~Je me moque de vos Ã©nigmes incomprÃ©hensibles. On ne peut pas faire vite ? Bien ou mal â€“ on s'en fiche quand ma destinÃ©e est en jeu !~
 
-@41   = ~Ridicule ! Le mal est déplorable et irrécupérable. Une âme contaminée est perdue à tout jamais et son propriétaire doit être pourchassé et puni comme il le mérite.~
+@41   = ~Ridicule ! Le mal est dÃ©plorable et irrÃ©cupÃ©rable. Une Ã¢me contaminÃ©e est perdue Ã  tout jamais et son propriÃ©taire doit Ãªtre pourchassÃ© et puni comme il le mÃ©rite.~
 
 @42   = ~(Vous restez silencieux et refusez d'exprimer une opinion sur le sujet.)~
 
-@43   = ~(Ricane) Tout le monde est "bon", vous dites ? Je vous mets au défi de me répéter ça en face *après* que j'ai obtenu le pouvoir de Bhaal en tant que son unique et véritable héritier.~
+@43   = ~(Ricane) Tout le monde est "bon", vous dites ? Je vous mets au dÃ©fi de me rÃ©pÃ©ter Ã§a en face *aprÃ¨s* que j'ai obtenu le pouvoir de Bhaal en tant que son unique et vÃ©ritable hÃ©ritier.~

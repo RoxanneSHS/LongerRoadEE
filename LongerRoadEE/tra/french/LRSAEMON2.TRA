@@ -1,31 +1,31 @@
-@0    = ~Intéressant, il semble que le capitaine Havarian ne soit pas totalement immunisé aux infidélités de la roue proverbiale. Je parle bien sûr du Destin, Saemon, pas des commandes de ton bateau. Que s'est-il passé ici ?~
+@0    = ~IntÃ©ressant, il semble que le capitaine Havarian ne soit pas totalement immunisÃ© aux infidÃ©litÃ©s de la roue proverbiale. Je parle bien sÃ»r du Destin, Saemon, pas des commandes de ton bateau. Que s'est-il passÃ© ici ?~
 
-@1    = ~Maître... Irenicus. Je suppose que c'était trop espérer que votre dernière apparition n'ait été qu'un cauchemar ou que <CHARNAME> vous ait renvoyé avant de revenir à Amkethran ? D'un autre coté, il y a peut-être un avantage à tirer de votre présence... Dans un sens.~
+@1    = ~MaÃ®tre... Irenicus. Je suppose que c'Ã©tait trop espÃ©rer que votre derniÃ¨re apparition n'ait Ã©tÃ© qu'un cauchemar ou que <CHARNAME> vous ait renvoyÃ© avant de revenir Ã  Amkethran ? D'un autre cotÃ©, il y a peut-Ãªtre un avantage Ã  tirer de votre prÃ©sence... Dans un sens.~
 
-@2    = ~On pourrait dire que j'ai l'habitude d'apparaître soudainement comme un bouton. Et tu n'as pas encore répondu à ma question.~
+@2    = ~On pourrait dire que j'ai l'habitude d'apparaÃ®tre soudainement comme un bouton. Et tu n'as pas encore rÃ©pondu Ã  ma question.~
 
-@3    = ~Je ne suis pas d'humeur à l'introspection. Pas alors que je me tiens au milieu des corps de mes vieux compagnons ! Balthazar a causé ce massacre et je veux ma vengeance.~
+@3    = ~Je ne suis pas d'humeur Ã  l'introspection. Pas alors que je me tiens au milieu des corps de mes vieux compagnons ! Balthazar a causÃ© ce massacre et je veux ma vengeance.~
 
-@4    = ~Ah, le baume le plus doux jamais inventé pour guérir un esprit blessé. Et certains osent dire que la Destinée n'a pas le sens de l'humour.~
+@4    = ~Ah, le baume le plus doux jamais inventÃ© pour guÃ©rir un esprit blessÃ©. Et certains osent dire que la DestinÃ©e n'a pas le sens de l'humour.~
 
-@5    = ~Peut-être... <CHARNAME>, écouteras-tu mon offre ?~
+@5    = ~Peut-Ãªtre... <CHARNAME>, Ã©couteras-tu mon offre ?~
 
-@6    = ~Ce n'est pas un sort difficile, mais il est délicat à enlever, j'en ai peur. Ce serait plus facile d'utiliser la route que Saemon a suggéré. <CHARNAME>, cette fois je peux même le soumettre à un contrat magique si tu veux.~
+@6    = ~Ce n'est pas un sort difficile, mais il est dÃ©licat Ã  enlever, j'en ai peur. Ce serait plus facile d'utiliser la route que Saemon a suggÃ©rÃ©. <CHARNAME>, cette fois je peux mÃªme le soumettre Ã  un contrat magique si tu veux.~
 
-@7    = ~Ce serait un grave abus de magie, Maître Jon ! Ne me faites-vous donc pas confiance ?~
+@7    = ~Ce serait un grave abus de magie, MaÃ®tre Jon ! Ne me faites-vous donc pas confiance ?~
 
 @8    = ~Non.~
 
-@9    = ~Désolé que vous euh... Voyez les choses de cette façon. Mais qu'en dis-tu, <CHARNAME> ?~
+@9    = ~DÃ©solÃ© que vous euh... Voyez les choses de cette faÃ§on. Mais qu'en dis-tu, <CHARNAME> ?~
 
-@10   = ~Tu ne crois tout de même pas que j'avais le choix dans les évènements de Spellhold ? Si tu ne me crois pas, demande-*lui* toi-même.~
+@10   = ~Tu ne crois tout de mÃªme pas que j'avais le choix dans les Ã©vÃ¨nements de Spellhold ? Si tu ne me crois pas, demande-*lui* toi-mÃªme.~
 
-@11   = ~Je peux t'assurer <CHARNAME>, qu'il dit la vérité. Saemon Havarian avait en la matière autant de choix que ton ancien associé. Yoshimo était son nom je crois, mais ma mémoire peut me tromper.~
+@11   = ~Je peux t'assurer <CHARNAME>, qu'il dit la vÃ©ritÃ©. Saemon Havarian avait en la matiÃ¨re autant de choix que ton ancien associÃ©. Yoshimo Ã©tait son nom je crois, mais ma mÃ©moire peut me tromper.~
 
-@12   = ~Es-tu en train de me dire que Saemon était soumis à un contrat magique ?~
+@12   = ~Es-tu en train de me dire que Saemon Ã©tait soumis Ã  un contrat magique ?~
 
-@13   = ~Quoi ? Posais-tu toujours un geas sur tous les sous-fifres que tu as employés ?~
+@13   = ~Quoi ? Posais-tu toujours un geas sur tous les sous-fifres que tu as employÃ©s ?~
 
-@14   = ~Ce n'était pas nécessaire avec Saemon. Il savait qu'il n'avait aucun intérêt à me trahir. Bodhi gardait un oeil sur ses... Relations, juste au cas où il aurait besoin d'une raison pour nous rester loyal. Aussi ridicule que cela puisse paraître, le capitaine Saemon est sentimentalement très attaché à ses enfants... Bien que je doute qu'il se souvienne du nom de leurs mères.~
+@14   = ~Ce n'Ã©tait pas nÃ©cessaire avec Saemon. Il savait qu'il n'avait aucun intÃ©rÃªt Ã  me trahir. Bodhi gardait un oeil sur ses... Relations, juste au cas oÃ¹ il aurait besoin d'une raison pour nous rester loyal. Aussi ridicule que cela puisse paraÃ®tre, le capitaine Saemon est sentimentalement trÃ¨s attachÃ© Ã  ses enfants... Bien que je doute qu'il se souvienne du nom de leurs mÃ¨res.~
 
-@15   = ~Et en remerciement de t'avoir mené jusqu'à l'île, j'ai perdu mon meilleur navire !~
+@15   = ~Et en remerciement de t'avoir menÃ© jusqu'Ã  l'Ã®le, j'ai perdu mon meilleur navire !~

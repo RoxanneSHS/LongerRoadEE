@@ -1,22 +1,22 @@
-@0    = ~Tandis qu'Irenicus s'approche de la machine de Lum le fou, il sort un rouleau de parchemin couvert d'étranges symboles magiques. Marmonnant dans sa barbe, il commence à essayer les leviers et les boutons de la machine.~
+@0    = ~Tandis qu'Irenicus s'approche de la machine de Lum le fou, il sort un rouleau de parchemin couvert d'Ã©tranges symboles magiques. Marmonnant dans sa barbe, il commence Ã  essayer les leviers et les boutons de la machine.~
 
-@1    = ~Tandis qu'il actionne levier après levier, vérifiant parfois ses notes, la Machine commence à vibrer et à bourdonner sous ses mains. Soudain, ses doigts se mettent à bouger trop vite pour que vous puissiez vous souvenir de la combinaison de leviers et de cadrants qu'il a utilisé.~
+@1    = ~Tandis qu'il actionne levier aprÃ¨s levier, vÃ©rifiant parfois ses notes, la Machine commence Ã  vibrer et Ã  bourdonner sous ses mains. Soudain, ses doigts se mettent Ã  bouger trop vite pour que vous puissiez vous souvenir de la combinaison de leviers et de cadrants qu'il a utilisÃ©.~
 
-@2    = ~Je le savais ! Il y a toujours de la logique même parmi le chaos le plus abondant.~ [DPJON157]
+@2    = ~Je le savais ! Il y a toujours de la logique mÃªme parmi le chaos le plus abondant.~ [DPJON157]
 
 @3    = ~Il tend la main et essaye un bouton. La Machine bruisse, bourdonne et tremble de pouvoir contenu.~
 
 @4    = ~Soudain vous voyez le mage rayonner d'aplomb... Une attirance et une confiance en soi que les autres peuvent sentir chez lui. Jon Irenicus gagne 1 point de CHARISME.~
 
-@5    = ~(Tressaille) C'est une mauvaise plaisanterie ?! Ça suffit ! On ne peut rien faire d'utile avec cette machine.~
+@5    = ~(Tressaille) C'est une mauvaise plaisanterie ?! Ã‡a suffit ! On ne peut rien faire d'utile avec cette machine.~
 
-@6    = ~Enfant divin, c'était l'une des conversations les plus déplaisantes que j'ai eu depuis que tu m'as invoqué des abysses. En tous cas, il faudrait peut-être penser à trouver un moyen de libérer cet incapable de son bocal.~ [DPJON162]
+@6    = ~Enfant divin, c'Ã©tait l'une des conversations les plus dÃ©plaisantes que j'ai eu depuis que tu m'as invoquÃ© des abysses. En tous cas, il faudrait peut-Ãªtre penser Ã  trouver un moyen de libÃ©rer cet incapable de son bocal.~ [DPJON162]
 
-@7    = ~Bon sang, Irenicus ! C'est tout ce que tu as à dire ? Que dois-je faire maintenant ?~
+@7    = ~Bon sang, Irenicus ! C'est tout ce que tu as Ã  dire ? Que dois-je faire maintenant ?~
 
-@8    = ~C'est plutôt amusant, à mon avis. A présent nous devrions penser à la prochaine étape.~
+@8    = ~C'est plutÃ´t amusant, Ã  mon avis. A prÃ©sent nous devrions penser Ã  la prochaine Ã©tape.~
 
-@9    = ~Regarde aux alentours. Pose des questions à toutes les personnes que tu rencontres. Je peux tout de même émettre une supposition – Si le dôme de verre est une création de la machine, nous devrions rechercher quelque chose qui ait de même origine.~
+@9    = ~Regarde aux alentours. Pose des questions Ã  toutes les personnes que tu rencontres. Je peux tout de mÃªme Ã©mettre une supposition â€“ Si le dÃ´me de verre est une crÃ©ation de la machine, nous devrions rechercher quelque chose qui ait de mÃªme origine.~
 
 @10   = ~Si tu veux que je t'ouvre la porte vers le prochain niveau, il suffit de le dire. Sinon, amuse-toi tout seul avec cette machine infernale. Mais d'abord, trouve toi un autre larbin qui ramassera tes cendres sur le sol !~
 
@@ -28,58 +28,58 @@
 
 @14   = ~Irenicus, je t'ordonne de m'expliquer comment marche la Machine !~
 
-@15   = ~Non. Je ne gâcherai pas plus de mon temps sur ces absurdités. Il faudrait des années pour faire des recherches sérieuses sur cet artefact. Et je ne suis pas d'humeur à les faire vite et mal.~ [DPJON136]
+@15   = ~Non. Je ne gÃ¢cherai pas plus de mon temps sur ces absurditÃ©s. Il faudrait des annÃ©es pour faire des recherches sÃ©rieuses sur cet artefact. Et je ne suis pas d'humeur Ã  les faire vite et mal.~ [DPJON136]
 
 @16   = ~A tes ordres, enfant divin.~
 
-@17   = ~(Rire) <CHARNAME>, on dirait que tu attires la folie comme la viande pourrie attire les mouches. J'imagine que c'est encore un esprit faible, qui a été brisé lorsqu'il s'est mêlé de la magie.~ [IRENIC92]
+@17   = ~(Rire) <CHARNAME>, on dirait que tu attires la folie comme la viande pourrie attire les mouches. J'imagine que c'est encore un esprit faible, qui a Ã©tÃ© brisÃ© lorsqu'il s'est mÃªlÃ© de la magie.~ [IRENIC92]
 
-@18   = ~Hé, Irenicus, je suis sûr que nous avons tous remarqué... Une certaine répétitivité.~ [IMOEN33]
+@18   = ~HÃ©, Irenicus, je suis sÃ»r que nous avons tous remarquÃ©... Une certaine rÃ©pÃ©titivitÃ©.~ [IMOEN33]
 
 @19   = ~Que sous-entends-tu, enfant ?~ [DPJON150]
 
-@20   = ~Rien, Glorieuse Horreur Masquée, Seigneur des Egouts d'Athkatla et d'Autres Catacombes Variées.~ [IMOEN15]
+@20   = ~Rien, Glorieuse Horreur MasquÃ©e, Seigneur des Egouts d'Athkatla et d'Autres Catacombes VariÃ©es.~ [IMOEN15]
 
-@21   = ~Alors arrête de m'interrompre quand je m'adresse à <CHARNAME>.~ [DPJON153]
+@21   = ~Alors arrÃªte de m'interrompre quand je m'adresse Ã  <CHARNAME>.~ [DPJON153]
 
-@22   = ~Ce mage misérable est coincé à l'intérieur d'une machine magique intéressante. L'apparence de cette "machine " correspond à un vieux diagramme que j'ai vu une fois dans un manuscrit traitant de magie planaire.~
+@22   = ~Ce mage misÃ©rable est coincÃ© Ã  l'intÃ©rieur d'une machine magique intÃ©ressante. L'apparence de cette "machine " correspond Ã  un vieux diagramme que j'ai vu une fois dans un manuscrit traitant de magie planaire.~
 
 @23   = ~Pourquoi papotez-vous entre vous alors que nous sommes en pleine discussion cruciale ?~
 
-@24   = ~Ah, je savais bien que cet objet m'était familier. <CHARNAME>, je pense que cet imbécile empoté a joué avec la machine et en est à présent prisonnier.~
+@24   = ~Ah, je savais bien que cet objet m'Ã©tait familier. <CHARNAME>, je pense que cet imbÃ©cile empotÃ© a jouÃ© avec la machine et en est Ã  prÃ©sent prisonnier.~
 
-@25   = ~Tu ne sais rien de moi ! Tu ne sais pas ce que je dois faire pour... Pour... Zut, j'ai oublié ma réplique. Elle était excellente en tous cas.~
+@25   = ~Tu ne sais rien de moi ! Tu ne sais pas ce que je dois faire pour... Pour... Zut, j'ai oubliÃ© ma rÃ©plique. Elle Ã©tait excellente en tous cas.~
 
-@26   = ~Ahum. Quoi qu'il en soit, j'étais en train de te dire que je pouvais invoquer des créatures des plans pour me divertir dans ma solitude.~
+@26   = ~Ahum. Quoi qu'il en soit, j'Ã©tais en train de te dire que je pouvais invoquer des crÃ©atures des plans pour me divertir dans ma solitude.~
 
-@27   = ~Etre coincé dans un piège est certainement la manière la plus singulière d'obtenir l'immortalité.~ [IRENIC92]
+@27   = ~Etre coincÃ© dans un piÃ¨ge est certainement la maniÃ¨re la plus singuliÃ¨re d'obtenir l'immortalitÃ©.~ [IRENIC92]
 
-@28   = ~(Marmonne) C'est toujours mieux que de voler l'âme de quelqu'un et de brûler l'Arbre de Vie jusqu'à ce qu'il n'en reste rien, selon moi.~ [IMOEN35]
+@28   = ~(Marmonne) C'est toujours mieux que de voler l'Ã¢me de quelqu'un et de brÃ»ler l'Arbre de Vie jusqu'Ã  ce qu'il n'en reste rien, selon moi.~ [IMOEN35]
 
-@29   = ~Au fait, Irenicus, est-ce que les bocaux de verres sont la dernière grande mode parmi les cinglés accros à la magie ? Je veux dire... Faut-il *absolument* en avoir un pour être nominé mage fou de l'année ?~
+@29   = ~Au fait, Irenicus, est-ce que les bocaux de verres sont la derniÃ¨re grande mode parmi les cinglÃ©s accros Ã  la magie ? Je veux dire... Faut-il *absolument* en avoir un pour Ãªtre nominÃ© mage fou de l'annÃ©e ?~
 
-@30   = ~Enfant imprudent, arrête de m'interrompre avec tes commentaires inutiles lorsque je parle de problèmes de la plus haute importance !~
+@30   = ~Enfant imprudent, arrÃªte de m'interrompre avec tes commentaires inutiles lorsque je parle de problÃ¨mes de la plus haute importance !~
 
-@31   = ~<CHARNAME>, je suis sûr que ce vieux ver serait plus qu'heureux de se débarrasser de son "invulnérabilité". Je pense que nous aurons besoin d'utiliser la machine pour sortir de ce niveau.~
+@31   = ~<CHARNAME>, je suis sÃ»r que ce vieux ver serait plus qu'heureux de se dÃ©barrasser de son "invulnÃ©rabilitÃ©". Je pense que nous aurons besoin d'utiliser la machine pour sortir de ce niveau.~
 
-@32   = ~Pourquoi continuez-vous à parler entre vous ? Je suis Carston, le Seigneur Immortel de la Cloche de Verre !~
+@32   = ~Pourquoi continuez-vous Ã  parler entre vous ? Je suis Carston, le Seigneur Immortel de la Cloche de Verre !~
 
-@33   = ~Tu devrais demander à ce stupide vieillard comment utiliser la machine avant de le tuer, mais je doute qu'il soit d'une grande utilité.~
+@33   = ~Tu devrais demander Ã  ce stupide vieillard comment utiliser la machine avant de le tuer, mais je doute qu'il soit d'une grande utilitÃ©.~
 
-@34   = ~Encore un autre cas de mégalomanie. C'est très commun chez les dragons, j'en suis sûr. C'est le jour de sortie pour les malades mentaux ?~ [IRENIC92]
+@34   = ~Encore un autre cas de mÃ©galomanie. C'est trÃ¨s commun chez les dragons, j'en suis sÃ»r. C'est le jour de sortie pour les malades mentaux ?~ [IRENIC92]
 
-@35   = ~(Etouffe un rire) Patience, Joneleth. Ce sera bientôt fini.~ [IMOEN35]
+@35   = ~(Etouffe un rire) Patience, Joneleth. Ce sera bientÃ´t fini.~ [IMOEN35]
 
-@36   = ~En parlant de dragons, Irenicus, j'ai toujours voulu te poser une question à propos de ces oeufs que tu as volé dans l'Ombre-Terre. C'était ton idée ou celle de Bodhi ?~
+@36   = ~En parlant de dragons, Irenicus, j'ai toujours voulu te poser une question Ã  propos de ces oeufs que tu as volÃ© dans l'Ombre-Terre. C'Ã©tait ton idÃ©e ou celle de Bodhi ?~
 
-@37   = ~Bien sûr, c'était *mon* idée depuis le début. Malgré toute son audace, Bodhi a toujours eu un intellect proche de celui d'un xvart. Mais elle était utile pour l'exécution du plan. Pourquoi poses-tu la question, jeune fille ?~
+@37   = ~Bien sÃ»r, c'Ã©tait *mon* idÃ©e depuis le dÃ©but. MalgrÃ© toute son audace, Bodhi a toujours eu un intellect proche de celui d'un xvart. Mais elle Ã©tait utile pour l'exÃ©cution du plan. Pourquoi poses-tu la question, jeune fille ?~
 
-@38   = ~Sais pas. Je suis peut-être simplement curieuse, d'accord ? On pourrait dire que c'est de la curiosité professionnelle... Pourtant, je n'aurais jamais cru que tu étais du genre à voler des choses. Hum... A part les âmes, bien sûr. Pourquoi voler les oeufs du dragon – un reste d'humour elfique ?~
+@38   = ~Sais pas. Je suis peut-Ãªtre simplement curieuse, d'accord ? On pourrait dire que c'est de la curiositÃ© professionnelle... Pourtant, je n'aurais jamais cru que tu Ã©tais du genre Ã  voler des choses. Hum... A part les Ã¢mes, bien sÃ»r. Pourquoi voler les oeufs du dragon â€“ un reste d'humour elfique ?~
 
-@39   = ~Je n'ai jamais rien entendu de plus absurde que cette dernière hypothèse. Je refuse de faire le moindre commentaire à ce sujet.~
+@39   = ~Je n'ai jamais rien entendu de plus absurde que cette derniÃ¨re hypothÃ¨se. Je refuse de faire le moindre commentaire Ã  ce sujet.~
 
-@40   = ~En tous cas, <CHARNAME>, si tu veux retirer la moindre information de ce lézard vaniteux, parle doucement et feins de le "respecter". C'est amusant, les dragons ne résistent pas la plupart du temps à la flatterie la plus basse.~
+@40   = ~En tous cas, <CHARNAME>, si tu veux retirer la moindre information de ce lÃ©zard vaniteux, parle doucement et feins de le "respecter". C'est amusant, les dragons ne rÃ©sistent pas la plupart du temps Ã  la flatterie la plus basse.~
 
-@41   = ~Le babillage des créatures inférieures peut être très divertissant à écouter. Mais on ne devrait jamais se laisser offenser par leur charabia.~
+@41   = ~Le babillage des crÃ©atures infÃ©rieures peut Ãªtre trÃ¨s divertissant Ã  Ã©couter. Mais on ne devrait jamais se laisser offenser par leur charabia.~
 
-@42   = ~(Hausse les épaules) Une mort horrible attend souvent les novices dans l'Art. Ils devraient connaître les risques avant d'accepter un apprentissage avec un autre mage. Si tu as été assez stupide pour confier ta vie à un imbécile incompétent tel que ton ancien maître, il faut en payer le prix.~
+@42   = ~(Hausse les Ã©paules) Une mort horrible attend souvent les novices dans l'Art. Ils devraient connaÃ®tre les risques avant d'accepter un apprentissage avec un autre mage. Si tu as Ã©tÃ© assez stupide pour confier ta vie Ã  un imbÃ©cile incompÃ©tent tel que ton ancien maÃ®tre, il faut en payer le prix.~

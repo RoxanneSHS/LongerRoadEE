@@ -1,131 +1,131 @@
 @0    = ~<CHARNAME> ! Il est encore en train de me regarder.~ [IMOEN16]
 
-@1    = ~Des rivières de sang... Du sang et des cendres sanglantes ! Pourquoi je ne peux pas avoir des rêves normaux comme tout le monde ? Irenicus, c'est de ta faute, espèce d'ordure !~ [IMOEN16]
+@1    = ~Des riviÃ¨res de sang... Du sang et des cendres sanglantes ! Pourquoi je ne peux pas avoir des rÃªves normaux comme tout le monde ? Irenicus, c'est de ta faute, espÃ¨ce d'ordure !~ [IMOEN16]
 
-@2    = ~(Marmonne à soi-même) Je ne peux pas croire que j'ai dit ça. Non. Et j'ai été assez idiote pour l'écouter, *lui* ! En tous cas, la curiosité ne tue le chat qu'une fois. J'espère que j'ai encore huit, hum, sept... Ah, au moins cinq. Il me reste certainement cinq vies.~ [IMOEN33]
+@2    = ~(Marmonne Ã  soi-mÃªme) Je ne peux pas croire que j'ai dit Ã§a. Non. Et j'ai Ã©tÃ© assez idiote pour l'Ã©couter, *lui* ! En tous cas, la curiositÃ© ne tue le chat qu'une fois. J'espÃ¨re que j'ai encore huit, hum, sept... Ah, au moins cinq. Il me reste certainement cinq vies.~ [IMOEN33]
 
 @3    = ~Alors, Irenicus...~ [IMOEN44]
 
-@4    = ~Et je... Je ne pense pas que <CHARNAME> voudrais que je le calme en lui offrant le genre de cadeau monstrueux que tu as donné à Bodhi, même si j'étais capable de l'obtenir. N'est-ce pas, <CHARNAME> ?~
+@4    = ~Et je... Je ne pense pas que <CHARNAME> voudrais que je le calme en lui offrant le genre de cadeau monstrueux que tu as donnÃ© Ã  Bodhi, mÃªme si j'Ã©tais capable de l'obtenir. N'est-ce pas, <CHARNAME> ?~
 
-@5    = ~Bien sûr que non Imoen ! Ce n'est même pas la peine de poser la question.~
+@5    = ~Bien sÃ»r que non Imoen ! Ce n'est mÃªme pas la peine de poser la question.~
 
-@6    = ~Je n'en suis pas sûr, Imoen. Peut-être que si j'étais désespéré...~
+@6    = ~Je n'en suis pas sÃ»r, Imoen. Peut-Ãªtre que si j'Ã©tais dÃ©sespÃ©rÃ©...~
 
-@7    = ~Tu plaisantes ? Bien sûr que je l'accepterai.~
+@7    = ~Tu plaisantes ? Bien sÃ»r que je l'accepterai.~
 
 @8    = ~Je savais que je pouvais compter sur toi, <PRO_BROTHERSISTER> !~
 
-@9    = ~Arrête. C'est sûr que ce ne serait pas le cas, tu dis ça seulement pour me faire marcher, n'est-ce pas ? Je te vois sourire. Ne me fais pas peur comme ça, <CHARNAME>, ou je pourrais décider qu'il a gagné !~
+@9    = ~ArrÃªte. C'est sÃ»r que ce ne serait pas le cas, tu dis Ã§a seulement pour me faire marcher, n'est-ce pas ? Je te vois sourire. Ne me fais pas peur comme Ã§a, <CHARNAME>, ou je pourrais dÃ©cider qu'il a gagnÃ© !~
 
-@10   = ~Et pardonne-moi si le sort de ta soeur ne me cause pas de peine. Récupérer mon âme après qu'elle l'ai eu, c'était... Comme aller dormir dans un lit après qu'une horrible bestiole morte vivante baveuse l'ait utilisé et soit morte à l'intérieur. Ça m'arrive encore de la sentir... Sa puanteur m'accable. Beeuh !~
+@10   = ~Et pardonne-moi si le sort de ta soeur ne me cause pas de peine. RÃ©cupÃ©rer mon Ã¢me aprÃ¨s qu'elle l'ai eu, c'Ã©tait... Comme aller dormir dans un lit aprÃ¨s qu'une horrible bestiole morte vivante baveuse l'ait utilisÃ© et soit morte Ã  l'intÃ©rieur. Ã‡a m'arrive encore de la sentir... Sa puanteur m'accable. Beeuh !~
 
-@11   = ~J'espère que tu te moques juste de lui. Dieu merci, je n'ai jamais rien senti quelque chose *lui appartenant* coller à mon âme.~
+@11   = ~J'espÃ¨re que tu te moques juste de lui. Dieu merci, je n'ai jamais rien senti quelque chose *lui appartenant* coller Ã  mon Ã¢me.~
 
-@12   = ~Etrangement, j'ai senti quelque chose de comparable. Comme si être un rejeton de Bhaal n'était pas suffisant...~
+@12   = ~Etrangement, j'ai senti quelque chose de comparable. Comme si Ãªtre un rejeton de Bhaal n'Ã©tait pas suffisant...~
 
-@13   = ~Soeurette, tu dis parfois de ces choses... Disons que j'espère juste que tu plaisante...~
+@13   = ~Soeurette, tu dis parfois de ces choses... Disons que j'espÃ¨re juste que tu plaisante...~
 
-@14   = ~Je te préviens Irenicus, ne m'approche pas ou un jour tu pourrais te réveiller avec la tête dans ton sac – "par accident", bien sûr !~
+@14   = ~Je te prÃ©viens Irenicus, ne m'approche pas ou un jour tu pourrais te rÃ©veiller avec la tÃªte dans ton sac â€“ "par accident", bien sÃ»r !~
 
-@15   = ~Ce n'est pas comme si quelqu'un comme toi pouvait remarquer la moindre différence à moins d'y regarder de très près, mais tu pourrais trouver cela bien moins pratique de devoir scruter mes moindres mouvements avec un sac de cuir sur le visage.~
+@15   = ~Ce n'est pas comme si quelqu'un comme toi pouvait remarquer la moindre diffÃ©rence Ã  moins d'y regarder de trÃ¨s prÃ¨s, mais tu pourrais trouver cela bien moins pratique de devoir scruter mes moindres mouvements avec un sac de cuir sur le visage.~
 
-@16   = ~J'admets que ta sincérité est rafraîchissante, jeune fille. Quoi qu'il en soit, pourquoi prendre la peine de me menacer avec cette plaisanterie enfantine ?~ [DPJON150]
+@16   = ~J'admets que ta sincÃ©ritÃ© est rafraÃ®chissante, jeune fille. Quoi qu'il en soit, pourquoi prendre la peine de me menacer avec cette plaisanterie enfantine ?~ [DPJON150]
 
-@17   = ~C'est dur d'impressionner quelqu'un qui est sans aucun doute un maître de l'intimidation et de la manipulation, hein, Irenicus ? Alors qu'on te mette la tête dans un sac ne te fait pas peur ? J'imagine que non – Tu en portes un volontairement depuis plus longtemps que j'aie vécu. Et si à la place je jurais de te couper la tête et de la mettre dans ton sac ?~
+@17   = ~C'est dur d'impressionner quelqu'un qui est sans aucun doute un maÃ®tre de l'intimidation et de la manipulation, hein, Irenicus ? Alors qu'on te mette la tÃªte dans un sac ne te fait pas peur ? J'imagine que non â€“ Tu en portes un volontairement depuis plus longtemps que j'aie vÃ©cu. Et si Ã  la place je jurais de te couper la tÃªte et de la mettre dans ton sac ?~
 
-@18   = ~Intéressant. Deux ans plus tôt, qui aurait cru qu'une jolie jeune fille comme toi, qui teint ses cheveux en rose et qui griffonne de la mauvaise poésie sur les pages de son journal, pouvait sortir ce genre de menaces ? On dirait que même ta  personnalité optimiste ne t'a pas protégée.~
+@18   = ~IntÃ©ressant. Deux ans plus tÃ´t, qui aurait cru qu'une jolie jeune fille comme toi, qui teint ses cheveux en rose et qui griffonne de la mauvaise poÃ©sie sur les pages de son journal, pouvait sortir ce genre de menaces ? On dirait que mÃªme ta  personnalitÃ© optimiste ne t'a pas protÃ©gÃ©e.~
 
-@19   = ~Dis-moi, toi la plus belle des rejeton de Bhaal, as-tu eu d'étranges rêves ces temps-ci ?~
+@19   = ~Dis-moi, toi la plus belle des rejeton de Bhaal, as-tu eu d'Ã©tranges rÃªves ces temps-ci ?~
 
-@20   = ~Comment pourrais-tu... Non. Non ! Tu ne vas pas recommencer à jouer avec mon esprit avec tes sales doigts furtifs. Des rivières de sang... Toujours des rivières de sang... Et des piles de corps torturés... Je te préviens Irenicus, si tu fais encore un pas dans ma direction, tu es mort ! C'est à cause de toi si je suis ainsi ! Ne te plains pas lorsque je t'arracherai la gorge et que je répandrais tes intestins sur le sol.~
+@20   = ~Comment pourrais-tu... Non. Non ! Tu ne vas pas recommencer Ã  jouer avec mon esprit avec tes sales doigts furtifs. Des riviÃ¨res de sang... Toujours des riviÃ¨res de sang... Et des piles de corps torturÃ©s... Je te prÃ©viens Irenicus, si tu fais encore un pas dans ma direction, tu es mort ! C'est Ã  cause de toi si je suis ainsi ! Ne te plains pas lorsque je t'arracherai la gorge et que je rÃ©pandrais tes intestins sur le sol.~
 
-@21   = ~J'en conclus que l'Ecorcheur se réveille finalement aussi en toi ? C'est vraiment remarquable. Je n'avais jamais remarqué qu'il devenait si puissant pendant que tu étais... Sous ma protection. Mais tu sais, me tuer encore ne résoudrait rien. De plus, je n'étais qu'un catalyseur – tu portes les graines de ta divinité *et* de ta souillure depuis le début, jeune fille. Ma tâche était de les réveiller et de les mener à maturité.~
+@21   = ~J'en conclus que l'Ecorcheur se rÃ©veille finalement aussi en toi ? C'est vraiment remarquable. Je n'avais jamais remarquÃ© qu'il devenait si puissant pendant que tu Ã©tais... Sous ma protection. Mais tu sais, me tuer encore ne rÃ©soudrait rien. De plus, je n'Ã©tais qu'un catalyseur â€“ tu portes les graines de ta divinitÃ© *et* de ta souillure depuis le dÃ©but, jeune fille. Ma tÃ¢che Ã©tait de les rÃ©veiller et de les mener Ã  maturitÃ©.~
 
-@22   = ~Je suis satisfait d'avoir réussi, ne serait-ce qu'un peu. Je note que tes progrès dans l'étude de la magie ont été étonnants, même pour une jeune femme de ton... Considérable talent. Tes cauchemars passeront, Imoen, mais avec le temps tu pourrais gagner des pouvoirs et des capacités encore plus étranges. N'est-ce pas une certaine compensation pour les dommages collatéraux que tu as subi ?~
+@22   = ~Je suis satisfait d'avoir rÃ©ussi, ne serait-ce qu'un peu. Je note que tes progrÃ¨s dans l'Ã©tude de la magie ont Ã©tÃ© Ã©tonnants, mÃªme pour une jeune femme de ton... ConsidÃ©rable talent. Tes cauchemars passeront, Imoen, mais avec le temps tu pourrais gagner des pouvoirs et des capacitÃ©s encore plus Ã©tranges. N'est-ce pas une certaine compensation pour les dommages collatÃ©raux que tu as subi ?~
 
-@23   = ~Tu es sérieux, n'est-ce pas ? Tu... Tu m'as transformé en une chose tremblante, une masse de nerfs à vif avec des douleurs se tapissant dans chaque coin de mon esprit tandis que tu me brisais et me mutilais avec tes... Expériences. Tu m'as fait contempler la dissection du cadavre de l'un de mes meilleurs amis... Je pensais ne jamais m'en sortir... Et peut-être que ça n'arrivera jamais... Et maintenant tu appelles ça "des dommages collatéraux" ? Je me demande de quoi tu es capable quand tu t'en donnes la peine...~
+@23   = ~Tu es sÃ©rieux, n'est-ce pas ? Tu... Tu m'as transformÃ© en une chose tremblante, une masse de nerfs Ã  vif avec des douleurs se tapissant dans chaque coin de mon esprit tandis que tu me brisais et me mutilais avec tes... ExpÃ©riences. Tu m'as fait contempler la dissection du cadavre de l'un de mes meilleurs amis... Je pensais ne jamais m'en sortir... Et peut-Ãªtre que Ã§a n'arrivera jamais... Et maintenant tu appelles Ã§a "des dommages collatÃ©raux" ? Je me demande de quoi tu es capable quand tu t'en donnes la peine...~
 
-@24   = ~Non ! Ne réponds pas ! Nous en avons assez vu de tes atrocités, <CHARNAME> et moi. Tu peux te fourrer ta "compensation"là où je pense, Irenicus. J'aurais pu continuer à vivre sans que tu "n'éveilles" ma souillure avec tes tendres attentions.~
+@24   = ~Non ! Ne rÃ©ponds pas ! Nous en avons assez vu de tes atrocitÃ©s, <CHARNAME> et moi. Tu peux te fourrer ta "compensation"lÃ  oÃ¹ je pense, Irenicus. J'aurais pu continuer Ã  vivre sans que tu "n'Ã©veilles" ma souillure avec tes tendres attentions.~
 
-@25   = ~Jeune fille, ne penses-tu pas que ne pas connaître la part de ton âme que tu appelles "souillure" aurait été encore pire ? L'ignorance ne pouvait pas te protéger, alors que la compréhension de ce que tu es pourrait très bien le faire.~
+@25   = ~Jeune fille, ne penses-tu pas que ne pas connaÃ®tre la part de ton Ã¢me que tu appelles "souillure" aurait Ã©tÃ© encore pire ? L'ignorance ne pouvait pas te protÃ©ger, alors que la comprÃ©hension de ce que tu es pourrait trÃ¨s bien le faire.~
 
-@26   = ~Oh, laisse tomber ses bêtises à propos de "compréhension"! Je ne suis pas idiote, quoi que tu en penses. Je *comprends* que me peler la peau et violer mon âme devait réveiller les "graines de ma divinité" pour que ta suceuse de sang de soeur puisse se nourrir d'un esprit plus délectable.~
+@26   = ~Oh, laisse tomber ses bÃªtises Ã  propos de "comprÃ©hension"! Je ne suis pas idiote, quoi que tu en penses. Je *comprends* que me peler la peau et violer mon Ã¢me devait rÃ©veiller les "graines de ma divinitÃ©" pour que ta suceuse de sang de soeur puisse se nourrir d'un esprit plus dÃ©lectable.~
 
-@27   = ~Connaissant ta profonde loyauté envers <CHARNAME>, je suis un peu surpris de ton attitude vindicative. Ne te souviens-tu pas que Bodhi est la seule à ne pas s'en être pris à moi après mon jugement ? L'amputation d'une âme n'aide pas la sensibilité.~
+@27   = ~Connaissant ta profonde loyautÃ© envers <CHARNAME>, je suis un peu surpris de ton attitude vindicative. Ne te souviens-tu pas que Bodhi est la seule Ã  ne pas s'en Ãªtre pris Ã  moi aprÃ¨s mon jugement ? L'amputation d'une Ã¢me n'aide pas la sensibilitÃ©.~
 
-@28   = ~Tu possèdes un talent magique important, jeune fille, et dans ta vie future, tu pourrais très bien arriver à un point où tu devras faire un choix semblable au mien. Imagine qu'après que j'aie pris l'âme divine de ton parent, tu aies eu la possibilité de soulager la souffrance de <CHARNAME> en lui procurant un substitut. Peux-tu me dire honnêtement que tu n'aurais pas fait la même chose pour ton <PRO_BROTHERSISTER> ?~
+@28   = ~Tu possÃ¨des un talent magique important, jeune fille, et dans ta vie future, tu pourrais trÃ¨s bien arriver Ã  un point oÃ¹ tu devras faire un choix semblable au mien. Imagine qu'aprÃ¨s que j'aie pris l'Ã¢me divine de ton parent, tu aies eu la possibilitÃ© de soulager la souffrance de <CHARNAME> en lui procurant un substitut. Peux-tu me dire honnÃªtement que tu n'aurais pas fait la mÃªme chose pour ton <PRO_BROTHERSISTER> ?~
 
 @29   = ~Je ne te comprends pas, Irenicus ? Que sous-entends tu ? Essayes-tu de semer la zizanie entre moi et <CHARNAME> ? Tu n'y arriveras jamais, quelles que soient tes tentatives.~
 
-@30   = ~Pas du tout, jeune fille, pas du tout. J'essayais seulement de te démontrer que ton ressentiment envers moi est aussi artificiel que ta connaissance de mon caractère. L'apprentissage pourra y remédier. Il faut que tu réalises, Imoen, que nous nous ressemblons beaucoup, toi et moi. Peut-être trop pour ton confort.~
+@30   = ~Pas du tout, jeune fille, pas du tout. J'essayais seulement de te dÃ©montrer que ton ressentiment envers moi est aussi artificiel que ta connaissance de mon caractÃ¨re. L'apprentissage pourra y remÃ©dier. Il faut que tu rÃ©alises, Imoen, que nous nous ressemblons beaucoup, toi et moi. Peut-Ãªtre trop pour ton confort.~
 
-@31   = ~Je n'ai aucun désir d'en "apprendre plus" sur toi, Etre Brisé ! Ce que je sais est déjà horrible. Et tes sous-entendus comme quoi nous avons quelque chose en commun ne sont rien d'autre que de grossiers mensonges.~
+@31   = ~Je n'ai aucun dÃ©sir d'en "apprendre plus" sur toi, Etre BrisÃ© ! Ce que je sais est dÃ©jÃ  horrible. Et tes sous-entendus comme quoi nous avons quelque chose en commun ne sont rien d'autre que de grossiers mensonges.~
 
-@32   = ~Serait-ce trop osé de ma part de te faire remarquer que nous avons tous les deux étudié la magie ? Ou que nous avons tous les deux des parents qui sont, si tu me permets l'expression, plus que de simples mortels ? Ou que nous avons tous deux été très affectés par les prophéties d'Alaundo et par la petite balade de Bhaal à travers les Royaumes ?~
+@32   = ~Serait-ce trop osÃ© de ma part de te faire remarquer que nous avons tous les deux Ã©tudiÃ© la magie ? Ou que nous avons tous les deux des parents qui sont, si tu me permets l'expression, plus que de simples mortels ? Ou que nous avons tous deux Ã©tÃ© trÃ¨s affectÃ©s par les prophÃ©ties d'Alaundo et par la petite balade de Bhaal Ã  travers les Royaumes ?~
 
-@33   = ~Et ce sont nos seuls points communs, Irenicus ! Je n'aurais jamais fait du mal à un innocent pour me restaurer, moi ou mon <PRO_BROTHERSISTER>, quel que soit mon attachement envers <PRO_HIMHER>.~
+@33   = ~Et ce sont nos seuls points communs, Irenicus ! Je n'aurais jamais fait du mal Ã  un innocent pour me restaurer, moi ou mon <PRO_BROTHERSISTER>, quel que soit mon attachement envers <PRO_HIMHER>.~
 
-@34   = ~Ce qu'<PRO_HESHE> dit est moins important que ce qu'<PRO_HESHE> pense. *Je* peux le sentir même maintenant, mais je préfère garder cette importante information pour moi-même.~
+@34   = ~Ce qu'<PRO_HESHE> dit est moins important que ce qu'<PRO_HESHE> pense. *Je* peux le sentir mÃªme maintenant, mais je prÃ©fÃ¨re garder cette importante information pour moi-mÃªme.~
 
-@35   = ~Tu bluffes, Irenicus ! Je connais trop bien mon <PRO_BROTHERSISTER> pour tomber dans ton piège. Je l'ai suivi parce que je l'aime, pas parce que nous étions tous deux des criminels exilés haïs de tous. Et <CHARNAME> ne me ferait jamais faire toutes ces choses horribles que t'a demandé Bodhi, quoi que tu dises.~
+@35   = ~Tu bluffes, Irenicus ! Je connais trop bien mon <PRO_BROTHERSISTER> pour tomber dans ton piÃ¨ge. Je l'ai suivi parce que je l'aime, pas parce que nous Ã©tions tous deux des criminels exilÃ©s haÃ¯s de tous. Et <CHARNAME> ne me ferait jamais faire toutes ces choses horribles que t'a demandÃ© Bodhi, quoi que tu dises.~
 
-@36   = ~En tous cas, je... J'ai pitié de toi ? Non, c'est plutôt de la révulsion... Et de la curiosité... C'est... Ce qu'on ressent lorsqu'on voit une chose aveugle et toxique qui rampe de dessous un rocher et qui est aveuglée par la lumière. Lorsque nous étions enfants, j'ai un jour trouvé un scolopendre aveugle... Je savais qu'il était dangereux mais je n'ai pas pu me forcer à l'écraser... Jusqu'à... Jusqu'à ce que <CHARNAME> le coupe en deux avec son couteau. Mais <CHARNAME> à toujours été le plus courageux de nous deux.~
+@36   = ~En tous cas, je... J'ai pitiÃ© de toi ? Non, c'est plutÃ´t de la rÃ©vulsion... Et de la curiositÃ©... C'est... Ce qu'on ressent lorsqu'on voit une chose aveugle et toxique qui rampe de dessous un rocher et qui est aveuglÃ©e par la lumiÃ¨re. Lorsque nous Ã©tions enfants, j'ai un jour trouvÃ© un scolopendre aveugle... Je savais qu'il Ã©tait dangereux mais je n'ai pas pu me forcer Ã  l'Ã©craser... Jusqu'Ã ... Jusqu'Ã  ce que <CHARNAME> le coupe en deux avec son couteau. Mais <CHARNAME> Ã  toujours Ã©tÃ© le plus courageux de nous deux.~
 
-@37   = ~Pourtant, quels que soient mes sentiments envers toi, Irenicus, une chose est claire – Je n'ai plus peur de toi !~
+@37   = ~Pourtant, quels que soient mes sentiments envers toi, Irenicus, une chose est claire â€“ Je n'ai plus peur de toi !~
 
 @38   = ~Irenicus, tu es un sale menteur !~
 
-@39   = ~Dois-je toujours être dérangé par des enfants mal élevés qui n'ont aucun sens des convenances ? Qu'y a-t-il, Imoen ? ~ [DPJON153]
+@39   = ~Dois-je toujours Ãªtre dÃ©rangÃ© par des enfants mal Ã©levÃ©s qui n'ont aucun sens des convenances ? Qu'y a-t-il, Imoen ? ~ [DPJON153]
 
-@40   = ~Lorsque tu m'as dis que <CHARNAME> accepterai avec joie de ma part une âme volée si je pouvais en obtenir une pour <PRO_HIMHER>, tu essayais juste de me faire souffrir encore, n'est-ce pas ? Même si tu *pouvais* percevoir ce que <CHARNAME> ressent vraiment, il n'y a pas le moindre soupçon de vérité dans tout ce que tu as dit. Il n'y en a jamais eu ! Et je le savais depuis le début !~
+@40   = ~Lorsque tu m'as dis que <CHARNAME> accepterai avec joie de ma part une Ã¢me volÃ©e si je pouvais en obtenir une pour <PRO_HIMHER>, tu essayais juste de me faire souffrir encore, n'est-ce pas ? MÃªme si tu *pouvais* percevoir ce que <CHARNAME> ressent vraiment, il n'y a pas le moindre soupÃ§on de vÃ©ritÃ© dans tout ce que tu as dit. Il n'y en a jamais eu ! Et je le savais depuis le dÃ©but !~
 
-@41   = ~Crois ce que tu veux, jeune fille, si cela peut te rassurer. Je me moque de ce que tu penses de moi. Pourquoi me soucierai-je te de te mentir ? Maintenant que Bodhi est morte et que mes expériences sont finies, tu ne m'intéresses plus du tout.~
+@41   = ~Crois ce que tu veux, jeune fille, si cela peut te rassurer. Je me moque de ce que tu penses de moi. Pourquoi me soucierai-je te de te mentir ? Maintenant que Bodhi est morte et que mes expÃ©riences sont finies, tu ne m'intÃ©resses plus du tout.~
 
-@42   = ~Tu trouveras toujours une raison, je te connais... Tu serais capable de me tripoter juste par "curiosité scientifique", bon sang !~
+@42   = ~Tu trouveras toujours une raison, je te connais... Tu serais capable de me tripoter juste par "curiositÃ© scientifique", bon sang !~
 
-@43   = ~J'imagine que des vibrations résiduelles de Bodhi sont toujours en toi... Je me demande si cela peut expliquer ta rapide acceptation de la souillure de Bhaal. Console-toi cependant, elle n'a pas toujours été un vampire. Il était un temps ou elle était une jeune et jolie fille, comme toi.~
+@43   = ~J'imagine que des vibrations rÃ©siduelles de Bodhi sont toujours en toi... Je me demande si cela peut expliquer ta rapide acceptation de la souillure de Bhaal. Console-toi cependant, elle n'a pas toujours Ã©tÃ© un vampire. Il Ã©tait un temps ou elle Ã©tait une jeune et jolie fille, comme toi.~
 
-@44   = ~Ça fait peur de l'imaginer... Mais dis-moi... Oui, je pense que j'ai besoin de savoir comment on en est arrivée à cette situation. As-tu... Tenais-tu donc assez a elle pour me torturer juste pour lui fournir une âme ? ~
+@44   = ~Ã‡a fait peur de l'imaginer... Mais dis-moi... Oui, je pense que j'ai besoin de savoir comment on en est arrivÃ©e Ã  cette situation. As-tu... Tenais-tu donc assez a elle pour me torturer juste pour lui fournir une Ã¢me ? ~
 
 @45   = ~Quoi ? Pourquoi poses-tu cette question ?~
 
-@46   = ~Sais pas. Peut-être que je me sentirais moins... Utilisée ?~
+@46   = ~Sais pas. Peut-Ãªtre que je me sentirais moins... UtilisÃ©e ?~
 
-@47   = ~Bodhi était la seule à ne pas s'être retournée contre moi après... Après le jugement. De plus, elle était utile... Parfois.~
+@47   = ~Bodhi Ã©tait la seule Ã  ne pas s'Ãªtre retournÃ©e contre moi aprÃ¨s... AprÃ¨s le jugement. De plus, elle Ã©tait utile... Parfois.~
 
-@48   = ~Ça suffit ! Je... J'ignore pourquoi nous en parlons. Oui, je... Tenais à elle avant, tout comme tu tiens à <CHARNAME>. Appelle cela l'instinct. Un reste de l'esprit mutilé qui sait qu'il est mort mais qui s'accroche toujours à ses habitudes, même si elles ne sont que des ombres pourrissantes et desséchées d'anciens souvenirs. Alors, tu m'as extorqué une réponse, jeune fille, te sens-tu mieux à présent ? ~
+@48   = ~Ã‡a suffit ! Je... J'ignore pourquoi nous en parlons. Oui, je... Tenais Ã  elle avant, tout comme tu tiens Ã  <CHARNAME>. Appelle cela l'instinct. Un reste de l'esprit mutilÃ© qui sait qu'il est mort mais qui s'accroche toujours Ã  ses habitudes, mÃªme si elles ne sont que des ombres pourrissantes et dessÃ©chÃ©es d'anciens souvenirs. Alors, tu m'as extorquÃ© une rÃ©ponse, jeune fille, te sens-tu mieux Ã  prÃ©sent ? ~
 
-@49   = ~Peut-être. Mais je ne te le dirais pas, même si je le suis ! Et n'espère pas que je je te pardonnerai un jour ce que tu nous as fait à moi et à mon <PRO_BROTHERSISTER>, même si <CHARNAME> dit qu'<PRO_HESHE> t'a vu plonger la tête la première dans un lac de lave avec une douzaine de démons sur tes talons !~
+@49   = ~Peut-Ãªtre. Mais je ne te le dirais pas, mÃªme si je le suis ! Et n'espÃ¨re pas que je je te pardonnerai un jour ce que tu nous as fait Ã  moi et Ã  mon <PRO_BROTHERSISTER>, mÃªme si <CHARNAME> dit qu'<PRO_HESHE> t'a vu plonger la tÃªte la premiÃ¨re dans un lac de lave avec une douzaine de dÃ©mons sur tes talons !~
 
-@50   = ~C'est assez pour une conversation, Imoen. Mais crois-moi quand je te dis que si j'avais été à ta place, connaissant toutes les conséquences de la vengeance de mon <PRO_BROTHERSISTER>, *j'aurais* été satisfait.~
+@50   = ~C'est assez pour une conversation, Imoen. Mais crois-moi quand je te dis que si j'avais Ã©tÃ© Ã  ta place, connaissant toutes les consÃ©quences de la vengeance de mon <PRO_BROTHERSISTER>, *j'aurais* Ã©tÃ© satisfait.~
 
 @51   = ~Qu'y a-t-il, jeune fille ? ~ [DPJON150]
 
-@52   = ~J'ai finalement le courage de le demander... Je dois savoir... Entre toi et moi, la porte et cette horrible chose que tu appelles un visage – Quel rôle a <CHARNAME> dans les plans insensés que tu manigances ? ~
+@52   = ~J'ai finalement le courage de le demander... Je dois savoir... Entre toi et moi, la porte et cette horrible chose que tu appelles un visage â€“ Quel rÃ´le a <CHARNAME> dans les plans insensÃ©s que tu manigances ? ~
 
-@53   = ~Vraiment Imoen, de tous les irritants moustiques qui suivent le sillage de <CHARNAME>, il faut que ce soit toi qui m'ennuie avec *ça*. Tu ne connais que trop bien la réponse. Bien que j'aimerais pouvoir choisir un autre chemin – Je ne peux tout simplement pas. Pourquoi m'ennuyer avec ces idioties enfantines ? ~
+@53   = ~Vraiment Imoen, de tous les irritants moustiques qui suivent le sillage de <CHARNAME>, il faut que ce soit toi qui m'ennuie avec *Ã§a*. Tu ne connais que trop bien la rÃ©ponse. Bien que j'aimerais pouvoir choisir un autre chemin â€“ Je ne peux tout simplement pas. Pourquoi m'ennuyer avec ces idioties enfantines ? ~
 
-@54   = ~Non ! NON ! Je n'accepterai ni ne me tairai devant ta prétentieuse arrogance ! Tu n'as pas le droit de me parler comme ça, et je ne suis plus l'enfant que tu as tourmenté. Tu as tué mes amis, tu... Tu nous as fait souffrir, moi et <CHARNAME>... Tu as volé nos âmes !~
+@54   = ~Non ! NON ! Je n'accepterai ni ne me tairai devant ta prÃ©tentieuse arrogance ! Tu n'as pas le droit de me parler comme Ã§a, et je ne suis plus l'enfant que tu as tourmentÃ©. Tu as tuÃ© mes amis, tu... Tu nous as fait souffrir, moi et <CHARNAME>... Tu as volÃ© nos Ã¢mes !~
 
 @55   = ~Je n'y ai pris aucun plaisir.~
 
-@56   = ~Ça n'a pas d'importance ! Tu as... Tu as essayé de briser mon esprit, tu as fouillé dans ma tête. Tu... Tu *me connais* mieux que n'importe qui. Et tu sais que ça n'a pas d'importance. Tu as fait toutes ces choses terribles, tu nous as traîné en enfer et maintenant tu traînes l'enfer vers nous.~
+@56   = ~Ã‡a n'a pas d'importance ! Tu as... Tu as essayÃ© de briser mon esprit, tu as fouillÃ© dans ma tÃªte. Tu... Tu *me connais* mieux que n'importe qui. Et tu sais que Ã§a n'a pas d'importance. Tu as fait toutes ces choses terribles, tu nous as traÃ®nÃ© en enfer et maintenant tu traÃ®nes l'enfer vers nous.~
 
-@57   = ~Si cela peut te consoler – Ce n'était pas mon intention. Ce que j'ai fait était... Malheureux, mais nécessaire. Cela n'aurait pas pu être fait *autrement*, et tu peux bien essayer de me convaincre du contraire tant que tu veux, je sais que tu n'es pas une idiote, jeune fille. Je me souviens au moins de ça. Que veux-tu de moi ? Que je fasse tout partir, comme si ça n'était jamais arrivé ? ~
+@57   = ~Si cela peut te consoler â€“ Ce n'Ã©tait pas mon intention. Ce que j'ai fait Ã©tait... Malheureux, mais nÃ©cessaire. Cela n'aurait pas pu Ãªtre fait *autrement*, et tu peux bien essayer de me convaincre du contraire tant que tu veux, je sais que tu n'es pas une idiote, jeune fille. Je me souviens au moins de Ã§a. Que veux-tu de moi ? Que je fasse tout partir, comme si Ã§a n'Ã©tait jamais arrivÃ© ? ~
 
 @58   = ~De quoi parles-tu ?~
 
-@59   = ~Je peux le faire, Imoen. Je peux faire disparaître ces souvenirs, les endormir pour qu'ils ne fassent plus jamais surface. Ils ne t'ennuieraient plus. La question est – Veux-tu vraiment que cela arrive ?~
+@59   = ~Je peux le faire, Imoen. Je peux faire disparaÃ®tre ces souvenirs, les endormir pour qu'ils ne fassent plus jamais surface. Ils ne t'ennuieraient plus. La question est â€“ Veux-tu vraiment que cela arrive ?~
 
 @60   = ~Je ne te laisserai jamais me retoucher. Plus jamais.~
 
-@61   = ~Je m'en soucie peu. Mais j'étais auparavant ta plus grande peur, ton cauchemar le plus moqué, le croque-mitaine le plus sinistre de tes sombres fantasmes. Et ça recommence, n'est-ce pas ? Tu te trompes, bien sûr.~
+@61   = ~Je m'en soucie peu. Mais j'Ã©tais auparavant ta plus grande peur, ton cauchemar le plus moquÃ©, le croque-mitaine le plus sinistre de tes sombres fantasmes. Et Ã§a recommence, n'est-ce pas ? Tu te trompes, bien sÃ»r.~
 
-@62   = ~En fait, tu as fait face à tes peurs et à tes inquiétudes et tu les as vaincu, jeune fille. Regarde-toi. Tu en es libre comme tu es libérée de mon emprise sur toi, et tu n'en es ressortie que plus forte.~
+@62   = ~En fait, tu as fait face Ã  tes peurs et Ã  tes inquiÃ©tudes et tu les as vaincu, jeune fille. Regarde-toi. Tu en es libre comme tu es libÃ©rÃ©e de mon emprise sur toi, et tu n'en es ressortie que plus forte.~
 
-@63   = ~Je... Suppose que c'est vrai. Ce qui est drôle c'est qu'alors que je pourrais peut-être – j'ai dit peut-être !– un jour trouver la force de te pardonner ce que tu m'as fait, je ne pourrais jamais pardonner ce que tu as fait à <CHARNAME>.~
+@63   = ~Je... Suppose que c'est vrai. Ce qui est drÃ´le c'est qu'alors que je pourrais peut-Ãªtre â€“ j'ai dit peut-Ãªtre !â€“ un jour trouver la force de te pardonner ce que tu m'as fait, je ne pourrais jamais pardonner ce que tu as fait Ã  <CHARNAME>.~
 
-@64   = ~C'est à <PRO_HIMHER> de décider si <PRO_HESHE> peut pardonner... En tous cas, tu as raison. ~
+@64   = ~C'est Ã  <PRO_HIMHER> de dÃ©cider si <PRO_HESHE> peut pardonner... En tous cas, tu as raison. ~
 
-@65   = ~Je me suis libérée de ton emprise sur moi.~
+@65   = ~Je me suis libÃ©rÃ©e de ton emprise sur moi.~

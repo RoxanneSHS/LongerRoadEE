@@ -1,23 +1,23 @@
-@0    = ~C'est vraiment étonnant que cette misérable ville tienne encore. Si ce lamentable mage amateur est en effet leur meilleur espoir, ce n'est pas étonnant que Saradush soit lentement détruite de l'intérieur par maintes intrigues et contre intrigues. <CHARNAME>, je trouve que la politique humaine est vraiment un sujet amusant. Je suis seulement surpris qu'ils ne fassent pas un concours hebdomadaire de la trahison la plus ingénieuse.~
+@0    = ~C'est vraiment Ã©tonnant que cette misÃ©rable ville tienne encore. Si ce lamentable mage amateur est en effet leur meilleur espoir, ce n'est pas Ã©tonnant que Saradush soit lentement dÃ©truite de l'intÃ©rieur par maintes intrigues et contre intrigues. <CHARNAME>, je trouve que la politique humaine est vraiment un sujet amusant. Je suis seulement surpris qu'ils ne fassent pas un concours hebdomadaire de la trahison la plus ingÃ©nieuse.~
 
-@1    = ~Trouve une autre cible sur laquelle te faire les griffes, drow. Mon marché est entre moi et l'enfant divin.~
+@1    = ~Trouve une autre cible sur laquelle te faire les griffes, drow. Mon marchÃ© est entre moi et l'enfant divin.~
 
-@2    = ~Hmm, <CHARNAME>, on dirait que ma malchanceuse soeur n'était pas la dernière de sa race à être séduite par tes euh... Liquides corporels. Bodhi m'a une fois confessé qu'elle était obsédée par ta jugulaire, la pauvre. On peut se demander si la concentration inhabituelle de morts-vivants à Saradush est directement liée à l'abondance de faibles Enfants de Bhaal. Je suppose que je pourrais faire une recherche approfondie sur le sujet... Vu que les deux espèces sont présentes en masse.~
+@2    = ~Hmm, <CHARNAME>, on dirait que ma malchanceuse soeur n'Ã©tait pas la derniÃ¨re de sa race Ã  Ãªtre sÃ©duite par tes euh... Liquides corporels. Bodhi m'a une fois confessÃ© qu'elle Ã©tait obsÃ©dÃ©e par ta jugulaire, la pauvre. On peut se demander si la concentration inhabituelle de morts-vivants Ã  Saradush est directement liÃ©e Ã  l'abondance de faibles Enfants de Bhaal. Je suppose que je pourrais faire une recherche approfondie sur le sujet... Vu que les deux espÃ¨ces sont prÃ©sentes en masse.~
 
-@3    = ~Irenicus, t'es complètement cinglé ou quoi ? ! On a une saleté de vampire dont on doit s'occuper et tu te mets à divaguer au sujet de tes saletés d'expériences !~
+@3    = ~Irenicus, t'es complÃ¨tement cinglÃ© ou quoi ? ! On a une saletÃ© de vampire dont on doit s'occuper et tu te mets Ã  divaguer au sujet de tes saletÃ©s d'expÃ©riences !~
 
-@4    = ~Oublie ça, Irenicus. Ce n'est ni le lieu ni l'endroit pour de telles discussions.~
+@4    = ~Oublie Ã§a, Irenicus. Ce n'est ni le lieu ni l'endroit pour de telles discussions.~
 
-@5    = ~Oh, hé bien je suppose que tu as raison, enfant divin. C'est dommage, cependant. Fais attention à ne pas recevoir d'éclaboussure lorsque ma boule de feu frappera.~
+@5    = ~Oh, hÃ© bien je suppose que tu as raison, enfant divin. C'est dommage, cependant. Fais attention Ã  ne pas recevoir d'Ã©claboussure lorsque ma boule de feu frappera.~
 
-@6    = ~Rien de moins qu'un savant. Hsss ! Je parie que même ton sang a le goût de poussière et de vieux papier. Rien à voir avec le divin nectar dans les veines de l'Enfant !~
+@6    = ~Rien de moins qu'un savant. Hsss ! Je parie que mÃªme ton sang a le goÃ»t de poussiÃ¨re et de vieux papier. Rien Ã  voir avec le divin nectar dans les veines de l'Enfant !~
 
-@7    = ~J'espère que tu en as fini avec ton bavardage sans intérêt. A présent si tu veux bien m'excuser, j'ai des choses à faire.~
+@7    = ~J'espÃ¨re que tu en as fini avec ton bavardage sans intÃ©rÃªt. A prÃ©sent si tu veux bien m'excuser, j'ai des choses Ã  faire.~
 
-@8    = ~C'est courageux de dire ce que tu penses en ma présence, darthiir ! Il y a un terrible prix à payer pour ce genre de tentative. Si tu te prépares toujours à trahir <CHARNAME>, ta propre pathétique expérience devrait t'avertir des conséquences.~ 
+@8    = ~C'est courageux de dire ce que tu penses en ma prÃ©sence, darthiir ! Il y a un terrible prix Ã  payer pour ce genre de tentative. Si tu te prÃ©pares toujours Ã  trahir <CHARNAME>, ta propre pathÃ©tique expÃ©rience devrait t'avertir des consÃ©quences.~ 
 
-@9    = ~Et pourquoi ne suis-*je* pas surpris d'entendre ça de ta langue de vipère, Irenicus ? La fourberie coule dans tes veines à la place du sang. Tes instincts doivent te hurler de prendre parti et de partager les bénéfices. J'imagine que <CHARNAME> te tient bien en laisse... Cependant, je me demande si je ne devrais pas mettre fin à mes hésitations et à ta non-vie avant qu'il ne soit trop tard.~
+@9    = ~Et pourquoi ne suis-*je* pas surpris d'entendre Ã§a de ta langue de vipÃ¨re, Irenicus ? La fourberie coule dans tes veines Ã  la place du sang. Tes instincts doivent te hurler de prendre parti et de partager les bÃ©nÃ©fices. J'imagine que <CHARNAME> te tient bien en laisse... Cependant, je me demande si je ne devrais pas mettre fin Ã  mes hÃ©sitations et Ã  ta non-vie avant qu'il ne soit trop tard.~
 
-@10   = ~Une déclaration étonnante de la part d'un soi-disant serviteur de la Grande Balance. N'es-tu pas supposé t'assurer que le grand et héroïque "bien" de ce monde n'écrase pas son glauque et méprisable "mal" ? Je pourrais te dire que les traîtres des deux camps servent le même but. En fait, ils rendent ta tâche plus aisée en rognant les extrêmes et en maintenant la neutralité.~
+@10   = ~Une dÃ©claration Ã©tonnante de la part d'un soi-disant serviteur de la Grande Balance. N'es-tu pas supposÃ© t'assurer que le grand et hÃ©roÃ¯que "bien" de ce monde n'Ã©crase pas son glauque et mÃ©prisable "mal" ? Je pourrais te dire que les traÃ®tres des deux camps servent le mÃªme but. En fait, ils rendent ta tÃ¢che plus aisÃ©e en rognant les extrÃªmes et en maintenant la neutralitÃ©.~
 
-@11   = ~N'essaye pas de réinventer mon devoir, traître à ta propre espèce ! La Nature n'a pas de place pour les traîtres. Ils sont arrachés et éliminés comme les racines pourries d'une forêt à part cela saine.~
+@11   = ~N'essaye pas de rÃ©inventer mon devoir, traÃ®tre Ã  ta propre espÃ¨ce ! La Nature n'a pas de place pour les traÃ®tres. Ils sont arrachÃ©s et Ã©liminÃ©s comme les racines pourries d'une forÃªt Ã  part cela saine.~

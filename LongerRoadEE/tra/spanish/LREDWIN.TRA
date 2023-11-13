@@ -1,158 +1,158 @@
-@0    = ~Bien, *hechicero*, ¿qué se siente al ser un esclavo vinculado a  
-<CHARNAME>, a quien una vez tuviste en tu poder? ¿La humillación no te 
-corroe las entrañas, o por ahora estás resignado a ello, al igual que a tu 
-actual forma de vida?~ ~Bien, *hechicero*, ¿qué se siente al ser un esclavo 
-vinculado a  <CHARNAME>, a quien una vez tuviste en tu poder? ¿La 
-humillación no te corroe las entrañas, o por ahora estás resignado a ello, 
+@0    = ~Bien, *hechicero*, Â¿quÃ© se siente al ser un esclavo vinculado a  
+<CHARNAME>, a quien una vez tuviste en tu poder? Â¿La humillaciÃ³n no te 
+corroe las entraÃ±as, o por ahora estÃ¡s resignado a ello, al igual que a tu 
+actual forma de vida?~ ~Bien, *hechicero*, Â¿quÃ© se siente al ser un esclavo 
+vinculado a  <CHARNAME>, a quien una vez tuviste en tu poder? Â¿La 
+humillaciÃ³n no te corroe las entraÃ±as, o por ahora estÃ¡s resignado a ello, 
 al igual que a tu actual forma de vida?~ [EDWIN45]
 @1    = ~Me complace indicarte, Edwin, que tus insignificantes intentos por 
-enfadarme han fracasado. Quizás te convendría cambiar de táctica.~ 
+enfadarme han fracasado. QuizÃ¡s te convendrÃ­a cambiar de tÃ¡ctica.~ 
 [IRENIC85]
-@2    = ~Entonces, joven mago, ¿debemos reanudar nuestra partida de ajedrez? 
-Aunque la diversión es algo que recuerdo vagamente, debo decir que nuestras 
-sesiones intelectuales aportan algo de diversión a la monotonía de este 
-viaje. Francamente, sospecho que la mayoría de los compañeros de <CHARNAME> 
-perderían sus piezas de ajedrez tan pronto empezara a jugar con ellos, y que 
-del resto ninguno sería capaz de jugar al ajedrez sin un tablero y piezas 
+@2    = ~Entonces, joven mago, Â¿debemos reanudar nuestra partida de ajedrez? 
+Aunque la diversiÃ³n es algo que recuerdo vagamente, debo decir que nuestras 
+sesiones intelectuales aportan algo de diversiÃ³n a la monotonÃ­a de este 
+viaje. Francamente, sospecho que la mayorÃ­a de los compaÃ±eros de <CHARNAME> 
+perderÃ­an sus piezas de ajedrez tan pronto empezara a jugar con ellos, y que 
+del resto ninguno serÃ­a capaz de jugar al ajedrez sin un tablero y piezas 
 reales.~ [IRENIC77]
-@3    = ~Hmmm... sí, supongo que eso podría resultar como mínimo 
-interesante. Ya ha pasado un cierto tiempo. Intentaré no acabar contigo con 
+@3    = ~Hmmm... sÃ­, supongo que eso podrÃ­a resultar como mÃ­nimo 
+interesante. Ya ha pasado un cierto tiempo. IntentarÃ© no acabar contigo con 
 demasiada rapidez.~
-@4    = ~Er... chicos... ¿no podéis por favor resolver esto pacíficamente?~
-@5    = ~¡Genial! ¡Una batalla a muerte! Voy a por un tentempié...~
-@6    = ~¡Tranquilizaos los dos! ¡No pienso permitir semejante 
+@4    = ~Er... chicos... Â¿no podÃ©is por favor resolver esto pacÃ­ficamente?~
+@5    = ~Â¡Genial! Â¡Una batalla a muerte! Voy a por un tentempiÃ©...~
+@6    = ~Â¡Tranquilizaos los dos! Â¡No pienso permitir semejante 
 comportamiento en mi grupo!~
-@7    = ~No interfieras, <CHARNAME>. Estoy vinculado a ti; no desearía 
-dañarte... por error.~
+@7    = ~No interfieras, <CHARNAME>. Estoy vinculado a ti; no desearÃ­a 
+daÃ±arte... por error.~
 @8    = ~Para de decir estupideces, mago. Creo que eres consciente de que yo 
-no soy uno de esos patéticos debiluchos, quienes reciben sus poderes como 
+no soy uno de esos patÃ©ticos debiluchos, quienes reciben sus poderes como 
 algo sobrenatural, un don innato, pero que no los pueden controlar. Me he 
-ganado todas y cada una de mis habilidades mediante interminables años de 
+ganado todas y cada una de mis habilidades mediante interminables aÃ±os de 
 estudio.~ [DPJON159]
 @9    = ~Respecto a tus otros insultos, me interesan menos que el balbuceo 
-de un mono loco al que con mucho gusto nos recuerdas en toda ocasión. Pero 
-si persistes en tu desesperante verborrea, te cortaré la lengua para ver si 
-aún se mueve por sí sola. No tengo paciencia para tus ridículas payasadas de 
+de un mono loco al que con mucho gusto nos recuerdas en toda ocasiÃ³n. Pero 
+si persistes en tu desesperante verborrea, te cortarÃ© la lengua para ver si 
+aÃºn se mueve por sÃ­ sola. No tengo paciencia para tus ridÃ­culas payasadas de 
 humano.~
-@10   = ~¿No tienes paciencia? Qué extraño. Pensaba que los elfos eran 
+@10   = ~Â¿No tienes paciencia? QuÃ© extraÃ±o. Pensaba que los elfos eran 
 supuestamente muy pacientes... ah, pero se me olvidaba. Ya no eres un elfo, 
-¿verdad? Eres una simple cáscara rota, desprovista de toda sensación y 
-emoción; algo medio senil, desdentado y marchito. (Si empieza a parlotear, 
-lo mataré personalmente. Seguramente se disolvería simplemente con darle un 
-baño.)~
-@11   = ~Me *estás* provocando deliberadamente, humano. Claramente, o eres 
-un demente o eres el mayor loco en toda la faz de Toril. No sólo soy lo 
-suficientemente poderoso como para acabar con tu débil cuerpo e inútil alma, 
-sino que además por mi condición me es casi imposible perder los nervios. 
-Desperdicias tu tiempo, demostrando una vez más que las efímeras sabandijas 
-como tú no saben apreciar su propia vida.~
-@12   = ~¡Nada es imposible para el impecable Edwin Odesseiron! Aún no ha 
+Â¿verdad? Eres una simple cÃ¡scara rota, desprovista de toda sensaciÃ³n y 
+emociÃ³n; algo medio senil, desdentado y marchito. (Si empieza a parlotear, 
+lo matarÃ© personalmente. Seguramente se disolverÃ­a simplemente con darle un 
+baÃ±o.)~
+@11   = ~Me *estÃ¡s* provocando deliberadamente, humano. Claramente, o eres 
+un demente o eres el mayor loco en toda la faz de Toril. No sÃ³lo soy lo 
+suficientemente poderoso como para acabar con tu dÃ©bil cuerpo e inÃºtil alma, 
+sino que ademÃ¡s por mi condiciÃ³n me es casi imposible perder los nervios. 
+Desperdicias tu tiempo, demostrando una vez mÃ¡s que las efÃ­meras sabandijas 
+como tÃº no saben apreciar su propia vida.~
+@12   = ~Â¡Nada es imposible para el impecable Edwin Odesseiron! AÃºn no ha 
 *nacido* la criatura a la que no pueda hacer perder los nervios. Muy pronto, 
-mago, verás por ti mismo que digo la verdad. De hecho, te derrotaré con tu 
-propia arma - realizaré un 'enfoque científico', probando una teoría tras 
-otra hasta que, casualmente, consiga el efecto deseado. (Sí... es hora de 
-realizar algunos... ¡¡experimentos!!)~
-@13   = ~El Abismo parece más apetecible por segundos.~
-@14   = ~¿Me hablas a mí, cara de cuero? ¿O era el batir de las correas 
-sueltas de las viejas sandalias de <CHARNAME>? Ya sabes, es difícil de saber 
-ya que babeas y te relames cada vez que miras a nuestro ilustre líder. Ese 
-hambre por un alma y el eterno vacío debe de doler bastante, pero deberías 
+mago, verÃ¡s por ti mismo que digo la verdad. De hecho, te derrotarÃ© con tu 
+propia arma - realizarÃ© un 'enfoque cientÃ­fico', probando una teorÃ­a tras 
+otra hasta que, casualmente, consiga el efecto deseado. (SÃ­... es hora de 
+realizar algunos... Â¡Â¡experimentos!!)~
+@13   = ~El Abismo parece mÃ¡s apetecible por segundos.~
+@14   = ~Â¿Me hablas a mÃ­, cara de cuero? Â¿O era el batir de las correas 
+sueltas de las viejas sandalias de <CHARNAME>? Ya sabes, es difÃ­cil de saber 
+ya que babeas y te relames cada vez que miras a nuestro ilustre lÃ­der. Ese 
+hambre por un alma y el eterno vacÃ­o debe de doler bastante, pero deberÃ­as 
 controlarte mejor, Vencido.~ [EDWI2509]
 @15   = ~Y hablando de correas, creo que vi un traje como el tuyo una vez, 
 en un club nocturno para hombres en Aguas Profundas, donde los seguidores 
-varones de Loviatar van a ligar y suelen sobarse entre sí. ¿De dónde lo 
-sacaste: de un catálogo 'especial' para hombres, o de la sección 'látigos y 
+varones de Loviatar van a ligar y suelen sobarse entre sÃ­. Â¿De dÃ³nde lo 
+sacaste: de un catÃ¡logo 'especial' para hombres, o de la secciÃ³n 'lÃ¡tigos y 
 cuero' en una de las cadenas de Aurora 'El Calor y El Insomne' de tiendas 
 especializadas?~
-@16   = ~No sé a qué te refieres, ni siquiera me lo puedo imaginar basándome 
+@16   = ~No sÃ© a quÃ© te refieres, ni siquiera me lo puedo imaginar basÃ¡ndome 
 en tu discurso, pero pareces estar muy familiarizado con sus servicios, 
-joven mago. ¿Y qué era lo que hacías exactamente en aquel lugar tan peculiar 
+joven mago. Â¿Y quÃ© era lo que hacÃ­as exactamente en aquel lugar tan peculiar 
 de Aguas Profundas?~
-@17   = ~Tú... ¡tú creaste un gólem de carne con el atractivo y el carisma 
-de un tentacle horror! Cómo te atreves a sugerir que yo podría... que yo... 
-En cualquier caso, tus suposiciones son completamente erróneas y tu lógica 
-es ridícula. ¡Muchas concubinas han gritado de placer tras mi erótica 
-embestida, y mis gustos sobre el entretenimiento son mucho más refinados que 
-los de cualquier ordinario gibón de Loviatar!~
+@17   = ~TÃº... Â¡tÃº creaste un gÃ³lem de carne con el atractivo y el carisma 
+de un tentacle horror! CÃ³mo te atreves a sugerir que yo podrÃ­a... que yo... 
+En cualquier caso, tus suposiciones son completamente errÃ³neas y tu lÃ³gica 
+es ridÃ­cula. Â¡Muchas concubinas han gritado de placer tras mi erÃ³tica 
+embestida, y mis gustos sobre el entretenimiento son mucho mÃ¡s refinados que 
+los de cualquier ordinario gibÃ³n de Loviatar!~
 @18   = ~No me parece que tu sudoroso juego de contar las piernas y dividir 
-entre dos al que tus congéneres de orejas redondas llaman 'eros' sea 
-merecedor de mi atención, incluso aunque tuviera el más leve interés por ese 
-tipo de cosas. Pero, ¿viste lo sencillo que me fue hacerte enfadar en mi 
+entre dos al que tus congÃ©neres de orejas redondas llaman 'eros' sea 
+merecedor de mi atenciÃ³n, incluso aunque tuviera el mÃ¡s leve interÃ©s por ese 
+tipo de cosas. Pero, Â¿viste lo sencillo que me fue hacerte enfadar en mi 
 turno?~
-@19   = ~Te sugiero que abandones tu pequeño proyecto, joven Edwin, y que 
-hagas algo menos dañino para tus pulmones, ya que estás en continuo peligro 
+@19   = ~Te sugiero que abandones tu pequeÃ±o proyecto, joven Edwin, y que 
+hagas algo menos daÃ±ino para tus pulmones, ya que estÃ¡s en continuo peligro 
 de ahogarte con tu propia saliva mientras mantenemos estas conversaciones. 
-Si tanto deseas vencerme en una batalla de ingenio y lógica, ¿qué te parece 
+Si tanto deseas vencerme en una batalla de ingenio y lÃ³gica, Â¿quÃ© te parece 
 jugar una partida de ajedrez?~
-@20   = ~¿Una partida de ajedrez? Debes estar completamente fuera de tus 
-cabales, Irenicus. (Aunque no me sorprende - esta máscara le hace parecer un 
-paciente del Asilo que anda suelto.) ¿Acaso tienes un ajedrez y piezas 
-portátiles escondidas en algún lugar de tu antiestético traje de cuero? Y en 
-cualquier caso, <CHARNAME> no querría esperar mientras nos sentamos 
+@20   = ~Â¿Una partida de ajedrez? Debes estar completamente fuera de tus 
+cabales, Irenicus. (Aunque no me sorprende - esta mÃ¡scara le hace parecer un 
+paciente del Asilo que anda suelto.) Â¿Acaso tienes un ajedrez y piezas 
+portÃ¡tiles escondidas en algÃºn lugar de tu antiestÃ©tico traje de cuero? Y en 
+cualquier caso, <CHARNAME> no querrÃ­a esperar mientras nos sentamos 
 alrededor del tablero reflexionando el siguiente movimiento.~
-@21   = ~¿Por qué necesitas piezas de ajedrez y un tablero cuando dispones 
-de memoria e imaginación? ¿Nunca oíste hablar del ajedrez 'mental', mago? Yo 
-te diré mis movimientos y tú me responderás de una manera similar incluso 
-mientras caminemos campo a través siguiendo la estela de <CHARNAME>. 
-Entonces, ¿aceptas el desafío, o tu intelecto no podría realizar semejante 
+@21   = ~Â¿Por quÃ© necesitas piezas de ajedrez y un tablero cuando dispones 
+de memoria e imaginaciÃ³n? Â¿Nunca oÃ­ste hablar del ajedrez 'mental', mago? Yo 
+te dirÃ© mis movimientos y tÃº me responderÃ¡s de una manera similar incluso 
+mientras caminemos campo a travÃ©s siguiendo la estela de <CHARNAME>. 
+Entonces, Â¿aceptas el desafÃ­o, o tu intelecto no podrÃ­a realizar semejante 
 ejercicio mental?~
-@22   = ~¿A eso lo llamas desafío, Irenicus? ¡Observa cómo hago temblar a tu 
+@22   = ~Â¿A eso lo llamas desafÃ­o, Irenicus? Â¡Observa cÃ³mo hago temblar a tu 
 cerebro como una gelatina en tres movimientos!~
-@23   = ~Asumiré que eso fue un 'sí'. Muy bien, comencemos nuestra primera 
+@23   = ~AsumirÃ© que eso fue un 'sÃ­'. Muy bien, comencemos nuestra primera 
 partida.~
-@24   = ~Supongo que en cierta manera será más entretenido que conversar con 
-los otros simios con los que <CHARNAME> se empeña en viajar. Por supuesto, 
-es una cuestión de tres movimientos, como mucho, antes de que te tenga en 
-mate. (¡El Asalto de Rillifane servirá! O quizás, algo incluso más astuto y 
-sutil, como el Inútil Sacrificio del Caballo.) ~ [EDWIN35]
+@24   = ~Supongo que en cierta manera serÃ¡ mÃ¡s entretenido que conversar con 
+los otros simios con los que <CHARNAME> se empeÃ±a en viajar. Por supuesto, 
+es una cuestiÃ³n de tres movimientos, como mucho, antes de que te tenga en 
+mate. (Â¡El Asalto de Rillifane servirÃ¡! O quizÃ¡s, algo incluso mÃ¡s astuto y 
+sutil, como el InÃºtil Sacrificio del Caballo.) ~ [EDWIN35]
 @25   = ~Entonces, muy bien, continuemos desde donde lo dejamos antes de 
-nuestra última batalla. Espero que aún recuerdes las posiciones de las 
+nuestra Ãºltima batalla. Espero que aÃºn recuerdes las posiciones de las 
 piezas. Reina a C6.~
-@26   = ~¡Tres movimientos te digo! ¡Tres movimientos! Caballo a F7.~
+@26   = ~Â¡Tres movimientos te digo! Â¡Tres movimientos! Caballo a F7.~
 @27   = ~Reina a B5, y elimino tu torre.~
-@28   = ~Er... ah... ¡te *dejé* hacer eso! Sí, es todo parte de mi astuto 
+@28   = ~Er... ah... Â¡te *dejÃ©* hacer eso! SÃ­, es todo parte de mi astuto 
 plan para... para crearte un falso sentimiento de seguridad, antes de 
-aniquilarte por completo. Peón a C2. ¡Ja! ¡Supera eso!~
-@29   = ~Con mis cientos de años de experiencia, nunca hubiera imaginado 
+aniquilarte por completo. PeÃ³n a C2. Â¡Ja! Â¡Supera eso!~
+@29   = ~Con mis cientos de aÃ±os de experiencia, nunca hubiera imaginado 
 poder ganar a alguien con un movimiento tan inocuo. Creo que incluso mi 
-genio esclavizado no hubiera caído en esa trampa. Emociones, emociones. 
-Tienes talento, humano, pero aún no eres un verdadero maestro del ajedrez. 
+genio esclavizado no hubiera caÃ­do en esa trampa. Emociones, emociones. 
+Tienes talento, humano, pero aÃºn no eres un verdadero maestro del ajedrez. 
 Reina a B1... jaque, y mate.~
-@30   = ~Qué... no... ¡NO! Hiciste trampa. ¡Estoy absolutamente seguro de 
-que tenía un peón bloqueando ese jaque!~
-@31   = ~Recuerdas mal. El movimiento fue legal. Harías bien en practicar tu 
-teoría en vez de acusar furiosamente a tus superiores, y entonces quizás 
-finalmente demostrarás ser un desafío.~
-@32   = ~¡Te demostraré que soy un desafío, viejo farsante obsesionado con 
+@30   = ~QuÃ©... no... Â¡NO! Hiciste trampa. Â¡Estoy absolutamente seguro de 
+que tenÃ­a un peÃ³n bloqueando ese jaque!~
+@31   = ~Recuerdas mal. El movimiento fue legal. HarÃ­as bien en practicar tu 
+teorÃ­a en vez de acusar furiosamente a tus superiores, y entonces quizÃ¡s 
+finalmente demostrarÃ¡s ser un desafÃ­o.~
+@32   = ~Â¡Te demostrarÃ© que soy un desafÃ­o, viejo farsante obsesionado con 
 las correas de cuero y cuya cara se asemeja a las nalgas de un babuino! 
-(Algunos no tienen ni idea sobre la 'verdadera' moda. Sí, eso será 
+(Algunos no tienen ni idea sobre la 'verdadera' moda. SÃ­, eso serÃ¡ 
 suficiente.)~
-@33   = ~¿Y esto lo dice un playboy que se hace la manicura, encaprichado 
+@33   = ~Â¿Y esto lo dice un playboy que se hace la manicura, encaprichado 
 con la seda roja y los galones dorados? Por la manera en la que admiras tus 
-uñas perfectamente perfiladas, Edwin, cuando deberías estar usando tu 
-cerebro, no representarías un desafío ni para un duergar borracho en una 
-partida de póquer.~
-@34   = ~*cara de asco* ¡No me digas que así fue como empleaste tus años de 
+uÃ±as perfectamente perfiladas, Edwin, cuando deberÃ­as estar usando tu 
+cerebro, no representarÃ­as un desafÃ­o ni para un duergar borracho en una 
+partida de pÃ³quer.~
+@34   = ~*cara de asco* Â¡No me digas que asÃ­ fue como empleaste tus aÃ±os de 
 exilio: jugando a cartas con tus esclavos duergar! Me juego mis mejores 
-túnicas contra la vieja camiseta de <CHARNAME> a que no podrías ni 
-imaginarte en qué estaba pensando, Irenicus. (O si puedes, te has debido 
+tÃºnicas contra la vieja camiseta de <CHARNAME> a que no podrÃ­as ni 
+imaginarte en quÃ© estaba pensando, Irenicus. (O si puedes, te has debido 
 ensuciar tus calzones de cuero y esos divertidos faldones por la mera 
-posibilidad de enfrentarte a mí - el invulnerable y poderoso Edwin 
+posibilidad de enfrentarte a mÃ­ - el invulnerable y poderoso Edwin 
 Odesseiron.)~
-@35   = ~¿Un duelo de magos? ¿A muerte?~
-@36   = ~¿Y qué más?~
+@35   = ~Â¿Un duelo de magos? Â¿A muerte?~
+@36   = ~Â¿Y quÃ© mÃ¡s?~
 @37   = ~Sorprendente. Parece ser que nuestros hechizos han interaccionado 
-entre ellos. Un efecto poco común. Deberíamos asegurarnos de estudiar este 
-fenómeno mientras dure. Estimo que remitirá en un día o más... ya veremos.~
-@38   = ~Estudiar... fenómeno... ¡somos *ardillas*, maniaco descerebrado! 
-¡Ardillas! ¡Ardillas saltadoras de árboles, devoradoras de nueces, de tupida 
-cola y grandes dientes! (Mi cuerpo... mi precioso y perfecto cuerpo... ¡esto 
-no es justo! ¡No *otra vez*!) ¿Es que no te preocupa lo más mínimo?~
-@39   = ~En realidad no. No. Verás, esa es una pequeña ventaja de mi 
-condición. Y ahora voy a revisar nuestras provisiones, creo que <CHARNAME> 
-tiene algunas nueces. ¿Me acompañas?~
-@40   = ~Sí. Y la primera persona que se ría estará condenada a *sufrir*. 
-(Estos dientes son más afilados de lo que parecen.)~
-@41   = ~¿Qué? ¿Qué ha ocurrido? ¿Y por qué siento un repentino antojo de 
+entre ellos. Un efecto poco comÃºn. DeberÃ­amos asegurarnos de estudiar este 
+fenÃ³meno mientras dure. Estimo que remitirÃ¡ en un dÃ­a o mÃ¡s... ya veremos.~
+@38   = ~Estudiar... fenÃ³meno... Â¡somos *ardillas*, maniaco descerebrado! 
+Â¡Ardillas! Â¡Ardillas saltadoras de Ã¡rboles, devoradoras de nueces, de tupida 
+cola y grandes dientes! (Mi cuerpo... mi precioso y perfecto cuerpo... Â¡esto 
+no es justo! Â¡No *otra vez*!) Â¿Es que no te preocupa lo mÃ¡s mÃ­nimo?~
+@39   = ~En realidad no. No. VerÃ¡s, esa es una pequeÃ±a ventaja de mi 
+condiciÃ³n. Y ahora voy a revisar nuestras provisiones, creo que <CHARNAME> 
+tiene algunas nueces. Â¿Me acompaÃ±as?~
+@40   = ~SÃ­. Y la primera persona que se rÃ­a estarÃ¡ condenada a *sufrir*. 
+(Estos dientes son mÃ¡s afilados de lo que parecen.)~
+@41   = ~Â¿QuÃ©? Â¿QuÃ© ha ocurrido? Â¿Y por quÃ© siento un repentino antojo de 
 nueces?~
 

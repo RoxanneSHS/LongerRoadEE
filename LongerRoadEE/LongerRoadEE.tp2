@@ -1,24 +1,13 @@
 BACKUP ~LongerRoadEE/backup~
 //AUTHOR ~ladydorotea@hotmail.com~
-SUPPORT ~Roxanne - https://baldursextendedworld.com/Branched-EET-Updates-4/ or roxanne@baldursextendedworld.com~
-VERSION ~1.9.2~
+SUPPORT ~https://github.com/RoxanneSHS/LongerRoadEE~
+VERSION ~1.9.3~
 
 ALLOW_MISSING ~ar3003.bcs~
 ALLOW_MISSING ~ar5502.bcs~
 
 ASK_EVERY_COMPONENT
 
-ALWAYS
-  ACTION_DEFINE_ARRAY fl#reload BEGIN setup END
-  LAF HANDLE_CHARSETS
-    INT_VAR
-      infer_charset = 1
-    STR_VAR
-      tra_path = ~LongerRoadEE/tra~
-      reload_array = fl#reload
-      default_language = ~English~
-  END
-END
 
 AUTO_TRA ~LongerRoadEE/tra/%s~
 
@@ -41,6 +30,10 @@ LANGUAGE ~Polski (Tlumaczenie Cuttooth)~
 LANGUAGE ~Russian (by Arcanecoast.ru)~
          ~russian~
          ~LongerRoadEE/tra/russian/setup.tra~
+         
+LANGUAGE ~Chinese (by wuxiangjinxing)~
+         ~chinese~
+         ~LongerRoadEE/tra/chinese/setup.tra~
 
 ///////////////////////////////////////////////////////////////////////
 ///////////////////////////////////////////////////////////////////////
@@ -49,7 +42,7 @@ LANGUAGE ~Russian (by Arcanecoast.ru)~
 ///////////////////////////////////////////////////////////////////////
 
 BEGIN @0
-REQUIRE_COMPONENT ~Ascension.tp2~ 0 ~Ascension mod required.~
+REQUIRE_COMPONENT ~Ascension.tp2~ 0 ~Ascension mod main component required.~
 
 ACTION_IF GAME_IS ~bg2ee eet~ BEGIN
 COPY  ~LongerRoadEE/are~          ~override~

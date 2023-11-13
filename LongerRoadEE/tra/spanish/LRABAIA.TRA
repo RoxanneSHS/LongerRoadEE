@@ -1,54 +1,54 @@
-@0    = ~¡Hey, tío! ¿Tú qué crees? ¡Él dice que todo cambia, mientras que yo afirmo que no se puede cambiar el comportamiento básico de nadie!~ ~¡Hey, tía! ¿Tú qué crees? ¡Él dice que todo cambia, mientras que yo afirmo que no se puede cambiar el comportamiento básico de nadie!~
-@1    = ~¿Y ahora qué tonterías dices, criatura? ¡Aquí no hay nadie más aparte de ti!~
-@2    = ~Seguro. Todo puede cambiar, incluso tú. Ahora, cálmate y vayamos al grano. ¿Eres el Bebilith que se tragó la Chispa de la Deva, por casualidad?~
-@3    = ~Nah. No lo creo. Un diablo es un diablo, y eso no va a cambiar. Bien, ¿me entregarás la Chispa voluntariamente, o debo rajarte y hurgar entre tus tripas para conseguirla?~
-@4    = ~¡Ves, te lo dije, tú no existes! Ahora, sal de mi cabeza, molesto siseo. ¡Vete a molestar a otra parte!~
+@0    = ~Â¡Hey, tÃ­o! Â¿TÃº quÃ© crees? Â¡Ã‰l dice que todo cambia, mientras que yo afirmo que no se puede cambiar el comportamiento bÃ¡sico de nadie!~ ~Â¡Hey, tÃ­a! Â¿TÃº quÃ© crees? Â¡Ã‰l dice que todo cambia, mientras que yo afirmo que no se puede cambiar el comportamiento bÃ¡sico de nadie!~
+@1    = ~Â¿Y ahora quÃ© tonterÃ­as dices, criatura? Â¡AquÃ­ no hay nadie mÃ¡s aparte de ti!~
+@2    = ~Seguro. Todo puede cambiar, incluso tÃº. Ahora, cÃ¡lmate y vayamos al grano. Â¿Eres el Bebilith que se tragÃ³ la Chispa de la Deva, por casualidad?~
+@3    = ~Nah. No lo creo. Un diablo es un diablo, y eso no va a cambiar. Bien, Â¿me entregarÃ¡s la Chispa voluntariamente, o debo rajarte y hurgar entre tus tripas para conseguirla?~
+@4    = ~Â¡Ves, te lo dije, tÃº no existes! Ahora, sal de mi cabeza, molesto siseo. Â¡Vete a molestar a otra parte!~
 @5    = ~ (canta)
-Mary tenía un corderito,
+Mary tenÃ­a un corderito,
 un corderito, un corderito,
-Mary tenía un corderito,
-su lana era como el algodón.
+Mary tenÃ­a un corderito,
+su lana era como el algodÃ³n.
 ~ [MARY]
 @6    = ~Y siempre que ella lo miraba,
 lo miraba, lo miraba,
 siempre que ella lo miraba,
-el corderito crecía feliz.
+el corderito crecÃ­a feliz.
 ~ [MARY]
 @7    = ~(canta)
-¿Por qué el corderito la quería tanto?
-¿quería tanto? ¿quería tanto?
-¿Por qué el corderito la quería tanto?
-ilusionados los niños gritaban.
+Â¿Por quÃ© el corderito la querÃ­a tanto?
+Â¿querÃ­a tanto? Â¿querÃ­a tanto?
+Â¿Por quÃ© el corderito la querÃ­a tanto?
+ilusionados los niÃ±os gritaban.
 ~ [MARY]
 @8    = ~Porque Mary lo alimenta con corazones
 y ojos como aperitivo.
 Porque Mary le da sangre de beber,
-el maestro contestó.~ [MARY]
+el maestro contestÃ³.~ [MARY]
 @9    = ~El Bebilith loco
-He encontrado al Bebilith loco Abaia, el cual se ha tragado accidentalmente la Chispa de la Deva. El demonio está fuera de sus cabales y no entiendo sus divagaciones.~
-@10   = ~Digo que va en contra del orden natural de las cosas. Según tu punto de vista, un Balor podría decidir reprimir su maldad y convertirse en un apoderado de Monte Celestia. Lo siguiente que digas será que *yo* también puedo cambiar. Y soy un Bebilith - ¿ves estas garras y estas mandíbulas? ¡Un Bebilith!~
-@11   = ~(llora) Al menos yo *era* un Bebilith... Ay, duele, duele, duele... ¡¡¡DUELE TANTO!!! ¿Por qué duele?~
-@12   = ~Detén tus locas divagaciones, demonio, y responde a mis preguntas. ¿Tu nombre es Abaia? ¿Cooperarás, o debo forzarte a entregarme la Chispa?~
-@13   = ~¡Maldita sea! El demonio está completamente loco. ¡Contéstame, criatura, o enfréntate a la ira del Verdadero Heredero de Bhaal! ¿Qué has hecho con la Chispa de la Deva?~
-@14   = ~Hmm, ¿quizás duela porque ahora tienes conciencia? Quizás pueda ayudarte, si me acompañas.~
-@15   = ~Olvida tus estúpidas pretensiones, demonio. Nada puede cambiar el orden natural de las cosas. Lo bueno es bueno y lo malo es malo. Bien, necesito saber qué has hecho con la chispa de la Deva.~
-@16   = ~¿Por qué debería Abaia acompañarte, tío? Tú no eres él, no eres él, ¡no eres él! La Deva está muerta. ¡Yo le maté con mi cobardía!~ ~¿Por qué debería Abaia acompañarte, tía? Tú no eres él, no eres él, ¡no eres él! La Deva está muerta. ¡Yo le maté con mi cobardía!~
-@17   = ~¿Hablas de Ybdiel, criatura? Él está conmigo. Bien, para de divagar y ayúdame para ayudarte a ti también.~
-@18   = ~Por mí te puedes quedar aquí, pero no me culpes si te continúa doliendo.~
-@19   = ~¡Ya me he cansado de esta comedia! Creo que tú sólo entiendes la lengua del acero.~
-@20   = ~¿La Deva está contigo? Déjame, déjame, ¡déjame verle! Sí, puedo oler su sangre. Aún está vivo. ~
-@21   = ~Déjame llevarlo. Abaia cuidará de la Deva, Abaia te seguirá, Abaia hará todo lo que le digas, tío. ¡Sólo sácame esta cosa y haz que pare el dolor!~ ~Déjame llevarlo. Abaia cuidará de la Deva, Abaia te seguirá, Abaia hará todo lo que le digas, tía. ¡Sólo sácame esta cosa y haz que pare el dolor!~
-@22   = ~Extraño aliado
-Irenicus me pidió que hablara con el demonio y ahora el Bebilith viaja con nosotros... ¡ayudando a cuidar de la Deva nada menos! Con toda la locura que he visto cada día en mis viajes debo preguntarme - ¿hacia dónde se dirige el mundo? ¡Bah! Debo parar de escribir y volver a explicarle qué es el 'bien' y por qué le 'duele' al demonio, el cual parece regodearse en la autocompasión y los remordimientos. ¿Por qué no pudieron elegir los dioses a otro para realizar esta absurda misión?~
-@23   = ~¡Castígame por mi culpa!~ [CHILM04]
-@24   = ~Él está muerto, él está muerto, ¡él está muerto! Tío, llegas tarde. Abaia te seguirá ahora. ¡Abaia seguirá a la Deva a los Planos!~ ~Él está muerto, él está muerto, ¡él está muerto! Tía, llegas tarde. Abaia te seguirá ahora. ¡Abaia seguirá a la Deva a los Planos!~
-@25   = ~No pude encontrar todas las Piezas del Acuerdo a tiempo para salvar a la Deva Ybdiel. Después de que la Deva muriera, el Bebilith también desapareció, e Irenicus me acusó de haber estropeado la misión. Bueno, supongo que no se puede complacer a todo el mundo...~
-@26   = ~Este demonio habla como uno de los Señores del Caos. Siento curiosidad por... no, no puede ser. De todas maneras, <CHARNAME>, ten cuidado con lo que respondas.~
-@27   = ~¡Detén tu canto, tío, eso duele!~ ~¡Detén tu canto, tía, eso duele!~
-@28   = ~<CHARNAME>, este debe ser el espécimen que buscábamos. Sus entrañas brillan con luz celestial. Un demonio normal no tendría ese aspecto... puedes confiar en mi experiencia en el asunto. Te advierto que deberías acercarte lentamente. Mírale amistosamente, y entabla conversación con la criatura.~
-@29   = ~ Bien, eso fue extraño. Me preguntaba si no podrías... No, no, ¡estoy seguro de que *yo* seré capaz de encargarme de un sencillo asunto como este!~
-@30   = ~¡Ay, duele!~
-@31   = ~(se encoge) Bien, eso fue extraño. Me preguntaba si no podrías... No, no, ¡estoy seguro de que un verdadero engendro de Bhaal será capaz de encargarse de un sencillo asunto como este!~
-@32   = ~Un espectáculo digno de ver sin lugar a dudas, pero ese fue un pobre manejo de una delicada situación, diosecillo. ¿Qué? No me mires como si te debiera un alma, inténtalo de nuevo.~ ~Un espectáculo digno de ver sin lugar a dudas, pero ese fue un pobre manejo de una delicada situación, diosecilla. ¿Qué? No me mires como si te debiera un alma, inténtalo de nuevo.~
-@33   = ~Excelente. <CHARNAME>, hasta ahora lo has hecho francamente bien. Ahora debes resolver cómo extraer la Chispa del diablo. Puedo ofrecerte un par de interesantes técnicas, una vez estés listo para proceder con la tarea.~ ~Excelente. <CHARNAME>, hasta ahora lo has hecho francamente bien. Ahora debes resolver cómo extraer la Chispa del diablo. Puedo ofrecerte un par de interesantes técnicas, una vez estés lista para proceder con la tarea.~
-@34   = ~¡Qué estúpida 'solución' para este acertijo! Ahora el demonio ha muerto, y la Chispa es inaccesible para nosotros. Lo has estropeado, hijo de dios, lo has estropeado estrepitosamente. ¡Sinceramente, espero que no hagas lo mismo con tu ofrecimiento del alma de un engendro de Bhaal!~ ~¡Qué estúpida 'solución' para este acertijo! Ahora el demonio ha muerto, y la Chispa es inaccesible para nosotros. Lo has estropeado, hija de dios, lo has estropeado estrepitosamente. ¡Sinceramente, espero que no hagas lo mismo con tu ofrecimiento del alma de un engendro de Bhaal!~
+He encontrado al Bebilith loco Abaia, el cual se ha tragado accidentalmente la Chispa de la Deva. El demonio estÃ¡ fuera de sus cabales y no entiendo sus divagaciones.~
+@10   = ~Digo que va en contra del orden natural de las cosas. SegÃºn tu punto de vista, un Balor podrÃ­a decidir reprimir su maldad y convertirse en un apoderado de Monte Celestia. Lo siguiente que digas serÃ¡ que *yo* tambiÃ©n puedo cambiar. Y soy un Bebilith - Â¿ves estas garras y estas mandÃ­bulas? Â¡Un Bebilith!~
+@11   = ~(llora) Al menos yo *era* un Bebilith... Ay, duele, duele, duele... Â¡Â¡Â¡DUELE TANTO!!! Â¿Por quÃ© duele?~
+@12   = ~DetÃ©n tus locas divagaciones, demonio, y responde a mis preguntas. Â¿Tu nombre es Abaia? Â¿CooperarÃ¡s, o debo forzarte a entregarme la Chispa?~
+@13   = ~Â¡Maldita sea! El demonio estÃ¡ completamente loco. Â¡ContÃ©stame, criatura, o enfrÃ©ntate a la ira del Verdadero Heredero de Bhaal! Â¿QuÃ© has hecho con la Chispa de la Deva?~
+@14   = ~Hmm, Â¿quizÃ¡s duela porque ahora tienes conciencia? QuizÃ¡s pueda ayudarte, si me acompaÃ±as.~
+@15   = ~Olvida tus estÃºpidas pretensiones, demonio. Nada puede cambiar el orden natural de las cosas. Lo bueno es bueno y lo malo es malo. Bien, necesito saber quÃ© has hecho con la chispa de la Deva.~
+@16   = ~Â¿Por quÃ© deberÃ­a Abaia acompaÃ±arte, tÃ­o? TÃº no eres Ã©l, no eres Ã©l, Â¡no eres Ã©l! La Deva estÃ¡ muerta. Â¡Yo le matÃ© con mi cobardÃ­a!~ ~Â¿Por quÃ© deberÃ­a Abaia acompaÃ±arte, tÃ­a? TÃº no eres Ã©l, no eres Ã©l, Â¡no eres Ã©l! La Deva estÃ¡ muerta. Â¡Yo le matÃ© con mi cobardÃ­a!~
+@17   = ~Â¿Hablas de Ybdiel, criatura? Ã‰l estÃ¡ conmigo. Bien, para de divagar y ayÃºdame para ayudarte a ti tambiÃ©n.~
+@18   = ~Por mÃ­ te puedes quedar aquÃ­, pero no me culpes si te continÃºa doliendo.~
+@19   = ~Â¡Ya me he cansado de esta comedia! Creo que tÃº sÃ³lo entiendes la lengua del acero.~
+@20   = ~Â¿La Deva estÃ¡ contigo? DÃ©jame, dÃ©jame, Â¡dÃ©jame verle! SÃ­, puedo oler su sangre. AÃºn estÃ¡ vivo. ~
+@21   = ~DÃ©jame llevarlo. Abaia cuidarÃ¡ de la Deva, Abaia te seguirÃ¡, Abaia harÃ¡ todo lo que le digas, tÃ­o. Â¡SÃ³lo sÃ¡came esta cosa y haz que pare el dolor!~ ~DÃ©jame llevarlo. Abaia cuidarÃ¡ de la Deva, Abaia te seguirÃ¡, Abaia harÃ¡ todo lo que le digas, tÃ­a. Â¡SÃ³lo sÃ¡came esta cosa y haz que pare el dolor!~
+@22   = ~ExtraÃ±o aliado
+Irenicus me pidiÃ³ que hablara con el demonio y ahora el Bebilith viaja con nosotros... Â¡ayudando a cuidar de la Deva nada menos! Con toda la locura que he visto cada dÃ­a en mis viajes debo preguntarme - Â¿hacia dÃ³nde se dirige el mundo? Â¡Bah! Debo parar de escribir y volver a explicarle quÃ© es el 'bien' y por quÃ© le 'duele' al demonio, el cual parece regodearse en la autocompasiÃ³n y los remordimientos. Â¿Por quÃ© no pudieron elegir los dioses a otro para realizar esta absurda misiÃ³n?~
+@23   = ~Â¡CastÃ­game por mi culpa!~ [CHILM04]
+@24   = ~Ã‰l estÃ¡ muerto, Ã©l estÃ¡ muerto, Â¡Ã©l estÃ¡ muerto! TÃ­o, llegas tarde. Abaia te seguirÃ¡ ahora. Â¡Abaia seguirÃ¡ a la Deva a los Planos!~ ~Ã‰l estÃ¡ muerto, Ã©l estÃ¡ muerto, Â¡Ã©l estÃ¡ muerto! TÃ­a, llegas tarde. Abaia te seguirÃ¡ ahora. Â¡Abaia seguirÃ¡ a la Deva a los Planos!~
+@25   = ~No pude encontrar todas las Piezas del Acuerdo a tiempo para salvar a la Deva Ybdiel. DespuÃ©s de que la Deva muriera, el Bebilith tambiÃ©n desapareciÃ³, e Irenicus me acusÃ³ de haber estropeado la misiÃ³n. Bueno, supongo que no se puede complacer a todo el mundo...~
+@26   = ~Este demonio habla como uno de los SeÃ±ores del Caos. Siento curiosidad por... no, no puede ser. De todas maneras, <CHARNAME>, ten cuidado con lo que respondas.~
+@27   = ~Â¡DetÃ©n tu canto, tÃ­o, eso duele!~ ~Â¡DetÃ©n tu canto, tÃ­a, eso duele!~
+@28   = ~<CHARNAME>, este debe ser el espÃ©cimen que buscÃ¡bamos. Sus entraÃ±as brillan con luz celestial. Un demonio normal no tendrÃ­a ese aspecto... puedes confiar en mi experiencia en el asunto. Te advierto que deberÃ­as acercarte lentamente. MÃ­rale amistosamente, y entabla conversaciÃ³n con la criatura.~
+@29   = ~ Bien, eso fue extraÃ±o. Me preguntaba si no podrÃ­as... No, no, Â¡estoy seguro de que *yo* serÃ© capaz de encargarme de un sencillo asunto como este!~
+@30   = ~Â¡Ay, duele!~
+@31   = ~(se encoge) Bien, eso fue extraÃ±o. Me preguntaba si no podrÃ­as... No, no, Â¡estoy seguro de que un verdadero engendro de Bhaal serÃ¡ capaz de encargarse de un sencillo asunto como este!~
+@32   = ~Un espectÃ¡culo digno de ver sin lugar a dudas, pero ese fue un pobre manejo de una delicada situaciÃ³n, diosecillo. Â¿QuÃ©? No me mires como si te debiera un alma, intÃ©ntalo de nuevo.~ ~Un espectÃ¡culo digno de ver sin lugar a dudas, pero ese fue un pobre manejo de una delicada situaciÃ³n, diosecilla. Â¿QuÃ©? No me mires como si te debiera un alma, intÃ©ntalo de nuevo.~
+@33   = ~Excelente. <CHARNAME>, hasta ahora lo has hecho francamente bien. Ahora debes resolver cÃ³mo extraer la Chispa del diablo. Puedo ofrecerte un par de interesantes tÃ©cnicas, una vez estÃ©s listo para proceder con la tarea.~ ~Excelente. <CHARNAME>, hasta ahora lo has hecho francamente bien. Ahora debes resolver cÃ³mo extraer la Chispa del diablo. Puedo ofrecerte un par de interesantes tÃ©cnicas, una vez estÃ©s lista para proceder con la tarea.~
+@34   = ~Â¡QuÃ© estÃºpida 'soluciÃ³n' para este acertijo! Ahora el demonio ha muerto, y la Chispa es inaccesible para nosotros. Lo has estropeado, hijo de dios, lo has estropeado estrepitosamente. Â¡Sinceramente, espero que no hagas lo mismo con tu ofrecimiento del alma de un engendro de Bhaal!~ ~Â¡QuÃ© estÃºpida 'soluciÃ³n' para este acertijo! Ahora el demonio ha muerto, y la Chispa es inaccesible para nosotros. Lo has estropeado, hija de dios, lo has estropeado estrepitosamente. Â¡Sinceramente, espero que no hagas lo mismo con tu ofrecimiento del alma de un engendro de Bhaal!~

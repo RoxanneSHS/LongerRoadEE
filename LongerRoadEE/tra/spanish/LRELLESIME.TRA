@@ -1,353 +1,353 @@
-@0    = ~Lamentablemente, estás más loco de lo que pensaba, <CHARNAME>. Pero
-mi gratitud es más duradera que tu tolerancia. Adiós.~ ~Lamentablemente, 
-estás más loca de lo que pensaba, <CHARNAME>. Pero mi gratitud es más 
-duradera que tu tolerancia. Adiós.~
-@1    = ~¡<CHARNAME>! Sentí una repentina necesidad de hablar contigo una 
-vez más. Es poco probable que volvamos a encontrarnos en este plano.~
-@2    = ~Perdóname, no pretendía desairar tu excepcional capacidad de evadir 
-una muerte segura, y estamos en deuda contigo y con tus compañeros por 
+@0    = ~Lamentablemente, estÃ¡s mÃ¡s loco de lo que pensaba, <CHARNAME>. Pero
+mi gratitud es mÃ¡s duradera que tu tolerancia. AdiÃ³s.~ ~Lamentablemente, 
+estÃ¡s mÃ¡s loca de lo que pensaba, <CHARNAME>. Pero mi gratitud es mÃ¡s 
+duradera que tu tolerancia. AdiÃ³s.~
+@1    = ~Â¡<CHARNAME>! SentÃ­ una repentina necesidad de hablar contigo una 
+vez mÃ¡s. Es poco probable que volvamos a encontrarnos en este plano.~
+@2    = ~PerdÃ³name, no pretendÃ­a desairar tu excepcional capacidad de evadir 
+una muerte segura, y estamos en deuda contigo y con tus compaÃ±eros por 
 vuestras heroicas acciones para salvar Suldanesselar.~
 @3    = ~Pero tu destino es oscuro y peligroso. Tu divino padre es tan 
-diferente del mío... Hoy, cuando estabais listos para partir, me di cuenta 
-de una cosa: nunca me perdonaría dejarte marchar sin preguntarte una última 
+diferente del mÃ­o... Hoy, cuando estabais listos para partir, me di cuenta 
+de una cosa: nunca me perdonarÃ­a dejarte marchar sin preguntarte una Ãºltima 
 cosa.~
-@4    = ~Siempre es un placer escuchar su dulce voz, reina Ellesime. ¿Cómo 
-puedo ayudaros, mi señora?~
+@4    = ~Siempre es un placer escuchar su dulce voz, reina Ellesime. Â¿CÃ³mo 
+puedo ayudaros, mi seÃ±ora?~
 @5    = ~Hemos perdido demasiado tiempo discutiendo este asunto, Ellesime, y 
-nunca me gustó su papel en él, con disculpas o sin ellas. No hay nada más 
+nunca me gustÃ³ su papel en Ã©l, con disculpas o sin ellas. No hay nada mÃ¡s 
 que decir.~
-@6    = ~Supongo que no me pasará nada por escucharos de nuevo, 'majestad'. 
-(se encoge de hombros) ¿Qué pasa ahora? ~
+@6    = ~Supongo que no me pasarÃ¡ nada por escucharos de nuevo, 'majestad'. 
+(se encoge de hombros) Â¿QuÃ© pasa ahora? ~
 @7    = ~Eres una bruja despiadada, Ellesime, y no tengo nada que discutir 
-con alguien como tú. Vete a besar a un sapo, y quizás se convierta en un 
+con alguien como tÃº. Vete a besar a un sapo, y quizÃ¡s se convierta en un 
 consorte apropiado para ti, aunque ni un miserable anfibio merece semejante 
 destino.~
 @8    = ~Con mucho gusto, Ellesime. Debe ser algo de 'suma importancia' si 
-decidió vigilarme desde que me marché de Suldanesselar.~
-@9    = ~Suéltalo, y acaba con esto, pequeña abrazaárboles presuntuosa. Mis 
-pies sólo quieren largarse de este maldito lugar. Estas estatuas se parecen 
-más a muertos vivientes que a grandes reyes de la raza élfica. ¡No me 
-extraña que Irenicus ardiera en deseos por destruir este lugar!~
+decidiÃ³ vigilarme desde que me marchÃ© de Suldanesselar.~
+@9    = ~SuÃ©ltalo, y acaba con esto, pequeÃ±a abrazaÃ¡rboles presuntuosa. Mis 
+pies sÃ³lo quieren largarse de este maldito lugar. Estas estatuas se parecen 
+mÃ¡s a muertos vivientes que a grandes reyes de la raza Ã©lfica. Â¡No me 
+extraÃ±a que Irenicus ardiera en deseos por destruir este lugar!~
 @10   = ~Reina Ellesime, su hospitalidad y sus regalos fueron suficientes 
-para compensar los crueles crímenes que Irenicus cometió contra mí y mis 
-amigos. ¿Cómo puedo serviros de nuevo?~
+para compensar los crueles crÃ­menes que Irenicus cometiÃ³ contra mÃ­ y mis 
+amigos. Â¿CÃ³mo puedo serviros de nuevo?~
 @11   = ~Has sido de gran ayuda para los elfos de mi ciudad, y te he 
 recompensado tanto como me lo han permitido mis limitadas capacidades, 
-<CHARNAME>. Pese a ello, nunca has demostrado ningún respeto hacia nuestras 
+<CHARNAME>. Pese a ello, nunca has demostrado ningÃºn respeto hacia nuestras 
 vidas y tradiciones.~
-@12   = ~Me temo que nunca tendremos nada en común. Cometí un grave error al 
+@12   = ~Me temo que nunca tendremos nada en comÃºn. CometÃ­ un grave error al 
 seguirte. Por favor, acepta de nuevo mis disculpas, y mis mejores deseos.~
-@13   = ~Debo admitir que ha despertado mi curiosidad, 'hermana'. ¿Qué 
-impulsaría a la sublime reina de los elfos e hija del 'Gran Roble' a correr 
-tras un mero engendro del dios humano del Asesinato, cuando fácilmente 
-podría haber enviado a alguien para traerlo de vuelta? Ahora que ha llegado 
-tan lejos, ¿por qué no realizar este último y pequeño paso y preguntarme lo 
+@13   = ~Debo admitir que ha despertado mi curiosidad, 'hermana'. Â¿QuÃ© 
+impulsarÃ­a a la sublime reina de los elfos e hija del 'Gran Roble' a correr 
+tras un mero engendro del dios humano del Asesinato, cuando fÃ¡cilmente 
+podrÃ­a haber enviado a alguien para traerlo de vuelta? Ahora que ha llegado 
+tan lejos, Â¿por quÃ© no realizar este Ãºltimo y pequeÃ±o paso y preguntarme lo 
 que desee?~
-@14   = ~No tengo tiempo para sus payasadas, Ellesime. Adiós.~
-@15   = ~Un extraño encuentro
+@14   = ~No tengo tiempo para sus payasadas, Ellesime. AdiÃ³s.~
+@15   = ~Un extraÃ±o encuentro
 
 Pensaba que estaba a solas en el bosque, observado solamente por los 
-antiguos ídolos de piedra - los centinelas de Suldanesselar. Pero me 
-equivoqué. Ellesime me siguió desde que partí de la ciudad. Mantuvimos una 
-extraña conversación, demasiado breve para que pudiera percibir sus 
+antiguos Ã­dolos de piedra - los centinelas de Suldanesselar. Pero me 
+equivoquÃ©. Ellesime me siguiÃ³ desde que partÃ­ de la ciudad. Mantuvimos una 
+extraÃ±a conversaciÃ³n, demasiado breve para que pudiera percibir sus 
 sentimientos, pasados o presentes, pero el mero hecho de que tuviera lugar 
-es sorprendente por sí solo...~
-@16   = ~Mi gratitud es más duradera que tu tolerancia, <CHARNAME>. Y aunque 
-tu falta de modales es considerable, tus sencillos métodos son 
+es sorprendente por sÃ­ solo...~
+@16   = ~Mi gratitud es mÃ¡s duradera que tu tolerancia, <CHARNAME>. Y aunque 
+tu falta de modales es considerable, tus sencillos mÃ©todos son 
 'encantadores'.~
 @17   = ~Mis disculpas por mi franqueza, majestad. Mi temperamento a veces 
 me supera, pero su imprudente manera de juzgar a Irenicus, causando toda la 
-catástrofe de la pérdida de mi alma, me dan numerosas razones para ser 
-cínico. ¿Cuál era su pregunta?~ ~Mis disculpas por mi franqueza, majestad. 
+catÃ¡strofe de la pÃ©rdida de mi alma, me dan numerosas razones para ser 
+cÃ­nico. Â¿CuÃ¡l era su pregunta?~ ~Mis disculpas por mi franqueza, majestad. 
 Mi temperamento a veces me supera, pero su imprudente manera de juzgar a 
-Irenicus, causando toda la catástrofe de la pérdida de mi alma, me dan 
-numerosas razones para ser cínica. ¿Cuál era su pregunta?~
-@18   = ~¿Me estás llamando estúpido por casualidad? El único motivo que me 
+Irenicus, causando toda la catÃ¡strofe de la pÃ©rdida de mi alma, me dan 
+numerosas razones para ser cÃ­nica. Â¿CuÃ¡l era su pregunta?~
+@18   = ~Â¿Me estÃ¡s llamando estÃºpido por casualidad? El Ãºnico motivo que me 
 impide hacerte tragar esas palabras con tu maldita saliva es la falta de 
-tiempo, no mis 'buenos modales'. Adiós, rencorosa reina de la ciudad 
-muerta.~ ~¿Me estás llamando estúpida por casualidad? El único motivo que me 
+tiempo, no mis 'buenos modales'. AdiÃ³s, rencorosa reina de la ciudad 
+muerta.~ ~Â¿Me estÃ¡s llamando estÃºpida por casualidad? El Ãºnico motivo que me 
 impide hacerte tragar esas palabras con tu maldita saliva es la falta de 
-tiempo, no mis 'buenos modales'. Adiós, rencorosa reina de la ciudad 
+tiempo, no mis 'buenos modales'. AdiÃ³s, rencorosa reina de la ciudad 
 muerta.~
-@19   = ~¿De veras? Y yo que pensaba que estaba actuando como un completo 
-estúpido. Quién hubiera pensado que le parecería tentador.~ ~¿De veras? Y yo 
-que pensaba que estaba actuando como una completa estúpida. Quién hubiera 
-pensado que le parecería tentador.~
-@20   = ~Si aún quiere hacerme esa pregunta esta es su última oportunidad, 
+@19   = ~Â¿De veras? Y yo que pensaba que estaba actuando como un completo 
+estÃºpido. QuiÃ©n hubiera pensado que le parecerÃ­a tentador.~ ~Â¿De veras? Y yo 
+que pensaba que estaba actuando como una completa estÃºpida. QuiÃ©n hubiera 
+pensado que le parecerÃ­a tentador.~
+@20   = ~Si aÃºn quiere hacerme esa pregunta esta es su Ãºltima oportunidad, 
 Ellesime.~
-@21   = ~¡Sabía que eras nuestro verdadero compañero, <CHARNAME>! Y me 
-alegra saber que no me equivoqué contigo, aunque Elhan me aconsejara muchas 
-veces no confiar en ti, mi querido <PRO_RACE>.~ ~¡Sabía que eras nuestra 
-verdadera compañera, <CHARNAME>! Y me alegra saber que no me equivoqué 
+@21   = ~Â¡SabÃ­a que eras nuestro verdadero compaÃ±ero, <CHARNAME>! Y me 
+alegra saber que no me equivoquÃ© contigo, aunque Elhan me aconsejara muchas 
+veces no confiar en ti, mi querido <PRO_RACE>.~ ~Â¡SabÃ­a que eras nuestra 
+verdadera compaÃ±era, <CHARNAME>! Y me alegra saber que no me equivoquÃ© 
 contigo, aunque Elhan me aconsejara muchas veces no confiar en ti, mi 
 querida <PRO_RACE>.~
-@22   = ~¡Sabía que en el fondo eras un verdadero amigo de los elfos, 
-<CHARNAME>! Y me alegra saber que no me equivoqué contigo, aunque Elhan me 
-aconsejara muchas veces no confiar en ti, mi querido <PRO_RACE>.~ ~¡Sabía 
+@22   = ~Â¡SabÃ­a que en el fondo eras un verdadero amigo de los elfos, 
+<CHARNAME>! Y me alegra saber que no me equivoquÃ© contigo, aunque Elhan me 
+aconsejara muchas veces no confiar en ti, mi querido <PRO_RACE>.~ ~Â¡SabÃ­a 
 que en el fondo eras una verdadera amiga de los elfos, <CHARNAME>! Y me 
-alegra saber que no me equivoqué contigo, aunque Elhan me aconsejara muchas 
+alegra saber que no me equivoquÃ© contigo, aunque Elhan me aconsejara muchas 
 veces no confiar en ti, mi querida <PRO_RACE>.~
 @23   = ~Pero me temo que me estoy aprovechando de tu amabilidad. Mi 
-pregunta no es tan importante después de todo.~
-@24   = ~¿No es tan importante? Pero, Ellesime, me siguió secretamente desde 
-las puertas de la ciudad hasta el bosque. ¿Acaso cree que ahora no tendrá el 
-suficiente valor para realizar esa pregunta, mi reina? Soy todo oídos.~
-@25   = ~No debería entrometerme en sus secretos, Ellesime. Pero la 
+pregunta no es tan importante despuÃ©s de todo.~
+@24   = ~Â¿No es tan importante? Pero, Ellesime, me siguiÃ³ secretamente desde 
+las puertas de la ciudad hasta el bosque. Â¿Acaso cree que ahora no tendrÃ¡ el 
+suficiente valor para realizar esa pregunta, mi reina? Soy todo oÃ­dos.~
+@25   = ~No deberÃ­a entrometerme en sus secretos, Ellesime. Pero la 
 curiosidad de la mujer es algo que debe ser satisfecho, y graciosamente 
-similar a la de un gato. Siendo inmortal, tendrá toda una eternidad para 
+similar a la de un gato. Siendo inmortal, tendrÃ¡ toda una eternidad para 
 lamentarse por esta oportunidad perdida.~
-@26   = ~Supongo que nadie sabrá mejor si es importante o no, majestad. 
-Espero que pueda reconstruir con éxito su bella ciudad de nuevo. Adiós y 
+@26   = ~Supongo que nadie sabrÃ¡ mejor si es importante o no, majestad. 
+Espero que pueda reconstruir con Ã©xito su bella ciudad de nuevo. AdiÃ³s y 
 buena suerte.~
-@27   = ~No, no. No era nada importante, sino un frívolo juego de mi curiosa 
-mente, <CHARNAME>. Adiós.~
-@28   = ~Adiós.~
-@29   = ~Un extraño encuentro
+@27   = ~No, no. No era nada importante, sino un frÃ­volo juego de mi curiosa 
+mente, <CHARNAME>. AdiÃ³s.~
+@28   = ~AdiÃ³s.~
+@29   = ~Un extraÃ±o encuentro
 
 Pensaba que estaba a solas en el bosque, observado solamente por los 
-antiguos ídolos de piedra - los centinelas de Suldanesselar. Pero me 
-equivoqué. Ellesime me siguió desde que partí de la ciudad. Mantuvimos una 
-extraña conversación, demasiado breve para que pudiera percibir sus 
+antiguos Ã­dolos de piedra - los centinelas de Suldanesselar. Pero me 
+equivoquÃ©. Ellesime me siguiÃ³ desde que partÃ­ de la ciudad. Mantuvimos una 
+extraÃ±a conversaciÃ³n, demasiado breve para que pudiera percibir sus 
 sentimientos, pasados o presentes, pero el mero hecho de que tuviera lugar 
-es sorprendente por sí solo...~
-@30   = ~Aunque resulte extraño, tu insolencia me aporta el valor necesario, 
+es sorprendente por sÃ­ solo...~
+@30   = ~Aunque resulte extraÃ±o, tu insolencia me aporta el valor necesario, 
 <CHARNAME>. Sencillamente necesito saberlo. Mataste a Joneleth... Jon con 
-tus propias manos, ¿verdad? ~
-@31   = ~No una sino dos veces, como me dijeron después. Aquí, en los 
-bosques de Suldanesselar venciste su cuerpo mortal; y después tuviste que 
-luchar con él de nuevo al ser arrastrado por tu alma al mismo Abismo.~ ~No 
-una, sino dos veces como me dijeron después. Aquí, en los bosques de 
-Suldanesselar venciste su cuerpo mortal; y después tuviste que luchar con él 
+tus propias manos, Â¿verdad? ~
+@31   = ~No una sino dos veces, como me dijeron despuÃ©s. AquÃ­, en los 
+bosques de Suldanesselar venciste su cuerpo mortal; y despuÃ©s tuviste que 
+luchar con Ã©l de nuevo al ser arrastrado por tu alma al mismo Abismo.~ ~No 
+una, sino dos veces como me dijeron despuÃ©s. AquÃ­, en los bosques de 
+Suldanesselar venciste su cuerpo mortal; y despuÃ©s tuviste que luchar con Ã©l 
 de nuevo al ser arrastrada por tu alma al mismo Abismo.~
-@32   = ~Sí, maté a su traicionero amante dos veces, Ellesime. No creo que 
-sea algo que no supiera antes. Vencí a Irenicus en su miserable avatar 
-material, y más tarde en su forma espiritual. ¡Y lo haría de nuevo si 
+@32   = ~SÃ­, matÃ© a su traicionero amante dos veces, Ellesime. No creo que 
+sea algo que no supiera antes. VencÃ­ a Irenicus en su miserable avatar 
+material, y mÃ¡s tarde en su forma espiritual. Â¡Y lo harÃ­a de nuevo si 
 tuviera la oportunidad!~
-@33   = ~Sí, mi reina. Eso fue lo que pasó. ¿Hay algo más que quisiera 
+@33   = ~SÃ­, mi reina. Eso fue lo que pasÃ³. Â¿Hay algo mÃ¡s que quisiera 
 saber? ~
-@34   = ~Precisamente. Ya hemos estado en esta situación muchas otras veces 
-antes, 'reina' Ellesime. ¿Y ahora qué? ~
-@35   = ~¿Cómo fue? Quiero decir... vi vuestra primera frenética batalla en 
-la copa del Árbol de la vida, añadida a la devastación que Joneleth ya le 
-había infligido.~
-@36   = ~En realidad, mi corazón no celebró vuestra victoria con toda 
+@34   = ~Precisamente. Ya hemos estado en esta situaciÃ³n muchas otras veces 
+antes, 'reina' Ellesime. Â¿Y ahora quÃ©? ~
+@35   = ~Â¿CÃ³mo fue? Quiero decir... vi vuestra primera frenÃ©tica batalla en 
+la copa del Ãrbol de la vida, aÃ±adida a la devastaciÃ³n que Joneleth ya le 
+habÃ­a infligido.~
+@36   = ~En realidad, mi corazÃ³n no celebrÃ³ vuestra victoria con toda 
 sinceridad, <CHARNAME>, incluso sabiendo que vuestra derrota hubiera 
 supuesto el fin de Suldanesselar. No estaba segura de mi propio destino... 
 pero eso es algo que prefiero no discutir contigo.~
-@37   = ~Durante toda vuestra estancia en la ciudad, nunca me atreví a 
-preguntarte por aquella última batalla en el Infierno, hijo de Bhaal. Por 
-favor, háblame de sus últimos momentos. ¿Te pareció Jon diferente al estar 
-al borde de la derrota y de su eterna perdición?~ ~Durante toda vuestra 
-estancia en la ciudad, nunca me atreví a preguntarte por aquella última 
-batalla en el Infierno, hija de Bhaal. Por favor, háblame de sus últimos 
-momentos. ¿Te pareció Jon diferente al estar al borde de la derrota y de su 
-eterna perdición?~
-@38   = ~Él... ¿intentó arrepentirse y suplicó perdón?~
-@39   = ~¿Hablamos del mismo hombre, Ellesime? A estas alturas debería 
-conocerle mejor. ¿Arrepentirse? ¡Estamos hablando de Irenicus! De Irenicus y 
-su maldito orgullo. ¿Acaso cree que daría media vuelta y correría al verse 
+@37   = ~Durante toda vuestra estancia en la ciudad, nunca me atrevÃ­ a 
+preguntarte por aquella Ãºltima batalla en el Infierno, hijo de Bhaal. Por 
+favor, hÃ¡blame de sus Ãºltimos momentos. Â¿Te pareciÃ³ Jon diferente al estar 
+al borde de la derrota y de su eterna perdiciÃ³n?~ ~Durante toda vuestra 
+estancia en la ciudad, nunca me atrevÃ­ a preguntarte por aquella Ãºltima 
+batalla en el Infierno, hija de Bhaal. Por favor, hÃ¡blame de sus Ãºltimos 
+momentos. Â¿Te pareciÃ³ Jon diferente al estar al borde de la derrota y de su 
+eterna perdiciÃ³n?~
+@38   = ~Ã‰l... Â¿intentÃ³ arrepentirse y suplicÃ³ perdÃ³n?~
+@39   = ~Â¿Hablamos del mismo hombre, Ellesime? A estas alturas deberÃ­a 
+conocerle mejor. Â¿Arrepentirse? Â¡Estamos hablando de Irenicus! De Irenicus y 
+su maldito orgullo. Â¿Acaso cree que darÃ­a media vuelta y correrÃ­a al verse 
 en peligro?~
-@40   = ~Debería conocer mejor a su ex-amante, Ellesime. ¿Acaso le pareció 
-que fuera de los que rehuyen un desafío y piden clemencia al verse al borde 
-de la muerte y de la perdición?~
+@40   = ~DeberÃ­a conocer mejor a su ex-amante, Ellesime. Â¿Acaso le pareciÃ³ 
+que fuera de los que rehuyen un desafÃ­o y piden clemencia al verse al borde 
+de la muerte y de la perdiciÃ³n?~
 @41   = ~No creo ni que pudiera sentir la necesidad de redimirse, Ellesime. 
-Jon no tenía alma, y por ello carecía de moral. ¿Cree que una persona que no 
-distingue el bien del mal podría sentir de repente remordimientos?~
+Jon no tenÃ­a alma, y por ello carecÃ­a de moral. Â¿Cree que una persona que no 
+distingue el bien del mal podrÃ­a sentir de repente remordimientos?~
 @42   = ~No, supongo que no.~
-@43   = ~Me desafió hasta el final, Ellesime. Los últimos momentos de su 
-maldita existencia fueron realmente espantosos. Intentó acabar conmigo por 
-todos sus medios, incluso después de morir. Sus sirvientes abismales 
-lucharon contra mí haciendo de la batalla un verdadero infierno. Pero eso no 
-le ayudó. Al final prevalecí, como siempre.~
-@44   = ~Aún recuerdo cómo era su expresión *después* de arrancarle mi alma 
-y de que sus demoníacos secuaces se volvieran de repente contra él... Fue 
-una visión horrible. Cuando le vi caer al hirviente mar de lava, casi sentí 
-lástima por él por una fracción de segundo.~
-@45   = ~Sí, lo he enviado a la caverna más profunda del Abismo, donde se 
-quedará por toda la eternidad pagando por sus pecados. Una verdadera 
-lástima. Era como un refinado instrumento de terror y destrucción. Me 
-hubiera gustado hacer negocios con él.~
+@43   = ~Me desafiÃ³ hasta el final, Ellesime. Los Ãºltimos momentos de su 
+maldita existencia fueron realmente espantosos. IntentÃ³ acabar conmigo por 
+todos sus medios, incluso despuÃ©s de morir. Sus sirvientes abismales 
+lucharon contra mÃ­ haciendo de la batalla un verdadero infierno. Pero eso no 
+le ayudÃ³. Al final prevalecÃ­, como siempre.~
+@44   = ~AÃºn recuerdo cÃ³mo era su expresiÃ³n *despuÃ©s* de arrancarle mi alma 
+y de que sus demonÃ­acos secuaces se volvieran de repente contra Ã©l... Fue 
+una visiÃ³n horrible. Cuando le vi caer al hirviente mar de lava, casi sentÃ­ 
+lÃ¡stima por Ã©l por una fracciÃ³n de segundo.~
+@45   = ~SÃ­, lo he enviado a la caverna mÃ¡s profunda del Abismo, donde se 
+quedarÃ¡ por toda la eternidad pagando por sus pecados. Una verdadera 
+lÃ¡stima. Era como un refinado instrumento de terror y destrucciÃ³n. Me 
+hubiera gustado hacer negocios con Ã©l.~
 @46   = ~Al final triunfaste, <CHARNAME>, y eso es lo que importa. Pero me 
-alegra habértelo preguntado. La última ínfima duda que me quedaba sobre la 
-validez del castigo de Jon ha desaparecido. Fue mi decisión como Gobernante 
-de esta Ciudad, no como su injusta amante, a petición de los Seldarine por 
-su afrenta al Espíritu Élfico.~
-@47   = ~Ahora estoy convencida de que entonces tomé la decisión correcta. 
+alegra habÃ©rtelo preguntado. La Ãºltima Ã­nfima duda que me quedaba sobre la 
+validez del castigo de Jon ha desaparecido. Fue mi decisiÃ³n como Gobernante 
+de esta Ciudad, no como su injusta amante, a peticiÃ³n de los Seldarine por 
+su afrenta al EspÃ­ritu Ã‰lfico.~
+@47   = ~Ahora estoy convencida de que entonces tomÃ© la decisiÃ³n correcta. 
 Te lo agradezco, mi buen <PRO_RACE>, y te deseo lo mejor en tus viajes.~ 
-~Ahora estoy convencida de que entonces tomé la decisión correcta. Te lo 
+~Ahora estoy convencida de que entonces tomÃ© la decisiÃ³n correcta. Te lo 
 agradezco, mi buena <PRO_RACE>, y te deseo lo mejor en tus viajes.~
-@48   = ~ Un extraño encuentro
+@48   = ~ Un extraÃ±o encuentro
 
 Pensaba que estaba a solas en el bosque, observado solamente por los 
-antiguos ídolos de piedra - los centinelas de Suldanesselar. Pero me 
-equivoqué. Ellesime me siguió desde que partí de la ciudad, sólo para 
-preguntarme una vez más por su difunto amante, y mi peor enemigo... 
-¡Irenicus! Hubiera deseado no aprender nunca su maldito nombre, ya que el 
-mago me persigue incluso después de su caída final al Abismo.
+antiguos Ã­dolos de piedra - los centinelas de Suldanesselar. Pero me 
+equivoquÃ©. Ellesime me siguiÃ³ desde que partÃ­ de la ciudad, sÃ³lo para 
+preguntarme una vez mÃ¡s por su difunto amante, y mi peor enemigo... 
+Â¡Irenicus! Hubiera deseado no aprender nunca su maldito nombre, ya que el 
+mago me persigue incluso despuÃ©s de su caÃ­da final al Abismo.
 
-Mantuvimos una extraña conversación, demasiado breve para que pudiera 
-percibir sus sentimientos por él, pasados o presentes, pero el mero hecho de 
-que tuviera lugar es sorprendente por sí solo...~
-@49   = ~¿Viste caer a Jon a lo más profundo del Abismo, <CHARNAME>? Pensaba 
-que aceptaría la 'verdadera muerte' después de su última derrota en el 
-Infierno, y que finalmente conocería la paz…~
-@50   = ~Nunca te entenderé a ti ni tus métodos, <CHARNAME>. Te pones del 
-lado de Jon a la ligera, de ser como él era al final, pero pese a ello 
-salvaste Suldanesselar cuando te necesitaba. Irenicus era una encarnación 
-del mal, pero una vez, mucho tiempo atrás, fue un hombre totalmente 
-diferente. ¿Has mencionado que viste caer a Jon a lo más profundo del 
+Mantuvimos una extraÃ±a conversaciÃ³n, demasiado breve para que pudiera 
+percibir sus sentimientos por Ã©l, pasados o presentes, pero el mero hecho de 
+que tuviera lugar es sorprendente por sÃ­ solo...~
+@49   = ~Â¿Viste caer a Jon a lo mÃ¡s profundo del Abismo, <CHARNAME>? Pensaba 
+que aceptarÃ­a la 'verdadera muerte' despuÃ©s de su Ãºltima derrota en el 
+Infierno, y que finalmente conocerÃ­a la pazâ€¦~
+@50   = ~Nunca te entenderÃ© a ti ni tus mÃ©todos, <CHARNAME>. Te pones del 
+lado de Jon a la ligera, de ser como Ã©l era al final, pero pese a ello 
+salvaste Suldanesselar cuando te necesitaba. Irenicus era una encarnaciÃ³n 
+del mal, pero una vez, mucho tiempo atrÃ¡s, fue un hombre totalmente 
+diferente. Â¿Has mencionado que viste caer a Jon a lo mÃ¡s profundo del 
 Abismo?~
-@51   = ~Entonces, aún existe de alguna abominable manera. ¡Debería haber 
-sabido que él era *así* de terco! Ya casi no queda nada de su anterior yo. 
-Su alma se ha consumido prácticamente hasta la nada durante el siglo o más 
-que duró su castigo, y ahora su cuerpo está enterrado en mis jardines 
+@51   = ~Entonces, aÃºn existe de alguna abominable manera. Â¡DeberÃ­a haber 
+sabido que Ã©l era *asÃ­* de terco! Ya casi no queda nada de su anterior yo. 
+Su alma se ha consumido prÃ¡cticamente hasta la nada durante el siglo o mÃ¡s 
+que durÃ³ su castigo, y ahora su cuerpo estÃ¡ enterrado en mis jardines 
 privados. ~
-@52   = ~Su alma se ha 'consumido prácticamente'? No lo entiendo, Ellesime.~
+@52   = ~Su alma se ha 'consumido prÃ¡cticamente'? No lo entiendo, Ellesime.~
 @53   = ~Es casi imposible imaginar semejante cosa...~
-@54   = ~Pero tú eres uno de nosotros. Deberías poder entenderlo.~ ~Pero tú 
-eres una de nosotros. Deberías poder entenderlo.~
-@55   = ~Es difícil explicárselo a un N'Tel'Quess. Pero lo intentaré.~
-@56   = ~El Espíritu Élfico es parte de nuestra naturaleza, <CHARNAME>. 
-Cuando le separan de él, el desdichado elfo no sólo pierde su inmortalidad y 
-el vínculo con la conciencia colectiva de nuestra Gente, su alma se marchita 
-y se consume con el paso del tiempo, dejando el cascarón de su antiguo yo, 
-carente de todo sentimiento y emoción.~
-@57   = ~¿Y le hizo eso a su amante a pesar de su 'alto aprecio espiritual' 
-hacia él?~
+@54   = ~Pero tÃº eres uno de nosotros. DeberÃ­as poder entenderlo.~ ~Pero tÃº 
+eres una de nosotros. DeberÃ­as poder entenderlo.~
+@55   = ~Es difÃ­cil explicÃ¡rselo a un N'Tel'Quess. Pero lo intentarÃ©.~
+@56   = ~El EspÃ­ritu Ã‰lfico es parte de nuestra naturaleza, <CHARNAME>. 
+Cuando le separan de Ã©l, el desdichado elfo no sÃ³lo pierde su inmortalidad y 
+el vÃ­nculo con la conciencia colectiva de nuestra Gente, su alma se marchita 
+y se consume con el paso del tiempo, dejando el cascarÃ³n de su antiguo yo, 
+carente de todo sentimiento y emociÃ³n.~
+@57   = ~Â¿Y le hizo eso a su amante a pesar de su 'alto aprecio espiritual' 
+hacia Ã©l?~
 @58   = ~Ese fue un buen castigo, digno de su ofensa, y de su ira de reina.~
-@59   = ~No me importa lo que le hiciera, pero ello provocó que me 
+@59   = ~No me importa lo que le hiciera, pero ello provocÃ³ que me 
 arrebatara mi alma como sustituto de la suya.~
-@60   = ~¡No lo entiendes, <CHARNAME>, nunca imaginé que pudiera suceder 
-eso! Se suponía que Joneleth aprendería una lección de humildad, y como 
-Reina tenía que hacer aquel sacrificio por la paz y la estabilidad de mi 
+@60   = ~Â¡No lo entiendes, <CHARNAME>, nunca imaginÃ© que pudiera suceder 
+eso! Se suponÃ­a que Joneleth aprenderÃ­a una lecciÃ³n de humildad, y como 
+Reina tenÃ­a que hacer aquel sacrificio por la paz y la estabilidad de mi 
 pueblo. Mi trono y la seguridad de Suldanesselar estaban en peligro. ~
-@61   = ~Además, era la única manera de mantenerlo vivo. Mi gente... después 
-de que Jon casi quemara el Árbol destruyéndolo en su primer intento por 
+@61   = ~AdemÃ¡s, era la Ãºnica manera de mantenerlo vivo. Mi gente... despuÃ©s 
+de que Jon casi quemara el Ãrbol destruyÃ©ndolo en su primer intento por 
 drenar sus poderes, lo hubieran hecho pedazos si yo no hubiera dictado esa 
-sentencia. Su cara y sus manos estaban casi destruidas por el fuego, y aún 
-vivía... si puedes llamar a eso vida.~
-@62   = ~¡Se suponía que volvería conmigo, rogándome curación y perdón! Le 
+sentencia. Su cara y sus manos estaban casi destruidas por el fuego, y aÃºn 
+vivÃ­a... si puedes llamar a eso vida.~
+@62   = ~Â¡Se suponÃ­a que volverÃ­a conmigo, rogÃ¡ndome curaciÃ³n y perdÃ³n! Le 
 hubiera concedido ambos gustosamente, si me lo hubiera pedido. ~
-@63   = ~Sí, sí, claro.~
-@64   = ~¿Era tan importante que tuviera que suplicárselo? Quizás, ¿no sería 
-que deseaba una retribución por su traición y por haber herido su orgullo?~
-@65   = ~Obviamente se equivocó al juzgar su carácter, Ellesime. Yo no 
-hubiera esperado que un hombre como Jon hubiera pedido perdón por nada.~
-@66   = ~¡Cómo puedes decir semejante cosa, <CHARNAME>! Yo... yo le amaba, 
-pero él puso su ansia de poder por encima del amor de su Reina...~
-@67   = ~¿Se refiere a por encima de su ansia por vos? Él no es un santo, 
-Ellesime, pero su propia actitud también me parece bastante egoísta. Debería 
-haberlo matado sin pensarlo, en vez de condenarlo a una putrefacción 
+@63   = ~SÃ­, sÃ­, claro.~
+@64   = ~Â¿Era tan importante que tuviera que suplicÃ¡rselo? QuizÃ¡s, Â¿no serÃ­a 
+que deseaba una retribuciÃ³n por su traiciÃ³n y por haber herido su orgullo?~
+@65   = ~Obviamente se equivocÃ³ al juzgar su carÃ¡cter, Ellesime. Yo no 
+hubiera esperado que un hombre como Jon hubiera pedido perdÃ³n por nada.~
+@66   = ~Â¡CÃ³mo puedes decir semejante cosa, <CHARNAME>! Yo... yo le amaba, 
+pero Ã©l puso su ansia de poder por encima del amor de su Reina...~
+@67   = ~Â¿Se refiere a por encima de su ansia por vos? Ã‰l no es un santo, 
+Ellesime, pero su propia actitud tambiÃ©n me parece bastante egoÃ­sta. DeberÃ­a 
+haberlo matado sin pensarlo, en vez de condenarlo a una putrefacciÃ³n 
 eterna.~
-@68   = ~'El diablo, cuya malicia sólo es igualada por su hiel', como dijo 
-el bardo una vez. Puedo entender el porqué de su ira, Ellesime, pero no 
+@68   = ~'El diablo, cuya malicia sÃ³lo es igualada por su hiel', como dijo 
+el bardo una vez. Puedo entender el porquÃ© de su ira, Ellesime, pero no 
 espere que la compadezca.~
-@69   = ~'Lo Siento, mi Reina' - es una frase tan simple, pero nunca la oí 
-salir de la boca de Jon. ¡Nunca! Él prefirió llevar esa horrible máscara 
-para ocultar su cara, desfigurada por el fuego y demacrada por su rápido 
-envejecimiento, esconderse tras ella, en vez de pedir perdón.~
-@70   = ~Fue realmente terrible descubrir que me odiaba tanto. Aún así, no 
-pude enterrarlo con su máscara, por lo que la llevo siempre conmigo. 
+@69   = ~'Lo Siento, mi Reina' - es una frase tan simple, pero nunca la oÃ­ 
+salir de la boca de Jon. Â¡Nunca! Ã‰l prefiriÃ³ llevar esa horrible mÃ¡scara 
+para ocultar su cara, desfigurada por el fuego y demacrada por su rÃ¡pido 
+envejecimiento, esconderse tras ella, en vez de pedir perdÃ³n.~
+@70   = ~Fue realmente terrible descubrir que me odiaba tanto. AÃºn asÃ­, no 
+pude enterrarlo con su mÃ¡scara, por lo que la llevo siempre conmigo. 
 <CHARNAME>, esta es *mi* parte del castigo.~
-@71   = ~¿Su máscara? ¿Puedo echarle un vistazo? Verdaderamente, una rareza 
-fascinante, y un objeto de extraño poder que desearía encarecidamente 
+@71   = ~Â¿Su mÃ¡scara? Â¿Puedo echarle un vistazo? Verdaderamente, una rareza 
+fascinante, y un objeto de extraÃ±o poder que desearÃ­a encarecidamente 
 poseer.~
-@72   = ~Quizás sería una buena idea deshaceros de él, Ellesime. O mejor, 
+@72   = ~QuizÃ¡s serÃ­a una buena idea deshaceros de Ã©l, Ellesime. O mejor, 
 simplemente destruidlo. No creo que sea el ideal de baratija que alguien 
-quisiera guardar para recordar a otra persona. Jon ya no volverá, afróntelo 
+quisiera guardar para recordar a otra persona. Jon ya no volverÃ¡, afrÃ³ntelo 
 como una reina, y termine con esto.~
-@73   = ~No soy muy sensible, Ellesime, puedo quedármela si así lo desea.~
-@74   = ~Creo entender sus sentimientos, Ellesime. Pero como él mismo dijo, 
-su amor por vos es algo que murió hace muchos años... Quizás sea el momento 
-de olvidarle. La máscara es sólo un símbolo de su sufrimiento por él, nada 
-más. Quemadla.~
-@75   = ~No sé qué decir, Ellesime. Nunca imaginé que semejante trampa, tan 
-mortal e ineludible, pudiera ser forjada por la pasión y el orgullo. 
-Desearía poder ayudarla, pero no sé cómo.~
-@76   = ~Agradezco tu consejo, <CHARNAME>, pero esto significa para mí mucho 
-más que un sucio trozo de cuero. Ocultó su demacrada cara durante casi un 
-siglo, cuando él aún caminaba por Toril, aunque yo ya lo había perdido. Te 
+@73   = ~No soy muy sensible, Ellesime, puedo quedÃ¡rmela si asÃ­ lo desea.~
+@74   = ~Creo entender sus sentimientos, Ellesime. Pero como Ã©l mismo dijo, 
+su amor por vos es algo que muriÃ³ hace muchos aÃ±os... QuizÃ¡s sea el momento 
+de olvidarle. La mÃ¡scara es sÃ³lo un sÃ­mbolo de su sufrimiento por Ã©l, nada 
+mÃ¡s. Quemadla.~
+@75   = ~No sÃ© quÃ© decir, Ellesime. Nunca imaginÃ© que semejante trampa, tan 
+mortal e ineludible, pudiera ser forjada por la pasiÃ³n y el orgullo. 
+DesearÃ­a poder ayudarla, pero no sÃ© cÃ³mo.~
+@76   = ~Agradezco tu consejo, <CHARNAME>, pero esto significa para mÃ­ mucho 
+mÃ¡s que un sucio trozo de cuero. OcultÃ³ su demacrada cara durante casi un 
+siglo, cuando Ã©l aÃºn caminaba por Toril, aunque yo ya lo habÃ­a perdido. Te 
 deseo lo mejor en tus viajes, mi buen <PRO_RACE>.~ ~Agradezco tu consejo, 
-<CHARNAME>, pero esto significa para mí mucho más que un sucio trozo de 
-cuero. Ocultó su demacrada cara durante casi un siglo, cuando él aún 
-caminaba por Toril, aunque yo ya lo había perdido. Te deseo lo mejor en tus 
+<CHARNAME>, pero esto significa para mÃ­ mucho mÃ¡s que un sucio trozo de 
+cuero. OcultÃ³ su demacrada cara durante casi un siglo, cuando Ã©l aÃºn 
+caminaba por Toril, aunque yo ya lo habÃ­a perdido. Te deseo lo mejor en tus 
 viajes, mi buena <PRO_RACE>.~
-@77   = ~¿Eso es todo lo que te sugiere, <CHARNAME>? ¿Que es un objeto 
-poderoso y una rareza mágica?~
-@78   = ~Sí, más que nada me interesa como recuerdo.~
-@79   = ~Bien, supongo que también tendrá un valor sentimental.~
-@80   = ~Sólo intento ser sincero con vos, Ellesime. O lo toma o lo deja.~ 
-~Sólo intento ser sincera con vos, Ellesime. O lo toma o lo deja.~
-@81   = ~¿Quieres quedártela, <CHARNAME>? Quizás seas la única persona de 
+@77   = ~Â¿Eso es todo lo que te sugiere, <CHARNAME>? Â¿Que es un objeto 
+poderoso y una rareza mÃ¡gica?~
+@78   = ~SÃ­, mÃ¡s que nada me interesa como recuerdo.~
+@79   = ~Bien, supongo que tambiÃ©n tendrÃ¡ un valor sentimental.~
+@80   = ~SÃ³lo intento ser sincero con vos, Ellesime. O lo toma o lo deja.~ 
+~SÃ³lo intento ser sincera con vos, Ellesime. O lo toma o lo deja.~
+@81   = ~Â¿Quieres quedÃ¡rtela, <CHARNAME>? QuizÃ¡s seas la Ãºnica persona de 
 este mundo que pueda comprenderlo. Y compartiste un alma con Jon, aunque 
-brevemente. Casi siento como si se la devolviera a él.~
-@82   = ~Quiero librarme de su persistente presencia, pero jamás podré 
-mientras lleve esto conmigo. Y nunca podría tirarla o quemarla, se parece 
+brevemente. Casi siento como si se la devolviera a Ã©l.~
+@82   = ~Quiero librarme de su persistente presencia, pero jamÃ¡s podrÃ© 
+mientras lleve esto conmigo. Y nunca podrÃ­a tirarla o quemarla, se parece 
 demasiado a su cara real.~
-@83   = ~Sí, la aceptaré con agrado, Ellesime. Será otro de los muchos 
-trofeos extraños que guardo en mi mochila. No creo que sea una gran carga.~
-@84   = ~Creo que no. Incluso mi tolerancia tiene un límite. Es demasiado 
-para mí.~
-@85   = ~La cogeré, pero sólo para quemarla a la menor oportunidad.~
+@83   = ~SÃ­, la aceptarÃ© con agrado, Ellesime. SerÃ¡ otro de los muchos 
+trofeos extraÃ±os que guardo en mi mochila. No creo que sea una gran carga.~
+@84   = ~Creo que no. Incluso mi tolerancia tiene un lÃ­mite. Es demasiado 
+para mÃ­.~
+@85   = ~La cogerÃ©, pero sÃ³lo para quemarla a la menor oportunidad.~
 @86   = ~Por supuesto, si eso la hace sentirse mejor... Pero no es la 
-máscara lo que la une a él, Ellesime, sino su corazón.~
-@87   = ~La cogeré con mucho gusto. Tengo un extraño interés por este tipo 
-de cosas, ¡debería contemplar algunos de los artefactos de mi colección!~
-@88   = ~En realidad no me importan sus sentimientos, Ellesime. Sólo démela 
+mÃ¡scara lo que la une a Ã©l, Ellesime, sino su corazÃ³n.~
+@87   = ~La cogerÃ© con mucho gusto. Tengo un extraÃ±o interÃ©s por este tipo 
+de cosas, Â¡deberÃ­a contemplar algunos de los artefactos de mi colecciÃ³n!~
+@88   = ~En realidad no me importan sus sentimientos, Ellesime. SÃ³lo dÃ©mela 
 y acabemos con esto.~
 @89   = ~Entonces, supongo que estoy condenada a soportarlo durante toda la 
-eternidad, <CHARNAME>. Esto sólo demuestra que el recuerdo de su cara me 
-verá yendo a la deriva en mis vacíos y destrozados sueños. Cuídate y adiós.~
-@90   = ~ Un extraño encuentro
+eternidad, <CHARNAME>. Esto sÃ³lo demuestra que el recuerdo de su cara me 
+verÃ¡ yendo a la deriva en mis vacÃ­os y destrozados sueÃ±os. CuÃ­date y adiÃ³s.~
+@90   = ~ Un extraÃ±o encuentro
 
 Pensaba que estaba a solas en el bosque, observado solamente por los 
-antiguos ídolos de piedra - los centinelas de Suldanesselar. Pero me 
-equivoqué. Ellesime me siguió desde que partí de la ciudad, sólo para 
-preguntarme una vez más por su difunto amante, y mi peor enemigo... 
-¡Irenicus! Hubiera deseado no aprender nunca su maldito nombre, ya que el 
-mago me persigue incluso después de su caída final al Abismo.
+antiguos Ã­dolos de piedra - los centinelas de Suldanesselar. Pero me 
+equivoquÃ©. Ellesime me siguiÃ³ desde que partÃ­ de la ciudad, sÃ³lo para 
+preguntarme una vez mÃ¡s por su difunto amante, y mi peor enemigo... 
+Â¡Irenicus! Hubiera deseado no aprender nunca su maldito nombre, ya que el 
+mago me persigue incluso despuÃ©s de su caÃ­da final al Abismo.
 
-Mantuvimos una extraña conversación, demasiado breve para que pudiera 
-percibir sus sentimientos por él, pasados o presentes, pero el mero hecho de 
-que tuviera lugar es sorprendente por sí solo... Antes de partir, la sublime 
-reina de Suldanesselar me pidió que aceptara la vieja máscara de Irenicus 
-que encontró en su cara - como recuerdo, me dijo, y también como una manera 
-de librarse del recuerdo de él y de sus crímenes. La rechacé, pero ahora no 
-sé si esa fue una acción inteligente.~
+Mantuvimos una extraÃ±a conversaciÃ³n, demasiado breve para que pudiera 
+percibir sus sentimientos por Ã©l, pasados o presentes, pero el mero hecho de 
+que tuviera lugar es sorprendente por sÃ­ solo... Antes de partir, la sublime 
+reina de Suldanesselar me pidiÃ³ que aceptara la vieja mÃ¡scara de Irenicus 
+que encontrÃ³ en su cara - como recuerdo, me dijo, y tambiÃ©n como una manera 
+de librarse del recuerdo de Ã©l y de sus crÃ­menes. La rechacÃ©, pero ahora no 
+sÃ© si esa fue una acciÃ³n inteligente.~
 @91   = ~Gracias, <CHARNAME>. Casi me siento mejor. Lamento haber pasado una 
 parte de mi carga a tus hombros, mi querido <PRO_RACE>.~ ~Gracias, 
 <CHARNAME>. Casi me siento mejor. Lamento haber pasado una parte de mi carga 
 a tus hombros, mi querida <PRO_RACE>.~
 @92   = ~Pero eres un hombre fuerte, y creo que Jon hubiera deseado que te 
-quedaras su máscara como recuerdo, aunque sólo fuera para recordarte que 
+quedaras su mÃ¡scara como recuerdo, aunque sÃ³lo fuera para recordarte que 
 eres mortal. Que los Seldarine te protejan en tu camino.~ ~Pero eres una 
-mujer fuerte, y creo que Jon hubiera deseado que te quedaras su máscara como 
-recuerdo, aunque sólo fuera para recordarte que eres mortal. Que los 
+mujer fuerte, y creo que Jon hubiera deseado que te quedaras su mÃ¡scara como 
+recuerdo, aunque sÃ³lo fuera para recordarte que eres mortal. Que los 
 Seldarine te protejan en tu camino.~
-@93   = ~Bien, debes apresurarte. ¡Dirígete a los oráculos de inmediato! 
-Tengo el extraño presentimiento de que el bosque ya no es seguro.~
-@94   = ~ Un extraño encuentro
+@93   = ~Bien, debes apresurarte. Â¡DirÃ­gete a los orÃ¡culos de inmediato! 
+Tengo el extraÃ±o presentimiento de que el bosque ya no es seguro.~
+@94   = ~ Un extraÃ±o encuentro
 
 Pensaba que estaba a solas en el bosque, observado solamente por los 
-antiguos ídolos de piedra - los centinelas de Suldanesselar. Pero me 
-equivoqué. Ellesime me siguió desde que partí de la ciudad, sólo para 
-preguntarme una vez más por su difunto amante, y mi peor enemigo... 
-¡Irenicus! Hubiera deseado no aprender nunca su maldito nombre, ya que el 
-mago me persigue incluso después de su caída final al Abismo.
+antiguos Ã­dolos de piedra - los centinelas de Suldanesselar. Pero me 
+equivoquÃ©. Ellesime me siguiÃ³ desde que partÃ­ de la ciudad, sÃ³lo para 
+preguntarme una vez mÃ¡s por su difunto amante, y mi peor enemigo... 
+Â¡Irenicus! Hubiera deseado no aprender nunca su maldito nombre, ya que el 
+mago me persigue incluso despuÃ©s de su caÃ­da final al Abismo.
 
-Mantuvimos una extraña conversación, demasiado breve para que pudiera 
-percibir sus sentimientos por él, pasados o presentes, pero el mero hecho de 
-que tuviera lugar es sorprendente por sí solo... Antes de partir, la sublime 
-reina de Suldanesselar me pidió que aceptara la vieja máscara de Irenicus 
-que encontró en su cara - como recuerdo, me dijo, y también como una manera 
-de librarse del recuerdo de él y de sus crímenes. La acepté, pero ahora no 
-sé si esa fue una acción inteligente. La guardaré en mi mochila, junto a las 
-otras rarezas. Quizás un día rebuscando la encuentre y me eche unas risas 
-recordando todos los problemas que me causó ese hombre.
+Mantuvimos una extraÃ±a conversaciÃ³n, demasiado breve para que pudiera 
+percibir sus sentimientos por Ã©l, pasados o presentes, pero el mero hecho de 
+que tuviera lugar es sorprendente por sÃ­ solo... Antes de partir, la sublime 
+reina de Suldanesselar me pidiÃ³ que aceptara la vieja mÃ¡scara de Irenicus 
+que encontrÃ³ en su cara - como recuerdo, me dijo, y tambiÃ©n como una manera 
+de librarse del recuerdo de Ã©l y de sus crÃ­menes. La aceptÃ©, pero ahora no 
+sÃ© si esa fue una acciÃ³n inteligente. La guardarÃ© en mi mochila, junto a las 
+otras rarezas. QuizÃ¡s un dÃ­a rebuscando la encuentre y me eche unas risas 
+recordando todos los problemas que me causÃ³ ese hombre.
 
-Debo apresurarme. Antes de marcharse, Ellesime me advirtió del peligro que 
-acecha en este anteriormente pacífico bosque. Debo dirigirme a los oráculos 
-sin más demora.~
+Debo apresurarme. Antes de marcharse, Ellesime me advirtiÃ³ del peligro que 
+acecha en este anteriormente pacÃ­fico bosque. Debo dirigirme a los orÃ¡culos 
+sin mÃ¡s demora.~
 
 @191=~Young priestess, Sandrah is your name, yes, dear I know. You are a healer and you will do what <CHARNAME> won't do.~
 @192=~I feel better already. I am sorry for transferring part of my burden onto your shoulders, my dear, but you are strong and I have a feeling that Jon would have liked you to have his mask as a memento, if only to remind you of your own mortality. May the Seldarine guard you on your path.~

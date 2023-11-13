@@ -1,97 +1,97 @@
-@0    = ~Esa fue una cruel decisión, <CHARNAME>... pero era tu elección. 
-Adiós.~ [nymph118]
-@1    = ~Adiós, hijo de dios. Me temo que no te puedo felicitar por el 
-camino que elegiste.~ ~Adiós, hija de dios. Me temo que no te puedo 
+@0    = ~Esa fue una cruel decisiÃ³n, <CHARNAME>... pero era tu elecciÃ³n. 
+AdiÃ³s.~ [nymph118]
+@1    = ~AdiÃ³s, hijo de dios. Me temo que no te puedo felicitar por el 
+camino que elegiste.~ ~AdiÃ³s, hija de dios. Me temo que no te puedo 
 felicitar por el camino que elegiste.~ [nymph210]
-@2    = ~Ah, ahora tu camino es más largo... quizás unos cuantos ciclos 
-vitales más, nada menos. Recuerda que incluso una nueva deidad del Asesinato 
+@2    = ~Ah, ahora tu camino es mÃ¡s largo... quizÃ¡s unos cuantos ciclos 
+vitales mÃ¡s, nada menos. Recuerda que incluso una nueva deidad del Asesinato 
 puede morir y volver a the Great Wheel. Pese a ello, creo que con el tiempo 
-recuperarás tu verdadero yo. Me despido de ti. Me despido de ti también, 
+recuperarÃ¡s tu verdadero yo. Me despido de ti. Me despido de ti tambiÃ©n, 
 Destrozado.~ [nymph319]
-@3    = ~(llora) ¡Ay, qué has hecho, mortal! Has matado el bien latente que 
-existía en el Bebilith... Te agradezco tu ayuda, pero mi corazón quedará 
-sumido para siempre en la tristeza. Nunca me perdonaré haber sido la razón 
+@3    = ~(llora) Â¡Ay, quÃ© has hecho, mortal! Has matado el bien latente que 
+existÃ­a en el Bebilith... Te agradezco tu ayuda, pero mi corazÃ³n quedarÃ¡ 
+sumido para siempre en la tristeza. Nunca me perdonarÃ© haber sido la razÃ³n 
 de este sacrificio...~ [deva3]
-@4    = ~Esa fue una sabia decisión, <CHARNAME>... pero era tu elección. 
+@4    = ~Esa fue una sabia decisiÃ³n, <CHARNAME>... pero era tu elecciÃ³n. 
 Bien, por favor, acepta este regalo de despedida y mis mejores deseos.~ 
 [nymph120]
-@5    = ~Ah, ahora tu camino es más largo... quizás un ciclo vital más. 
+@5    = ~Ah, ahora tu camino es mÃ¡s largo... quizÃ¡s un ciclo vital mÃ¡s. 
 Recuerda que incluso una nueva deidad del Asesinato puede morir y volver a 
-the Great Wheel. Pese a ello, creo que con el tiempo recuperarás tu 
-verdadero yo. Me despido de ti. Me despido de ti también, Destrozado.~ 
+the Great Wheel. Pese a ello, creo que con el tiempo recuperarÃ¡s tu 
+verdadero yo. Me despido de ti. Me despido de ti tambiÃ©n, Destrozado.~ 
 [nymph319]
-@6    = ~(chilla) ¡Ay, qué has hecho, mortal! ¡Lo has matado, matado, has 
-matado a la Deva, lo hiciste! ¡Y ahora Abaia ni siquiera puede seguir a 
-Ybdiel! Él tiene que cuidar de la Chispa.~
+@6    = ~(chilla) Â¡Ay, quÃ© has hecho, mortal! Â¡Lo has matado, matado, has 
+matado a la Deva, lo hiciste! Â¡Y ahora Abaia ni siquiera puede seguir a 
+Ybdiel! Ã‰l tiene que cuidar de la Chispa.~
 @7    = ~Shhh, pobre alma perdida, cuidaremos de ti, y sanaremos tu dolor. 
 Hijo de dios, por favor acepta este arma desterrada como regalo de 
 despedida.~ ~Shhh, pobre alma perdida, cuidaremos de ti, y sanaremos tu 
 dolor. Hija de dios, por favor acepta este arma desterrada como regalo de 
 despedida.~
-@8    = ~Esa fue una pobre decisión, <CHARNAME>... pero era tu elección. 
-Adiós.~ [nymph122]
-@9    = ~Ah, ahora tu camino es más largo... quizás un ciclo vital más. Pese 
-a ello, creo que con el tiempo recuperarás tu verdadero yo. Me despido de 
-ti. Me despido de ti también, Destrozado.~ [nymph319]
+@8    = ~Esa fue una pobre decisiÃ³n, <CHARNAME>... pero era tu elecciÃ³n. 
+AdiÃ³s.~ [nymph122]
+@9    = ~Ah, ahora tu camino es mÃ¡s largo... quizÃ¡s un ciclo vital mÃ¡s. Pese 
+a ello, creo que con el tiempo recuperarÃ¡s tu verdadero yo. Me despido de 
+ti. Me despido de ti tambiÃ©n, Destrozado.~ [nymph319]
 @10   = ~Gracias, <CHARNAME>. Nos has salvado y nos has proporcionado una 
-nueva vida a ambos gracias a tu astucia. Nunca olvidaremos tu cortesía, 
-Sabio. Sólo en el perdón y en la unidad existen la armonía y la vida. La 
-discordia sólo ocasiona más sufrimiento. Por favor, acepta este humilde 
+nueva vida a ambos gracias a tu astucia. Nunca olvidaremos tu cortesÃ­a, 
+Sabio. SÃ³lo en el perdÃ³n y en la unidad existen la armonÃ­a y la vida. La 
+discordia sÃ³lo ocasiona mÃ¡s sufrimiento. Por favor, acepta este humilde 
 regalo de despedida.~ ~Gracias, <CHARNAME>. Nos has salvado y nos has 
 proporcionado una nueva vida a ambos gracias a tu astucia. Nunca olvidaremos 
-tu cortesía, Sabia. Sólo en el perdón y en la unidad existen la armonía y la 
-vida. La discordia sólo ocasiona más sufrimiento. Por favor, acepta este 
+tu cortesÃ­a, Sabia. SÃ³lo en el perdÃ³n y en la unidad existen la armonÃ­a y la 
+vida. La discordia sÃ³lo ocasiona mÃ¡s sufrimiento. Por favor, acepta este 
 humilde regalo de despedida.~ [deva8]
-@11   = ~Esa fue una decisión propia de alguien de sangre divina, 
-<CHARNAME>, y era tu elección. Mis mejores deseos.~ [nymph123]
-@12   = ~Mis mejores deseos, hijo de dios. Me complace tu sabiduría y te 
+@11   = ~Esa fue una decisiÃ³n propia de alguien de sangre divina, 
+<CHARNAME>, y era tu elecciÃ³n. Mis mejores deseos.~ [nymph123]
+@12   = ~Mis mejores deseos, hijo de dios. Me complace tu sabidurÃ­a y te 
 felicito por el camino que elegiste.~ ~ Mis mejores deseos, hija de dios. Me 
-complace tu sabiduría y te felicito por el camino que elegiste.~ [nymph28]
+complace tu sabidurÃ­a y te felicito por el camino que elegiste.~ [nymph28]
 @13   = ~<CHARNAME>, has sobresalido en tu tarea y te agradezco de todo 
-corazón tu amabilidad la cual sólo rivaliza con tu perspicacia.~ [nymph323]
-@14   = ~Puedo ver que portas el don de los Seldarine. En verdad es un día 
+corazÃ³n tu amabilidad la cual sÃ³lo rivaliza con tu perspicacia.~ [nymph323]
+@14   = ~Puedo ver que portas el don de los Seldarine. En verdad es un dÃ­a 
 radiante cuando alguien tan bendecido visita el Reino de la Madre 
-Naturaleza. Déjame añadir la bendición de la Madre Tierra a la de los Dioses 
-Élficos, y que tu camino siempre brille con la verdad y el calor de la luz 
+Naturaleza. DÃ©jame aÃ±adir la bendiciÃ³n de la Madre Tierra a la de los Dioses 
+Ã‰lficos, y que tu camino siempre brille con la verdad y el calor de la luz 
 del sol.~
-@15   = ~ Me despido de ti, <CHARNAME>. Me despido de ti también, 
-Destrozado, y quizás *tu* camino sea acortado por esta breve visita de igual 
+@15   = ~ Me despido de ti, <CHARNAME>. Me despido de ti tambiÃ©n, 
+Destrozado, y quizÃ¡s *tu* camino sea acortado por esta breve visita de igual 
 manera. ~
-@16   = ~Me complace que al final hayas sucumbido a la razón, hijo de dios. 
-Tu nuevo trofeo es mejor que el de dos vidas inútiles. Aún así, desearía no 
-haber tenido que volver aquí - ¡el mero recuerdo de este lugar me pone de 
-los nervios!~ ~ Me complace que al final hayas sucumbido a la razón, hija de 
-dios. Tu nuevo trofeo es mejor que el de dos vidas inútiles. Aún así, 
-desearía no haber tenido que volver aquí - ¡el mero recuerdo de este lugar 
+@16   = ~Me complace que al final hayas sucumbido a la razÃ³n, hijo de dios. 
+Tu nuevo trofeo es mejor que el de dos vidas inÃºtiles. AÃºn asÃ­, desearÃ­a no 
+haber tenido que volver aquÃ­ - Â¡el mero recuerdo de este lugar me pone de 
+los nervios!~ ~ Me complace que al final hayas sucumbido a la razÃ³n, hija de 
+dios. Tu nuevo trofeo es mejor que el de dos vidas inÃºtiles. AÃºn asÃ­, 
+desearÃ­a no haber tenido que volver aquÃ­ - Â¡el mero recuerdo de este lugar 
 me pone de los nervios!~
-@17   = ~Fin de la misión de la Deva
-Después de que el Bebilith loco Abaia me teletransportara al Elíseo fuimos 
-recibidos por un trío de ninfas nativas. Me hicieron algunas preguntas 
-extrañas y después dijeron que había pasado sus pruebas. Siguiendo las 
-instrucciones de Irenicus guardé la chispa... sólo el tiempo dirá si esa 
-decisión fue la más sensata.~
-@18   = ~¿En qué momento sucumbiste a un arrebato sentimental y perdiste la 
-Chispa? ¡Bah! Al menos tu nuevo trofeo es mejor que el de una vida inútil. 
-Aún así, desearía no haber tenido que volver aquí - ¡el mero recuerdo de 
+@17   = ~Fin de la misiÃ³n de la Deva
+DespuÃ©s de que el Bebilith loco Abaia me teletransportara al ElÃ­seo fuimos 
+recibidos por un trÃ­o de ninfas nativas. Me hicieron algunas preguntas 
+extraÃ±as y despuÃ©s dijeron que habÃ­a pasado sus pruebas. Siguiendo las 
+instrucciones de Irenicus guardÃ© la chispa... sÃ³lo el tiempo dirÃ¡ si esa 
+decisiÃ³n fue la mÃ¡s sensata.~
+@18   = ~Â¿En quÃ© momento sucumbiste a un arrebato sentimental y perdiste la 
+Chispa? Â¡Bah! Al menos tu nuevo trofeo es mejor que el de una vida inÃºtil. 
+AÃºn asÃ­, desearÃ­a no haber tenido que volver aquÃ­ - Â¡el mero recuerdo de 
 este lugar me pone de los nervios!~
-@19   = ~ Fin de la misión de la Deva
-Después de que el Bebilith loco Abaia me teletransportara al Elíseo fuimos 
-recibidos por un trío de ninfas nativas. Me hicieron algunas preguntas 
-extrañas y después dijeron que había pasado sus pruebas. Intenté resolver su 
-acertijo lo mejor que pude - mi única esperanza es que 'lo mejor que pude' 
+@19   = ~ Fin de la misiÃ³n de la Deva
+DespuÃ©s de que el Bebilith loco Abaia me teletransportara al ElÃ­seo fuimos 
+recibidos por un trÃ­o de ninfas nativas. Me hicieron algunas preguntas 
+extraÃ±as y despuÃ©s dijeron que habÃ­a pasado sus pruebas. IntentÃ© resolver su 
+acertijo lo mejor que pude - mi Ãºnica esperanza es que 'lo mejor que pude' 
 fuera suficiente.~
-@20   = ~<CHARNAME>, ¿En qué momento sucumbiste a un arrebato sentimental y 
-perdiste la Chispa? ¡Creo que lo hiciste para humillarme todavía más al no 
-seguir mi consejo! No puedo encontrar otra explicación para ese acto 
-irreflexivo. Deja de mirarme con esa estúpida sonrisa en tu cara, y déjame a 
-solas con mis pensamientos - ¡el mero recuerdo de este lugar me pone de los 
+@20   = ~<CHARNAME>, Â¿En quÃ© momento sucumbiste a un arrebato sentimental y 
+perdiste la Chispa? Â¡Creo que lo hiciste para humillarme todavÃ­a mÃ¡s al no 
+seguir mi consejo! No puedo encontrar otra explicaciÃ³n para ese acto 
+irreflexivo. Deja de mirarme con esa estÃºpida sonrisa en tu cara, y dÃ©jame a 
+solas con mis pensamientos - Â¡el mero recuerdo de este lugar me pone de los 
 nervios!~
-@21   = ~ Fin de la misión de la Deva
-Después de que el Bebilith loco Abaia me teletransportara al Elíseo fuimos 
-recibidos por un trío de ninfas nativas. Me hicieron algunas preguntas 
-extrañas y después dijeron que había pasado sus pruebas. Intenté resolver su 
-acertijo lo mejor que pude. La nueva criatura que creé suponía una 
-encantadora aunque ligeramente perturbadora visión. Irenicus experimentó 
-otro arrebato de sarcástica palabrería y me reprochó mis 'patéticos' 
-sentimientos. Algo me dice que aunque he hecho lo correcto - él ya no ha 
+@21   = ~ Fin de la misiÃ³n de la Deva
+DespuÃ©s de que el Bebilith loco Abaia me teletransportara al ElÃ­seo fuimos 
+recibidos por un trÃ­o de ninfas nativas. Me hicieron algunas preguntas 
+extraÃ±as y despuÃ©s dijeron que habÃ­a pasado sus pruebas. IntentÃ© resolver su 
+acertijo lo mejor que pude. La nueva criatura que creÃ© suponÃ­a una 
+encantadora aunque ligeramente perturbadora visiÃ³n. Irenicus experimentÃ³ 
+otro arrebato de sarcÃ¡stica palabrerÃ­a y me reprochÃ³ mis 'patÃ©ticos' 
+sentimientos. Algo me dice que aunque he hecho lo correcto - Ã©l ya no ha 
 sido el mismo desde entonces.~

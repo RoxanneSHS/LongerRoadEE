@@ -1,85 +1,85 @@
-@0    = ~Pourquoi te dissimules-tu sous cette forme tanar'ri, déva ? Tu crois que ton déguisement peut me tromper ? Je peux sentir l'Etincelle d'essence céleste cachée dans ta chair "démoniaque" !~
+@0    = ~Pourquoi te dissimules-tu sous cette forme tanar'ri, dÃ©va ? Tu crois que ton dÃ©guisement peut me tromper ? Je peux sentir l'Etincelle d'essence cÃ©leste cachÃ©e dans ta chair "dÃ©moniaque" !~
 
-@1    = ~Hssss ! Ah ! Laisse tomber ton stupide déguisement, céleste, cette fois tu ne nous échapperas pas. Ta mascarade pourrait tromper un chasseur de tête moins expérimenté, mais je peux voir clairement que le malade que tu portes dans tes mâchoires ne possède pas l'essence d'une déva !~
+@1    = ~Hssss ! Ah ! Laisse tomber ton stupide dÃ©guisement, cÃ©leste, cette fois tu ne nous Ã©chapperas pas. Ta mascarade pourrait tromper un chasseur de tÃªte moins expÃ©rimentÃ©, mais je peux voir clairement que le malade que tu portes dans tes mÃ¢choires ne possÃ¨de pas l'essence d'une dÃ©va !~
 
-@2    = ~Recule, démon ! Je ne te permettrai pas de faire du mal à la déva ou à la bébilith !~
+@2    = ~Recule, dÃ©mon ! Je ne te permettrai pas de faire du mal Ã  la dÃ©va ou Ã  la bÃ©bilith !~
 
-@3    = ~Qui es-tu démon, et qu'as-tu à faire avec ce misérable duo ?~
+@3    = ~Qui es-tu dÃ©mon, et qu'as-tu Ã  faire avec ce misÃ©rable duo ?~
 
-@4    = ~Oh, notre petit espion s'est trouvé un protecteur. Quel est ton profit là-dedans, mortel ?~
+@4    = ~Oh, notre petit espion s'est trouvÃ© un protecteur. Quel est ton profit lÃ -dedans, mortel ?~
 
 @5    = ~Qui es-tu, mortel ?~
 
-@6    = ~Je suis <CHARNAME>, un ami de la déva et de son compagnon bébilith. Je ne te permettrai pas de leur faire du mal !~
+@6    = ~Je suis <CHARNAME>, un ami de la dÃ©va et de son compagnon bÃ©bilith. Je ne te permettrai pas de leur faire du mal !~
 
-@7    = ~Je suis <CHARNAME> et peut-être devrais-*tu* me dire ce que tu veux à la déva et à la bébilith ?~
+@7    = ~Je suis <CHARNAME> et peut-Ãªtre devrais-*tu* me dire ce que tu veux Ã  la dÃ©va et Ã  la bÃ©bilith ?~
 
-@8    = ~Mon identité ne te regarde pas. Que veux-tu à la déva et à la bébilith ?~
+@8    = ~Mon identitÃ© ne te regarde pas. Que veux-tu Ã  la dÃ©va et Ã  la bÃ©bilith ?~
 
-@9    = ~Hss ! La déva ou le démon – je m'en moque ! Je peux sentir l'essence de l'espion qui nous a tourmenté nous et notre seigneur pendant très longtemps et ne serait-ce que pour cela, ils mourront tous les deux de ma main. Nous attendions une opportunité de nous venger de l'espion. Tiens-toi en retrait, mortel ; tu ne peux rien faire pour m'arrêter. Si tu nous combats, tu ne feras que partager son sort. Mais si tu veux marchander, tu pourrais être récompensé... Par mon seigneur.~
+@9    = ~Hss ! La dÃ©va ou le dÃ©mon â€“ je m'en moque ! Je peux sentir l'essence de l'espion qui nous a tourmentÃ© nous et notre seigneur pendant trÃ¨s longtemps et ne serait-ce que pour cela, ils mourront tous les deux de ma main. Nous attendions une opportunitÃ© de nous venger de l'espion. Tiens-toi en retrait, mortel ; tu ne peux rien faire pour m'arrÃªter. Si tu nous combats, tu ne feras que partager son sort. Mais si tu veux marchander, tu pourrais Ãªtre rÃ©compensÃ©... Par mon seigneur.~
 
-@10   = ~Perfide démon ! Je vais t'anéantir !~
+@10   = ~Perfide dÃ©mon ! Je vais t'anÃ©antir !~
 
-@11   = ~Un espion ? La déva a été blessée et est en train de mourir et le démon que tu vois ici a été changé par l'Etincelle céleste qu'il porte en lui. Pourquoi vouloir leur faire du mal ?~
+@11   = ~Un espion ? La dÃ©va a Ã©tÃ© blessÃ©e et est en train de mourir et le dÃ©mon que tu vois ici a Ã©tÃ© changÃ© par l'Etincelle cÃ©leste qu'il porte en lui. Pourquoi vouloir leur faire du mal ?~
 
-@12   = ~(Vous gardez le silence et permettez au démon d'attaquer la bébilith qui porte la déva.)~
+@12   = ~(Vous gardez le silence et permettez au dÃ©mon d'attaquer la bÃ©bilith qui porte la dÃ©va.)~
 
-@13   = ~Hmm. Je pourrais ne pas m'en mêler – Si j'obtiens quelque chose en retour.~
+@13   = ~Hmm. Je pourrais ne pas m'en mÃªler â€“ Si j'obtiens quelque chose en retour.~
 
-@14   = ~Cela ne te regarde pas, mortel ! Il suffit de dire qu'il est intervenu dans nos plans de nombreuses fois et nous a espionné. Maintenant, pousse-toi.~
+@14   = ~Cela ne te regarde pas, mortel ! Il suffit de dire qu'il est intervenu dans nos plans de nombreuses fois et nous a espionnÃ©. Maintenant, pousse-toi.~
 
-@15   = ~Je ne me pousserai pas. Recule ou tu goûteras à la puissance de ma fureur !~
+@15   = ~Je ne me pousserai pas. Recule ou tu goÃ»teras Ã  la puissance de ma fureur !~
 
-@16   = ~(Siffle gaiement) Je n'ai pas envie de céder à tes menaces, yugoloth. Et au fait – T'es moche et ta mère t'habille n'importe comment.~
+@16   = ~(Siffle gaiement) Je n'ai pas envie de cÃ©der Ã  tes menaces, yugoloth. Et au fait â€“ T'es moche et ta mÃ¨re t'habille n'importe comment.~
 
-@17   = ~Hmm. Je pourrais ne pas m'en mêler – Si j'obtiens quelque chose en retour.~
+@17   = ~Hmm. Je pourrais ne pas m'en mÃªler â€“ Si j'obtiens quelque chose en retour.~
 
-@18   = ~Hmm. Tu es puissant, mortel. Je n'ai pas envie de d'affronter en combat – très bien, je vais t'offrir une puissante arme magique en échange de la vie de cette "bébilith". Regarde le travail sur cet arc – n'est-il pas splendide ?~
+@18   = ~Hmm. Tu es puissant, mortel. Je n'ai pas envie de d'affronter en combat â€“ trÃ¨s bien, je vais t'offrir une puissante arme magique en Ã©change de la vie de cette "bÃ©bilith". Regarde le travail sur cet arc â€“ n'est-il pas splendide ?~
 
-@19   = ~J'accepte – Tu peux faire ce que tu veux de la bébilith et de la déva.~
+@19   = ~J'accepte â€“ Tu peux faire ce que tu veux de la bÃ©bilith et de la dÃ©va.~
 
-@20   = ~Ne me fais pas rire, démon. Te tuer sera bien plus amusant.~
+@20   = ~Ne me fais pas rire, dÃ©mon. Te tuer sera bien plus amusant.~
 
-@21   = ~Je te fais une autre offre, maître yugoloth. Je te paierai 20 000 pièces d'or si tu retournes voir ton seigneur et que tu lui dis que tu as vu la déva mourir.~
+@21   = ~Je te fais une autre offre, maÃ®tre yugoloth. Je te paierai 20 000 piÃ¨ces d'or si tu retournes voir ton seigneur et que tu lui dis que tu as vu la dÃ©va mourir.~
 
-@22   = ~Je te fais une autre offre, maître yugoloth. Je te paierai 10 000 pièces d'or si tu retournes voir ton seigneur et que tu lui dis que tu as vu la déva mourir.~
+@22   = ~Je te fais une autre offre, maÃ®tre yugoloth. Je te paierai 10 000 piÃ¨ces d'or si tu retournes voir ton seigneur et que tu lui dis que tu as vu la dÃ©va mourir.~
 
-@23   = ~(Il vous jette un regard rusé) Hmm, le céleste ne survivra pas longtemps dans cet endroit... Tu apprends vite, mortel. Qu'il ne puisse pas être dit qu'on ne peux faire un juste marché avec un yugoloth. C'est d'accord. Donne moi l'or et continues ta route. ~
+@23   = ~(Il vous jette un regard rusÃ©) Hmm, le cÃ©leste ne survivra pas longtemps dans cet endroit... Tu apprends vite, mortel. Qu'il ne puisse pas Ãªtre dit qu'on ne peux faire un juste marchÃ© avec un yugoloth. C'est d'accord. Donne moi l'or et continues ta route. ~
 
-@24   = ~Mais je devrais prétendre que j'aie vu la déva mourir, n'est-ce pas ? Tu vois, tu ne me laisses pas le choix !~
+@24   = ~Mais je devrais prÃ©tendre que j'aie vu la dÃ©va mourir, n'est-ce pas ? Tu vois, tu ne me laisses pas le choix !~
 
-@25   = ~Punis-moi de mon crime si tu veux, mais épargne celui que je soigne ! Il est si faible et désarmé. Laisse Abaia lui faire regagner sa santé. ~
+@25   = ~Punis-moi de mon crime si tu veux, mais Ã©pargne celui que je soigne ! Il est si faible et dÃ©sarmÃ©. Laisse Abaia lui faire regagner sa santÃ©. ~
 
-@26   = ~<CHARNAME>, ne te ridiculise pas en marchandant avec cette créature ! Je l'identifie comme étant un yugoloth supérieur – un infâme protéiforme des plans inférieurs. Je suspecte que ce spécimen particulier est un Nycaloth... Mais je ne veux pas t'ennuyer avec les détails.~
+@26   = ~<CHARNAME>, ne te ridiculise pas en marchandant avec cette crÃ©ature ! Je l'identifie comme Ã©tant un yugoloth supÃ©rieur â€“ un infÃ¢me protÃ©iforme des plans infÃ©rieurs. Je suspecte que ce spÃ©cimen particulier est un Nycaloth... Mais je ne veux pas t'ennuyer avec les dÃ©tails.~
 
-@27   = ~Intéressant. Tu peux m'en dire plus ?~
+@27   = ~IntÃ©ressant. Tu peux m'en dire plus ?~
 
-@28   = ~Tu à l'air de t'y connaître au sujet de ces créatures !~
+@28   = ~Tu Ã  l'air de t'y connaÃ®tre au sujet de ces crÃ©atures !~
 
-@29   = ~Un remarquable acte de modération... Et d'idiotie, si j'ose dire. <CHARNAME>, tu me déçois beaucoup. On aurait pu croire que tu avais appris à voir plus loin que le bout de ton nez depuis longtemps. Maintenant la déva et le démon sont morts nous ne pouvons plus récupérer l'Etincelle. Tu as tout ruiné de la plus maladroite des manières, enfant divin. J'espère vraiment que tu ne feras pas de même avec ma tentative d'obtenir une âme de Rejeton de Bhaal !~
+@29   = ~Un remarquable acte de modÃ©ration... Et d'idiotie, si j'ose dire. <CHARNAME>, tu me dÃ©Ã§ois beaucoup. On aurait pu croire que tu avais appris Ã  voir plus loin que le bout de ton nez depuis longtemps. Maintenant la dÃ©va et le dÃ©mon sont morts nous ne pouvons plus rÃ©cupÃ©rer l'Etincelle. Tu as tout ruinÃ© de la plus maladroite des maniÃ¨res, enfant divin. J'espÃ¨re vraiment que tu ne feras pas de mÃªme avec ma tentative d'obtenir une Ã¢me de Rejeton de Bhaal !~
 
-@30   = ~J'ai décidé de vendre la déva et la bébilith au yugoloth supérieur Garrish. La créature était plutôt généreuse et m'a récompensé avec une belle arme magique, mais Irenicus m'a accusé d'avoir ruiné la quête. Oh bon, on ne peut pas plaire à tout le monde...~
+@30   = ~J'ai dÃ©cidÃ© de vendre la dÃ©va et la bÃ©bilith au yugoloth supÃ©rieur Garrish. La crÃ©ature Ã©tait plutÃ´t gÃ©nÃ©reuse et m'a rÃ©compensÃ© avec une belle arme magique, mais Irenicus m'a accusÃ© d'avoir ruinÃ© la quÃªte. Oh bon, on ne peut pas plaire Ã  tout le monde...~
 
-@31   = ~Ces étranges espèces méprisent le chaos et l'ordre et servent souvent de mercenaires dans la guerre sanglante entre les baatezu et les tanar'ri. Les yugoloth sont caractérisés par leur mépris total pour la loyauté. Un yugoloth trahira toujours ses employeurs contre un meilleur paiement par un autre.~
+@31   = ~Ces Ã©tranges espÃ¨ces mÃ©prisent le chaos et l'ordre et servent souvent de mercenaires dans la guerre sanglante entre les baatezu et les tanar'ri. Les yugoloth sont caractÃ©risÃ©s par leur mÃ©pris total pour la loyautÃ©. Un yugoloth trahira toujours ses employeurs contre un meilleur paiement par un autre.~
 
-@32   = ~Tu connais bien tes livres, mage, mais tu devrais faire attention en répandant ce savoir en ma présence ! Mais je me moque de tes remarques sèches – c'est avec ton chef que je fais affaire.~
+@32   = ~Tu connais bien tes livres, mage, mais tu devrais faire attention en rÃ©pandant ce savoir en ma prÃ©sence ! Mais je me moque de tes remarques sÃ¨ches â€“ c'est avec ton chef que je fais affaire.~
 
-@33   = ~Mortel, c'est un plaisir de faire affaire avec un habitant du plan primaire aussi intelligent que toi ! Voici ta récompense pour avoir été raisonnable.~
+@33   = ~Mortel, c'est un plaisir de faire affaire avec un habitant du plan primaire aussi intelligent que toi ! Voici ta rÃ©compense pour avoir Ã©tÃ© raisonnable.~
 
-@34   = ~<CHARNAME>, tu es un bandit avide sans le moindre honneur ! Je ne resterais pas dans le même groupe que ta répugnante personne !~
+@34   = ~<CHARNAME>, tu es un bandit avide sans le moindre honneur ! Je ne resterais pas dans le mÃªme groupe que ta rÃ©pugnante personne !~
 
-@35   = ~J'ai supporté beaucoup de choses, <CHARNAME>... Mais cette flagrante violation de ta promesse d'aider ces créatures va trop loin. Je pars, et tous ceux qui sont honorables me suivront.~
+@35   = ~J'ai supportÃ© beaucoup de choses, <CHARNAME>... Mais cette flagrante violation de ta promesse d'aider ces crÃ©atures va trop loin. Je pars, et tous ceux qui sont honorables me suivront.~
 
-@36   = ~Non... Tu ne dois pas faire ça ! Tu es une mauvaise, mauvaise personne, <CHARNAME> ! Regarde, même le petit Bouh montre les dents devant tant de fourberie. Et il me dit de t'abandonner à tes perfides habitudes !~
+@36   = ~Non... Tu ne dois pas faire Ã§a ! Tu es une mauvaise, mauvaise personne, <CHARNAME> ! Regarde, mÃªme le petit Bouh montre les dents devant tant de fourberie. Et il me dit de t'abandonner Ã  tes perfides habitudes !~
 
-@37   = ~<CHARNAME> ! Je soupçonne depuis longtemps que tu es une plaie maléfique lâchée sur Féérune. Cette trahison le confirme. Tous ceux qui se dressent pour la vertu me joindront et quitteront ta présence.~
+@37   = ~<CHARNAME> ! Je soupÃ§onne depuis longtemps que tu es une plaie malÃ©fique lÃ¢chÃ©e sur FÃ©Ã©rune. Cette trahison le confirme. Tous ceux qui se dressent pour la vertu me joindront et quitteront ta prÃ©sence.~
 
-@38   = ~<CHARNAME> ! Je ne peux pardonner cette fourberie. Son influence maléfique a clairement plus d'effet sur toi que mes conseils. La déva vient de l'Elysée – le royaume de la terre mère, et le démon aurait pu être guidé à servir la Grande Balance si tu avais montré moins de paresse et plus de prévoyance. Je ne resterai pas à tes cotés un moment de plus !~
+@38   = ~<CHARNAME> ! Je ne peux pardonner cette fourberie. Son influence malÃ©fique a clairement plus d'effet sur toi que mes conseils. La dÃ©va vient de l'ElysÃ©e â€“ le royaume de la terre mÃ¨re, et le dÃ©mon aurait pu Ãªtre guidÃ© Ã  servir la Grande Balance si tu avais montrÃ© moins de paresse et plus de prÃ©voyance. Je ne resterai pas Ã  tes cotÃ©s un moment de plus !~
 
-@39   = ~<CHARNAME> ! En tant que Membre de L'Ordre du Coeur Radieux je ne resterai pas sans rien faire pendant que tu sèmes fourberie et discorde dans ton sillage. Je ne resterai pas plus longtemps en ta compagnie après cet acte de vilénie.~
+@39   = ~<CHARNAME> ! En tant que Membre de L'Ordre du Coeur Radieux je ne resterai pas sans rien faire pendant que tu sÃ¨mes fourberie et discorde dans ton sillage. Je ne resterai pas plus longtemps en ta compagnie aprÃ¨s cet acte de vilÃ©nie.~
 
-@40   = ~Non ! J'ai été blessée par des gens maléfiques avant, mais je n'aurais jamais cru que tu étais de la même race sinistre et insatiable. Je ne peux tolérer la cruauté préméditée. Adieu, <CHARNAME>. J'espère ne plus jamais avoir à te rencontrer.~
+@40   = ~Non ! J'ai Ã©tÃ© blessÃ©e par des gens malÃ©fiques avant, mais je n'aurais jamais cru que tu Ã©tais de la mÃªme race sinistre et insatiable. Je ne peux tolÃ©rer la cruautÃ© prÃ©mÃ©ditÃ©e. Adieu, <CHARNAME>. J'espÃ¨re ne plus jamais avoir Ã  te rencontrer.~
 
-@41   = ~<CHARNAME>, qu-qu'est-ce que tu fais ?! Tu... Tu voudrais trahir à la fois la déva et le pauvre démon qui veut servir le bien ? Mais... Pourquoi ? La magie de cet objet sans importance te serait-elle montée à la tête ?~
+@41   = ~<CHARNAME>, qu-qu'est-ce que tu fais ?! Tu... Tu voudrais trahir Ã  la fois la dÃ©va et le pauvre dÃ©mon qui veut servir le bien ? Mais... Pourquoi ? La magie de cet objet sans importance te serait-elle montÃ©e Ã  la tÃªte ?~
 
-@42   = ~<CHARNAME>, serais-tu devenu cinglé pendant que je regardais ailleurs ? Pourquoi agis-tu de la sorte ? Je... Je n'aurais jamais cru que tu pouvais être si... Si tordu. Beurk ! Ça doit être *son* influence, j'en suis sûre !~
+@42   = ~<CHARNAME>, serais-tu devenu cinglÃ© pendant que je regardais ailleurs ? Pourquoi agis-tu de la sorte ? Je... Je n'aurais jamais cru que tu pouvais Ãªtre si... Si tordu. Beurk ! Ã‡a doit Ãªtre *son* influence, j'en suis sÃ»re !~
