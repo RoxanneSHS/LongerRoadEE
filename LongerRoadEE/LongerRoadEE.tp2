@@ -1,7 +1,7 @@
 BACKUP ~LongerRoadEE/backup~
 //AUTHOR ~ladydorotea@hotmail.com~
 SUPPORT ~https://github.com/RoxanneSHS/LongerRoadEE~
-VERSION ~1.9.3~
+VERSION ~1.9.4~
 
 ALLOW_MISSING ~ar3003.bcs~
 ALLOW_MISSING ~ar5502.bcs~
@@ -34,6 +34,10 @@ LANGUAGE ~Russian (by Arcanecoast.ru)~
 LANGUAGE ~Chinese (by wuxiangjinxing)~
          ~chinese~
          ~LongerRoadEE/tra/chinese/setup.tra~
+
+LANGUAGE ~Portuguese (by Darth Nihilus530)~
+         ~Portuguese~
+         ~LongerRoadEE/tra/Portuguese/setup.tra~
 
 ///////////////////////////////////////////////////////////////////////
 ///////////////////////////////////////////////////////////////////////
